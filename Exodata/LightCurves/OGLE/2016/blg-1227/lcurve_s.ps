@@ -1,0 +1,1035 @@
+%!
+%%Title: Lick Mongo 1990 (proto Touva)
+%%Creator:  ogle@sirius                             
+%%CreationDate:  Thu 2016 Sep 29 01:01:43                
+%%Pages: 1
+%%BoundingBox:      0     0   612   792
+%%DocumentFonts: (atend)
+%%EndComments
+ 0.5 setlinewidth
+ 1 setlinecap
+ 1 setlinejoin
+ /NewCenturySchlbk-Roman findfont 15 scalefont setfont
+/L {lineto} bind def /M {moveto} bind def
+/CLR000 { 1.000 1.000 1.000 setrgbcolor} bind def
+/CLR001 { 0.000 0.000 0.000 setrgbcolor} bind def
+%%EndProlog
+%%BeginSetup
+%%BeginPaperSize: letter
+userdict /lettertray known { %if
+    {lettertray} stopped not
+}{ %else
+    false
+} ifelse
+ /ustray exch def
+%%EndPaperSize
+%%EndSetup
+%%Page: 1 1
+/TuvLand false def
+ clippath pathbbox gt
+ TuvLand xor
+ systemdict /setprintermatch known not and
+%{0    612 translate -90 rotate} if pop pop
+ newpath
+  100.00   100.00 M
+  500.00   100.00 L
+  113.86   100.00 M
+  113.86   115.00 L
+  129.43   100.00 M
+  129.43   107.50 L
+  145.00   100.00 M
+  145.00   107.50 L
+  160.57   100.00 M
+  160.57   107.50 L
+  176.14   100.00 M
+  176.14   107.50 L
+  191.71   100.00 M
+  191.71   115.00 L
+  207.28   100.00 M
+  207.28   107.50 L
+  222.85   100.00 M
+  222.85   107.50 L
+  238.42   100.00 M
+  238.42   107.50 L
+  253.99   100.00 M
+  253.99   107.50 L
+  269.56   100.00 M
+  269.56   115.00 L
+  285.13   100.00 M
+  285.13   107.50 L
+  300.70   100.00 M
+  300.70   107.50 L
+  316.27   100.00 M
+  316.27   107.50 L
+  331.84   100.00 M
+  331.84   107.50 L
+  347.41   100.00 M
+  347.41   115.00 L
+  362.98   100.00 M
+  362.98   107.50 L
+  378.55   100.00 M
+  378.55   107.50 L
+  394.12   100.00 M
+  394.12   107.50 L
+  409.70   100.00 M
+  409.70   107.50 L
+  425.27   100.00 M
+  425.27   115.00 L
+  440.84   100.00 M
+  440.84   107.50 L
+  456.41   100.00 M
+  456.41   107.50 L
+  471.98   100.00 M
+  471.98   107.50 L
+  487.55   100.00 M
+  487.55   107.50 L
+ stroke
+ /MongoNormalFont /NewCenturySchlbk-Roman def % Mongo default font
+ /MongoGreekFont /Symbol def     % Mongo Greek font
+ FontDirectory /ZapfChancery-MediumItalic known
+ {/MongoScriptFont /ZapfChancery-MediumItalic def}       % Mongo Script on NTX
+ {/MongoScriptFont /Times-Roman def}                     % Mongo Serif
+ ifelse
+ /MongoTinyFont /Courier def     % Mongo Typewriter font
+ /MongoLabelDict 70 dict def
+ % Put a bunch of variables into our own dictionary
+ /MongoLabelStartup {
+ MongoLabelDict begin
+ /ptsize 0 def                   % Text point size passed to MongoPutlabel
+ /rotcode 0 def                  % Rotation angle passed to MongoPutlabel
+ /hpos 0 def                     % Horizontal position passed to MongoPutlabel
+ /vpos 0 def                     % Vertical position passed to MongoPutlabel
+ /modechar 92 def                % The backslash = 92
+ /modecount 0 def                % Counts occurances of modechar
+ /mode 0 def                     % 0 = normal mode
+ 				% 1 = Special font for 1 character
+ 				% 2 = Special font permanent
+ /submode 0 def                  % 0 = not super/sub
+ 				% 1 = super/sub for 1 character
+ 				% 2 = super/sub permanent
+ /superlevel 0 def               % super/sub level counter
+ 				% >0 means superscript
+ 				% <0 means subscript
+ /supershift 0.55 def            % Percent of font height to shift super/sub
+ /superscale 1.67 def            % Font scale factor for super/sub
+ /voff 0 def                     % Vertical offset for super/sub
+ /curpt 1 def                    % Current font scale factor
+ /curheight 1 def                % Height of font with current scaling
+ /fontnum 0 def                  % 0 = normal font
+ 				% 1 = Roman font
+ 				% 2 = Greek font
+ 				% 3 = Script font
+ 				% 4 = Tiny font
+ /italmode 0 def                 % 0 = not italicized
+ 				% 1 = italicized 1 char
+ 				% 2 = italicized permanent
+ /literalmode 0 def              % Set for literal octal code evaluation
+ /cfontnum 0 def                 % Current font number
+ /citalang 0 def                 % Last angle for italics mode
+ /cptsize 0 def                  % Last point size used
+ /italang 0 def                  % New angle for italics mode
+ /tanang 20 dup sin exch cos div def % Tangent of italics angle
+ /fsize 0 def                    % Temporary for font scale
+ /xlen 0 def                     % Length of string in points
+ /ylen 0 def                     % Height of string in points
+ /xadj 0 def                     % Text horizontal offset
+ /yadj 0 def                     % Text vertical offset
+ /romanchar (r) 0 get def        % Character value for Roman font mode
+ /greekchar (g) 0 get def        % Character value for Greek font mode
+ /italchar (i) 0 get def         % Character value for italics mode
+ /scriptchar (s) 0 get def       % Character value for script font
+ /tinychar (t) 0 get def         % Character value for tiny font
+ /usuperchar (U) 0 get def        % Character value for superscript mode
+ /usubchar (D) 0 get def          % Character value for subscript mode
+ /superchar (u) 0 get def        % Character value for superscript mode
+ /subchar (d) 0 get def          % Character value for subscript mode
+ /zerochar (0) 0 get def         % 0 character code
+ /sevenchar (7) 0 get def        % 7 character code
+ /xjustcode 0 def                % Horizontal centering code
+ /yjustcode 0 def                % Vertical centering code
+ /ybot 0 def                     % Bottom of text
+ /ycen 0 def                     % Center of text
+ /ycap 0 def                     % Top of capital letters
+ /ytop 0 def                     % Top of font
+ /charcode 0 def                 % Used by dochar routine
+ /charval 0 def                  % Used by dochar to build literal code values
+ /debugline 720 def
+ % enter with (string)
+ %/debug {
+ %       gsave
+ %       72 debugline translate
+ %       0 0 moveto
+ %       show
+ %       grestore
+ %       /debugline debugline 20 sub def
+ %} def
+ % Print the string on the stack
+ /doprint {
+ 	gsave
+ 	hpos vpos translate
+ 	rotcode rotate
+ 	xadj xlen add yadj voff add moveto
+ 	show
+ 	grestore
+ } def
+ % Determine the text adjustment parameters based on the centering code
+ /SetXYadj {
+ %       /yadj                           % First vertical centering
+ %       justcode 4 lt
+ %               {ylen neg def}
+ %               {justcode 7 lt
+ %                       {ylen -2 div def}
+ %                       {0 def}
+ %                ifelse}
+ %       ifelse
+ %       /xadj                           % Then horizontal centering
+ %       justcode 2 add 3 mod 0 eq
+ %               {xlen neg def}
+ %               {justcode 1 add 3 mod 0 eq
+ %                       {xlen -2 div def}
+ %                       {0 def}
+ %                ifelse}
+ %       ifelse
+ 	/yadj                           % First vertical centering
+ 	yjustcode -2 eq
+ 		{ybot}
+ 		{yjustcode -1 eq
+ 			{0}
+ 			{yjustcode 0 eq
+ 				{ycen}
+ 				{yjustcode 1 eq
+ 					{ycap}
+ 					{ytop}
+ 				 ifelse}
+ 			 ifelse}
+ 		 ifelse}
+ 	ifelse
+ 	neg def
+ 	/xadj                           % Then horizontal centering
+ 	xjustcode 1 add xlen mul -2 div def
+ } def
+ % Define the current font and save the specifications for the font
+ % Enter with font name and scale on the stack
+ /DoFont {
+ 	/cptsize exch def               % Save font scale
+ 	/cfontnum fontnum def           % Save Current font number
+ 	/citalang italang def           % Save italics angle
+ %       Now create the new current font
+ 	findfont [ cptsize 0 italang cptsize 0 0 ] makefont setfont
+ } def
+ % Set the italics angle and call DoFont if a new font is needed
+ % Enter with font name and scale on the stack
+ % italang is set to the fontscale * tan(italics angle)
+ /SetupFont {
+ 	dup /italang exch
+ 	italmode 0 ne
+ 		{ tanang mul def}       % tan(angle) * scale
+ 		{ pop 0 def}            % 0 degree (not italic)
+ 	ifelse
+ 	dup
+ 	fontnum cfontnum eq exch        % Did font change?
+ 	italang citalang eq exch        % Did italic state change?
+ 	cptsize eq                      % Did point size change?
+ 	and and
+ 		{pop pop}               % Nothing changed - just clean up
+ 		{DoFont}                % Set a new font
+ 	ifelse
+ } def
+ % Select a font based on the font number
+ /SelectFont {
+ 	ptsize curpt mul                % Scale to default point size
+ 	fontnum 0 eq
+ 		{MongoNormalFont exch SetupFont}
+ 		{fontnum 1 eq
+ 			{MongoGreekFont exch SetupFont}
+ 			{fontnum 2 eq
+ 				{MongoScriptFont exch SetupFont}
+ %                               {MongoTinyFont exch 0.5 mul SetupFont}
+ %       The tiny font is really the typewriter font, same size as all
+ 				{MongoTinyFont exch SetupFont}
+ 			 ifelse}
+ 		 ifelse}
+ 	ifelse
+ } def
+ % Enter with character code on the stack
+ /dochar {
+ 	/charcode exch def              % Save the character code
+ 	literalmode 0 ne
+ 		{literalmode 3 eq
+ 			{/charval 0 def}
+ 		 if
+ 		/charval charval 8 mul charcode zerochar sub 7 and add def
+ 		/literalmode literalmode 1 sub def
+ 		literalmode 0 eq
+ 			{/charcode charval def}
+ 		if
+ 	} if
+ 	literalmode 0 eq
+ 	{
+ 	SelectFont                      % Check and set font
+ 	/thechar ( ) dup 0 charcode put def % Generate 1-character string
+ 	printit 1 eq {thechar doprint} if       % Print it if required
+ 	thechar stringwidth             % Get its width
+ 	pop xlen add /xlen exch def     % Add it to total string width
+ %       Reset various modes if turned on for a single character
+ 	italmode 1 eq {/italmode 0 def} if
+ 	submode 1 eq {-1 SetSuperSub /submode 0 def} if
+ 	submode -1 eq {1 SetSuperSub /submode 0 def} if
+ 	mode 1 eq {/fontnum 0 def /mode 0 def} if
+ 	} if
+ } def
+ % Compute current height of the font (assumed to be height of '[')
+ /GetCurheight {
+ 	gsave
+ 	newpath
+ 	0 0 moveto
+ 	([) true charpath flattenpath pathbbox
+ 	/ycap exch def pop /ybot exch def pop
+ 	/ytop ptsize ybot add def
+ 	/ycen ycap 2 div def
+ %       exch pop sub neg exch pop
+ 	ycap ybot sub
+ 	grestore
+ } def
+ % Increment the modecount unless it will become too big.
+ /countmode {
+ 	modecount 1 gt
+ 		{modechar dochar        % An error - print a backslash
+ 		/modecount 0 def}
+ 		{/modecount modecount 1 add def}
+ 		ifelse
+ } def
+ /ResetModecount {
+ 	/mode modecount def
+ 	/modecount 0 def
+ } def
+ % Turn italics mode on for one character, or permanently, or turn it off.
+ /SetItalmode {
+ %       (In SetItalmode) debug
+ 	modecount 1 eq
+ 		{italmode 2 ne {/italmode 1 def} if} % On for one char
+ 		{italmode 2 eq
+ 			{/italmode 0 def}       % Turn off
+ 			{/italmode 2 def}       % On permanently
+ 		ifelse}
+ 	ifelse
+ 	/modecount 0 def
+ } def
+ % Enter with superlevel increment (+1 or -1) on the stack
+ /SetSuperSub {
+ %       Here we compute the new vertical offset and font scale factor
+ 	dup 0 gt
+ 		{
+ 		/voff voff supershift curheight curpt mul mul add def
+ 		superlevel 0 ge
+ 			{/curpt curpt superscale div def}
+ 			{/curpt curpt superscale mul def}
+ 		ifelse
+ 		}
+ 		{
+ 		superlevel 0 gt
+ 			{/curpt curpt superscale mul def}
+ 			{/curpt curpt superscale div def}
+ 		ifelse
+ 		/voff voff supershift curheight curpt mul mul sub def
+ 		}
+ 	ifelse
+ 	dup superlevel add /superlevel exch def
+ 	modecount mul /submode exch def
+ 	/modecount 0 def
+ } def
+ % Check for control characters.
+ /setmode {
+ 	c romanchar eq
+ 	    {/fontnum 0 def ResetModecount}
+ 	    {c greekchar eq
+ 		{/fontnum 1 def ResetModecount}
+ 		{c scriptchar eq
+ 		    {/fontnum 2 def ResetModecount}
+ 		    {c tinychar eq
+ 			{/fontnum 3 def ResetModecount}
+ 			{c italchar eq
+ 			    {SetItalmode}
+ 			    {c superchar eq c usuperchar eq or
+ 				{1 SetSuperSub}
+ 				{c subchar eq c usubchar eq or
+ 				    {-1 SetSuperSub}
+ 				    {c zerochar ge c sevenchar le and
+ 					{/literalmode 3 def
+ 					 c dochar
+ 					 /modecount 0 def}
+ 					{1 1 modecount {modechar dochar} for
+ 					 c dochar}
+ 				    ifelse}
+ 				ifelse}
+ 			    ifelse}
+ 			ifelse}
+ 		    ifelse}
+ 		ifelse}
+ 	    ifelse}
+ 	ifelse
+ } def
+ % Enter with string on the stack
+ /MongoStringWidth {
+     {
+ 	/c exch def             % Put character code in c
+ 	c modechar eq           % Check for backslash
+ 		{countmode}     % Backslash seen - Bump count
+ 		{modecount 0 gt % No backslash
+ 			{setmode}  %But backslash recently seen - Set new mode
+ 			{c dochar} % Regular character
+ 		ifelse}
+ 	ifelse
+     } forall
+ } def
+ % Called to reset a few things for each pass through MongoStringWidth
+ /InitAll {
+ 	/italang 0 def
+ 	/italmode 0 def
+ 	/xlen 0 def
+ 	/submode 0 def
+ 	/superlevel 0 def
+ 	/mode 0 def
+ 	/modecount 0 def
+ 	/voff 0 def
+ 	/curpt 1 def
+ 	/fontnum 0 def
+ 	/literalmode 0 def
+ 	MongoNormalFont ptsize DoFont
+ } def
+ end
+ } def
+ % Input:
+ %       hpos vpos xjust yjust rot ptsize (text) putlabel
+ /MongoPutlabel {
+ 	gsave
+ 	MongoLabelStartup               % Set up our dictionary
+ 	MongoLabelDict begin            % Invoke our dictionary
+ 	/textstr exch def               % Save all parameters - the text
+ 	/ptsize exch def                % Point size of characters
+ 	/rotcode exch def               % Rotation angle
+ 	/yjustcode exch def             % Justification code vertically
+ 	/xjustcode exch def             % Justification code horizontally
+ 	/vpos exch def                  % Vertical position
+ 	/hpos exch def                  % Horizontal position
+ 	InitAll                         % Initialize a few critical values
+ 	/curheight GetCurheight def     % Find character height
+ 	/ylen curheight def             % Height of string in points
+ 	/printit 0 def                  % First pass just get length
+ 	textstr MongoStringWidth        % Do it!
+ 	SetXYadj                        % Compute text centering values
+ 	InitAll                         % Reset critical values again
+ 	/printit 1 def                  % Now print
+ 	textstr MongoStringWidth        % DO IT!!
+ 	end                             % Pop dictionary
+ 	grestore
+ } def
+  113.9   85.0    0.0   0      0.00     15.00 (7550) MongoPutlabel
+  191.7   85.0    0.0   0      0.00     15.00 (7555) MongoPutlabel
+  269.6   85.0    0.0   0      0.00     15.00 (7560) MongoPutlabel
+  347.4   85.0    0.0   0      0.00     15.00 (7565) MongoPutlabel
+  425.3   85.0    0.0   0      0.00     15.00 (7570) MongoPutlabel
+ newpath
+  100.00   400.00 M
+  500.00   400.00 L
+  113.86   400.00 M
+  113.86   385.00 L
+  129.43   400.00 M
+  129.43   392.50 L
+  145.00   400.00 M
+  145.00   392.50 L
+  160.57   400.00 M
+  160.57   392.50 L
+  176.14   400.00 M
+  176.14   392.50 L
+  191.71   400.00 M
+  191.71   385.00 L
+  207.28   400.00 M
+  207.28   392.50 L
+  222.85   400.00 M
+  222.85   392.50 L
+  238.42   400.00 M
+  238.42   392.50 L
+  253.99   400.00 M
+  253.99   392.50 L
+  269.56   400.00 M
+  269.56   385.00 L
+  285.13   400.00 M
+  285.13   392.50 L
+  300.70   400.00 M
+  300.70   392.50 L
+  316.27   400.00 M
+  316.27   392.50 L
+  331.84   400.00 M
+  331.84   392.50 L
+  347.41   400.00 M
+  347.41   385.00 L
+  362.98   400.00 M
+  362.98   392.50 L
+  378.55   400.00 M
+  378.55   392.50 L
+  394.12   400.00 M
+  394.12   392.50 L
+  409.70   400.00 M
+  409.70   392.50 L
+  425.27   400.00 M
+  425.27   385.00 L
+  440.84   400.00 M
+  440.84   392.50 L
+  456.41   400.00 M
+  456.41   392.50 L
+  471.98   400.00 M
+  471.98   392.50 L
+  487.55   400.00 M
+  487.55   392.50 L
+  100.00   100.00 M
+  100.00   400.00 L
+  100.00   103.19 M
+  107.50   103.19 L
+  100.00   119.15 M
+  107.50   119.15 L
+  100.00   135.11 M
+  107.50   135.11 L
+  100.00   151.06 M
+  107.50   151.06 L
+  100.00   167.02 M
+  115.00   167.02 L
+  100.00   182.98 M
+  107.50   182.98 L
+  100.00   198.94 M
+  107.50   198.94 L
+  100.00   214.89 M
+  107.50   214.89 L
+  100.00   230.85 M
+  107.50   230.85 L
+  100.00   246.81 M
+  115.00   246.81 L
+  100.00   262.77 M
+  107.50   262.77 L
+  100.00   278.72 M
+  107.50   278.72 L
+  100.00   294.68 M
+  107.50   294.68 L
+  100.00   310.64 M
+  107.50   310.64 L
+  100.00   326.60 M
+  115.00   326.60 L
+  100.00   342.55 M
+  107.50   342.55 L
+  100.00   358.51 M
+  107.50   358.51 L
+  100.00   374.47 M
+  107.50   374.47 L
+  100.00   390.43 M
+  107.50   390.43 L
+ stroke
+   92.5  167.0    1.0   0      0.00     15.00 (17.5) MongoPutlabel
+   92.5  246.8    1.0   0      0.00     15.00 (17) MongoPutlabel
+   92.5  326.6    1.0   0      0.00     15.00 (16.5) MongoPutlabel
+ newpath
+  500.00   100.00 M
+  500.00   400.00 L
+  500.00   103.19 M
+  492.50   103.19 L
+  500.00   119.15 M
+  492.50   119.15 L
+  500.00   135.11 M
+  492.50   135.11 L
+  500.00   151.06 M
+  492.50   151.06 L
+  500.00   167.02 M
+  485.00   167.02 L
+  500.00   182.98 M
+  492.50   182.98 L
+  500.00   198.94 M
+  492.50   198.94 L
+  500.00   214.89 M
+  492.50   214.89 L
+  500.00   230.85 M
+  492.50   230.85 L
+  500.00   246.81 M
+  485.00   246.81 L
+  500.00   262.77 M
+  492.50   262.77 L
+  500.00   278.72 M
+  492.50   278.72 L
+  500.00   294.68 M
+  492.50   294.68 L
+  500.00   310.64 M
+  492.50   310.64 L
+  500.00   326.60 M
+  485.00   326.60 L
+  500.00   342.55 M
+  492.50   342.55 L
+  500.00   358.51 M
+  492.50   358.51 L
+  500.00   374.47 M
+  492.50   374.47 L
+  500.00   390.43 M
+  492.50   390.43 L
+ stroke
+  300.0  422.5    0.0   0      0.00     15.00 (OGLE-2016-BLG-1227) MongoPutlabel
+  300.0   70.0    0.0   2      0.00     15.00 (HJD - 2450000) MongoPutlabel
+   46.0  250.0    0.0   0     90.00     15.00 (I magnitude) MongoPutlabel
+ % DoDot Macro
+ /DoDotDict 20 dict def
+ /DoDot {
+ DoDotDict begin
+ /expand exch def /ptype exch def
+ /nvert exch def /rot exch def
+ /ydot exch def /xdot exch def
+ gsave
+ xdot ydot translate
+ rot rotate
+ % set default point radius
+ /orad 5.0 expand mul def
+ % set stellated inner radius
+ /irad 1.25 expand mul def
+ /dang 360. nvert div def
+ /bang -90. dang 0.5 mul add def
+ /eang 270. dang 0.5 mul sub def
+ /xv orad bang cos mul def
+ /yv orad bang sin mul def
+ newpath xv yv moveto
+ ptype 0 eq ptype 3 eq or {
+ bang dang add dang eang {dup sin exch cos
+ /xv exch orad mul def
+ /yv exch orad mul def
+ xv yv lineto } for
+ closepath
+ ptype 0 eq {stroke} if
+ ptype 3 eq {gsave
+ 0 setgray fill grestore}
+ if} if
+ ptype 1 eq {
+ bang dang add dang eang {dup sin exch cos
+ /xv exch orad mul def
+ /yv exch orad mul def
+ 0 0 lineto xv yv moveto } for
+ 0 0 lineto stroke} if
+ ptype 2 eq {/hang dang 0.5 mul def
+ bang dang eang {dup hang add dup sin exch cos
+ /xv exch irad mul def
+ /yv exch irad mul def
+ xv yv lineto
+ dang add dup sin exch cos
+ /xv exch orad mul def
+ /yv exch orad mul def
+ xv yv lineto } for
+ stroke}if
+ grestore end } def
+ %
+newpath
+   100.00    100.00 M
+   500.00    100.00 L
+   500.00    400.00 L
+   100.00    400.00 L
+closepath clip
+    61.36   218.40     0.00  10  3     0.40 DoDot
+    76.31   213.30     0.00  10  3     0.40 DoDot
+    93.17   216.49     0.00  10  3     0.40 DoDot
+   111.40   214.89     0.00  10  3     0.40 DoDot
+   126.63   213.94     0.00  10  3     0.40 DoDot
+   200.32   232.93     0.00  10  3     0.40 DoDot
+   205.57   236.60     0.00  10  3     0.40 DoDot
+   236.26   257.02     0.00  10  3     0.40 DoDot
+   295.42   332.82     0.00  10  3     0.40 DoDot
+   310.84   333.30     0.00  10  3     0.40 DoDot
+   376.09   240.59     0.00  10  3     0.40 DoDot
+   390.79   232.13     0.00  10  3     0.40 DoDot
+   406.34   225.43     0.00  10  3     0.40 DoDot
+   422.18   217.77     0.00  10  3     0.40 DoDot
+   512.29   214.42     0.00  10  3     0.40 DoDot
+   512.51   211.22     0.00  10  3     0.40 DoDot
+   528.23   216.17     0.00  10  3     0.40 DoDot
+   575.27   212.82     0.00  10  3     0.40 DoDot
+    61.36   215.69     0.00   2  0     0.40 DoDot
+    76.31   210.11     0.00   2  0     0.40 DoDot
+    93.17   214.89     0.00   2  0     0.40 DoDot
+ newpath
+  111.40   214.89 M
+  111.40   212.66 L
+   111.40   212.66     0.00   2  0     0.40 DoDot
+  126.63   213.94 M
+  126.63   211.54 L
+   126.63   211.54     0.00   2  0     0.40 DoDot
+  200.32   232.93 M
+  200.32   230.37 L
+   200.32   230.37     0.00   2  0     0.40 DoDot
+  205.57   236.60 M
+  205.57   234.68 L
+   205.57   234.68     0.00   2  0     0.40 DoDot
+  236.26   257.02 M
+  236.26   254.79 L
+   236.26   254.79     0.00   2  0     0.40 DoDot
+  295.42   332.82 M
+  295.42   331.38 L
+   295.42   331.38     0.00   2  0     0.40 DoDot
+  310.84   333.30 M
+  310.84   331.86 L
+   310.84   331.86     0.00   2  0     0.40 DoDot
+  376.09   240.59 M
+  376.09   237.55 L
+   376.09   237.55     0.00   2  0     0.40 DoDot
+  390.79   232.13 M
+  390.79   229.73 L
+   390.79   229.73     0.00   2  0     0.40 DoDot
+  406.34   225.43 M
+  406.34   222.87 L
+   406.34   222.87     0.00   2  0     0.40 DoDot
+  422.18   217.77 M
+  422.18   215.69 L
+   422.18   215.69     0.00   2  0     0.40 DoDot
+   512.29   211.54     0.00   2  0     0.40 DoDot
+   512.51   208.67     0.00   2  0     0.40 DoDot
+   528.23   214.10     0.00   2  0     0.40 DoDot
+   575.27   210.43     0.00   2  0     0.40 DoDot
+    61.36   221.12     0.00   2  0     0.40 DoDot
+    76.31   216.49     0.00   2  0     0.40 DoDot
+    93.17   218.09     0.00   2  0     0.40 DoDot
+  111.40   214.89 M
+  111.40   217.13 L
+   111.40   217.13     0.00   2  0     0.40 DoDot
+  126.63   213.94 M
+  126.63   216.33 L
+   126.63   216.33     0.00   2  0     0.40 DoDot
+  200.32   232.93 M
+  200.32   235.48 L
+   200.32   235.48     0.00   2  0     0.40 DoDot
+  205.57   236.60 M
+  205.57   238.51 L
+   205.57   238.51     0.00   2  0     0.40 DoDot
+  236.26   257.02 M
+  236.26   259.26 L
+   236.26   259.26     0.00   2  0     0.40 DoDot
+  295.42   332.82 M
+  295.42   334.26 L
+   295.42   334.26     0.00   2  0     0.40 DoDot
+  310.84   333.30 M
+  310.84   334.73 L
+   310.84   334.73     0.00   2  0     0.40 DoDot
+  376.09   240.59 M
+  376.09   243.62 L
+   376.09   243.62     0.00   2  0     0.40 DoDot
+  390.79   232.13 M
+  390.79   234.52 L
+   390.79   234.52     0.00   2  0     0.40 DoDot
+  406.34   225.43 M
+  406.34   227.98 L
+   406.34   227.98     0.00   2  0     0.40 DoDot
+  422.18   217.77 M
+  422.18   219.84 L
+   422.18   219.84     0.00   2  0     0.40 DoDot
+   512.29   217.29     0.00   2  0     0.40 DoDot
+   512.51   213.78     0.00   2  0     0.40 DoDot
+   528.23   218.24     0.00   2  0     0.40 DoDot
+   575.27   215.21     0.00   2  0     0.40 DoDot
+ stroke
+/CLR005 { 1.000 0.000 1.000 setrgbcolor} bind def
+CLR005
+ newpath
+  100.05   214.73 M
+  101.39   214.89 L
+  102.72   214.89 L
+  104.05   215.05 L
+  105.39   215.05 L
+  106.72   215.05 L
+  108.05   215.21 L
+  109.39   215.21 L
+  110.72   215.37 L
+  112.05   215.37 L
+  113.39   215.53 L
+  114.72   215.53 L
+  116.05   215.69 L
+  117.39   215.69 L
+  118.72   215.85 L
+  120.06   215.85 L
+  121.39   216.01 L
+  122.72   216.17 L
+  124.05   216.17 L
+  125.39   216.33 L
+  126.72   216.33 L
+  128.05   216.49 L
+  129.38   216.65 L
+  130.71   216.65 L
+  132.05   216.81 L
+  133.38   216.97 L
+  134.71   217.13 L
+  136.05   217.13 L
+  137.38   217.29 L
+  138.71   217.45 L
+  140.05   217.61 L
+  141.38   217.77 L
+  142.72   217.93 L
+  144.05   217.93 L
+  145.38   218.09 L
+  146.72   218.24 L
+  148.05   218.40 L
+  149.38   218.56 L
+  150.72   218.72 L
+  152.05   219.04 L
+  153.38   219.20 L
+  154.72   219.36 L
+  156.05   219.52 L
+  157.38   219.68 L
+  158.72   220.00 L
+  160.05   220.16 L
+  161.38   220.32 L
+  162.71   220.64 L
+  164.05   220.80 L
+  165.38   221.12 L
+  166.71   221.28 L
+  168.04   221.60 L
+  169.38   221.76 L
+  170.71   222.07 L
+  172.04   222.39 L
+  173.38   222.55 L
+  174.71   222.87 L
+  176.04   223.19 L
+  177.38   223.51 L
+  178.71   223.83 L
+  180.04   224.15 L
+  181.38   224.47 L
+  182.71   224.95 L
+  184.05   225.27 L
+  185.38   225.59 L
+  186.71   226.06 L
+  188.05   226.38 L
+  189.38   226.86 L
+  190.71   227.34 L
+  192.05   227.66 L
+  193.38   228.14 L
+  194.71   228.62 L
+  196.04   229.10 L
+  197.38   229.73 L
+  198.71   230.21 L
+  200.04   230.69 L
+  201.37   231.33 L
+  202.71   231.81 L
+  204.04   232.45 L
+  205.37   233.09 L
+  206.71   233.72 L
+  208.04   234.36 L
+  209.37   235.00 L
+  210.71   235.80 L
+  212.04   236.44 L
+  213.37   237.23 L
+  214.71   238.03 L
+  216.04   238.83 L
+  217.37   239.63 L
+  218.71   240.59 L
+  220.04   241.38 L
+  221.37   242.34 L
+  222.71   243.30 L
+  224.04   244.26 L
+  225.38   245.21 L
+  226.71   246.33 L
+  228.04   247.29 L
+  229.37   248.40 L
+  230.71   249.68 L
+  232.04   250.80 L
+  233.37   252.07 L
+  234.70   253.19 L
+  236.03   254.47 L
+  237.37   255.90 L
+  238.70   257.18 L
+  240.03   258.62 L
+  241.37   260.05 L
+  242.70   261.65 L
+  244.03   263.09 L
+  245.37   264.68 L
+  246.70   266.44 L
+  248.04   268.03 L
+  249.37   269.79 L
+  250.70   271.54 L
+  252.04   273.30 L
+  253.37   275.21 L
+  254.70   277.13 L
+  256.04   279.04 L
+  257.37   280.96 L
+  258.70   283.03 L
+  260.04   285.11 L
+  261.37   287.18 L
+  262.70   289.26 L
+  264.04   291.49 L
+  265.37   293.56 L
+  266.70   295.80 L
+  268.03   298.03 L
+  269.36   300.27 L
+  270.70   302.50 L
+  272.03   304.89 L
+  273.36   307.13 L
+  274.70   309.36 L
+  276.03   311.60 L
+  277.36   313.83 L
+  278.70   315.90 L
+  280.03   318.14 L
+  281.36   320.05 L
+  282.70   322.13 L
+  284.03   324.04 L
+  285.36   325.80 L
+  286.70   327.55 L
+  288.03   329.15 L
+  289.37   330.59 L
+  290.70   332.02 L
+  292.03   333.14 L
+  293.37   334.26 L
+  294.70   335.05 L
+  296.03   335.69 L
+  297.37   336.17 L
+  298.70   336.49 L
+  300.03   336.65 L
+  301.36   336.49 L
+  302.70   336.17 L
+  304.03   335.69 L
+  305.36   335.05 L
+  306.69   334.26 L
+  308.03   333.14 L
+  309.36   332.02 L
+  310.69   330.59 L
+  312.03   329.15 L
+  313.36   327.55 L
+  314.69   325.80 L
+  316.03   324.04 L
+  317.36   322.13 L
+  318.69   320.05 L
+  320.03   318.14 L
+  321.36   315.90 L
+  322.69   313.83 L
+  324.03   311.60 L
+  325.36   309.36 L
+  326.69   307.13 L
+  328.03   304.89 L
+  329.36   302.50 L
+  330.70   300.27 L
+  332.03   298.03 L
+  333.36   295.80 L
+  334.69   293.56 L
+  336.03   291.49 L
+  337.36   289.26 L
+  338.69   287.18 L
+  340.02   285.11 L
+  341.35   283.03 L
+  342.69   280.96 L
+  344.02   279.04 L
+  345.35   277.13 L
+  346.69   275.21 L
+  348.02   273.30 L
+  349.35   271.54 L
+  350.69   269.79 L
+  352.02   268.03 L
+  353.36   266.44 L
+  354.69   264.68 L
+  356.02   263.09 L
+  357.36   261.65 L
+  358.69   260.05 L
+  360.02   258.62 L
+  361.36   257.18 L
+  362.69   255.90 L
+  364.02   254.47 L
+  365.36   253.19 L
+  366.69   252.07 L
+  368.02   250.80 L
+  369.36   249.68 L
+  370.69   248.40 L
+  372.02   247.29 L
+  373.35   246.33 L
+  374.68   245.21 L
+  376.02   244.26 L
+  377.35   243.30 L
+  378.68   242.34 L
+  380.02   241.38 L
+  381.35   240.59 L
+  382.68   239.63 L
+  384.02   238.83 L
+  385.35   238.03 L
+  386.68   237.23 L
+  388.02   236.44 L
+  389.35   235.80 L
+  390.68   235.00 L
+  392.02   234.36 L
+  393.35   233.72 L
+  394.69   233.09 L
+  396.02   232.45 L
+  397.35   231.81 L
+  398.69   231.33 L
+  400.02   230.69 L
+  401.35   230.21 L
+  402.69   229.73 L
+  404.02   229.10 L
+  405.35   228.62 L
+  406.68   228.14 L
+  408.02   227.66 L
+  409.35   227.34 L
+  410.68   226.86 L
+  412.01   226.38 L
+  413.35   226.06 L
+  414.68   225.59 L
+  416.01   225.27 L
+  417.35   224.95 L
+  418.68   224.47 L
+  420.01   224.15 L
+  421.35   223.83 L
+  422.68   223.51 L
+  424.01   223.19 L
+  425.35   222.87 L
+  426.68   222.55 L
+  428.01   222.39 L
+  429.35   222.07 L
+  430.68   221.76 L
+  432.01   221.60 L
+  433.35   221.28 L
+  434.68   221.12 L
+  436.02   220.80 L
+  437.35   220.64 L
+  438.68   220.32 L
+  440.01   220.16 L
+  441.35   220.00 L
+  442.68   219.68 L
+  444.01   219.52 L
+  445.34   219.36 L
+  446.67   219.20 L
+  448.01   219.04 L
+  449.34   218.72 L
+  450.67   218.56 L
+  452.01   218.40 L
+  453.34   218.24 L
+  454.67   218.09 L
+  456.01   217.93 L
+  457.34   217.93 L
+  458.68   217.77 L
+  460.01   217.61 L
+  461.34   217.45 L
+  462.68   217.29 L
+  464.01   217.13 L
+  465.34   217.13 L
+  466.68   216.97 L
+  468.01   216.81 L
+  469.34   216.65 L
+  470.68   216.65 L
+  472.01   216.49 L
+  473.34   216.33 L
+  474.68   216.33 L
+  476.01   216.17 L
+  477.34   216.17 L
+  478.67   216.01 L
+  480.00   215.85 L
+  481.34   215.85 L
+  482.67   215.69 L
+  484.00   215.69 L
+  485.34   215.53 L
+  486.67   215.53 L
+  488.00   215.37 L
+  489.34   215.37 L
+  490.67   215.21 L
+  492.00   215.21 L
+  493.34   215.05 L
+  494.67   215.05 L
+  496.00   215.05 L
+  497.34   214.89 L
+  498.67   214.89 L
+  500.00   214.73 L
+ stroke
+ showpage
+%%Trailer
+%%DocumentFonts: NewCenturySchlbk-Roman

@@ -1,0 +1,16 @@
+OGLE-2005-BLG-071
+
+Field          BLG122.3
+StarNo         189689
+RA(J2000.0)    17:50:09.77
+Dec(J2000.0)   -34:40:23.5
+Remarks        Planetary Microlensing
+
+  Tmax   2453481.178     0.003
+  tau           -         -
+  umin          -         -
+  Amax          -         -
+  Dmag          -         -
+  fbl          1.000     0.000
+  I_bl        19.169     0.005
+  I0          19.169     0.005

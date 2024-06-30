@@ -1,0 +1,16 @@
+OGLE-2003-BLG-235
+
+Field          BLG208.2
+StarNo         150718
+RA(J2000.0)    18:05:16.35
+Dec(J2000.0)   -28:53:42.0
+Remarks        Planetary Microlensing (Also MOA-2003-BLG-53)
+
+  Tmax   2452847.422     0.132
+  tau         53.057     0.595
+  umin         0.180     0.001
+  Amax         5.622     0.045
+  Dmag         1.875     0.001
+  fbl          1.000     0.000
+  I_bl        19.273     0.005
+  I0          19.273     0.005

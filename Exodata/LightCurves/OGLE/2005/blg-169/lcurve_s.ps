@@ -1,0 +1,1660 @@
+%!
+%%Title: Lick Mongo 1990 (proto Touva)
+%%Creator:  ogle@sirius                             
+%%CreationDate:  Sat 2006 Feb 25 20:48:15                
+%%Pages: 1
+%%BoundingBox:      0     0   612   792
+%%DocumentFonts: (atend)
+%%EndComments
+ 0.5 setlinewidth
+ 1 setlinecap
+ 1 setlinejoin
+ /NewCenturySchlbk-Roman findfont 15 scalefont setfont
+/L {lineto} bind def /M {moveto} bind def
+/CLR000 { 1.000 1.000 1.000 setrgbcolor} bind def
+/CLR001 { 0.000 0.000 0.000 setrgbcolor} bind def
+%%EndProlog
+%%BeginSetup
+%%BeginPaperSize: letter
+userdict /lettertray known { %if
+    {lettertray} stopped not
+}{ %else
+    false
+} ifelse
+ /ustray exch def
+%%EndPaperSize
+%%EndSetup
+%%Page: 1 1
+/TuvLand false def
+ clippath pathbbox gt
+ TuvLand xor
+ systemdict /setprintermatch known not and
+%{0    612 translate -90 rotate} if pop pop
+ newpath
+  100.00   100.00 M
+  500.00   100.00 L
+  105.82   100.00 M
+  105.82   107.50 L
+  123.17   100.00 M
+  123.17   107.50 L
+  140.53   100.00 M
+  140.53   115.00 L
+  157.88   100.00 M
+  157.88   107.50 L
+  175.24   100.00 M
+  175.24   107.50 L
+  192.60   100.00 M
+  192.60   107.50 L
+  209.95   100.00 M
+  209.95   107.50 L
+  227.31   100.00 M
+  227.31   115.00 L
+  244.67   100.00 M
+  244.67   107.50 L
+  262.02   100.00 M
+  262.02   107.50 L
+  279.38   100.00 M
+  279.38   107.50 L
+  296.74   100.00 M
+  296.74   107.50 L
+  314.09   100.00 M
+  314.09   115.00 L
+  331.45   100.00 M
+  331.45   107.50 L
+  348.81   100.00 M
+  348.81   107.50 L
+  366.16   100.00 M
+  366.16   107.50 L
+  383.52   100.00 M
+  383.52   107.50 L
+  400.88   100.00 M
+  400.88   115.00 L
+  418.23   100.00 M
+  418.23   107.50 L
+  435.59   100.00 M
+  435.59   107.50 L
+  452.95   100.00 M
+  452.95   107.50 L
+  470.30   100.00 M
+  470.30   107.50 L
+  487.66   100.00 M
+  487.66   115.00 L
+ stroke
+ /MongoNormalFont /NewCenturySchlbk-Roman def % Mongo default font
+ /MongoGreekFont /Symbol def     % Mongo Greek font
+ FontDirectory /ZapfChancery-MediumItalic known
+ {/MongoScriptFont /ZapfChancery-MediumItalic def}       % Mongo Script on NTX
+ {/MongoScriptFont /Times-Roman def}                     % Mongo Serif
+ ifelse
+ /MongoTinyFont /Courier def     % Mongo Typewriter font
+ /MongoLabelDict 70 dict def
+ % Put a bunch of variables into our own dictionary
+ /MongoLabelStartup {
+ MongoLabelDict begin
+ /ptsize 0 def                   % Text point size passed to MongoPutlabel
+ /rotcode 0 def                  % Rotation angle passed to MongoPutlabel
+ /hpos 0 def                     % Horizontal position passed to MongoPutlabel
+ /vpos 0 def                     % Vertical position passed to MongoPutlabel
+ /modechar 92 def                % The backslash = 92
+ /modecount 0 def                % Counts occurances of modechar
+ /mode 0 def                     % 0 = normal mode
+ 				% 1 = Special font for 1 character
+ 				% 2 = Special font permanent
+ /submode 0 def                  % 0 = not super/sub
+ 				% 1 = super/sub for 1 character
+ 				% 2 = super/sub permanent
+ /superlevel 0 def               % super/sub level counter
+ 				% >0 means superscript
+ 				% <0 means subscript
+ /supershift 0.55 def            % Percent of font height to shift super/sub
+ /superscale 1.67 def            % Font scale factor for super/sub
+ /voff 0 def                     % Vertical offset for super/sub
+ /curpt 1 def                    % Current font scale factor
+ /curheight 1 def                % Height of font with current scaling
+ /fontnum 0 def                  % 0 = normal font
+ 				% 1 = Roman font
+ 				% 2 = Greek font
+ 				% 3 = Script font
+ 				% 4 = Tiny font
+ /italmode 0 def                 % 0 = not italicized
+ 				% 1 = italicized 1 char
+ 				% 2 = italicized permanent
+ /literalmode 0 def              % Set for literal octal code evaluation
+ /cfontnum 0 def                 % Current font number
+ /citalang 0 def                 % Last angle for italics mode
+ /cptsize 0 def                  % Last point size used
+ /italang 0 def                  % New angle for italics mode
+ /tanang 20 dup sin exch cos div def % Tangent of italics angle
+ /fsize 0 def                    % Temporary for font scale
+ /xlen 0 def                     % Length of string in points
+ /ylen 0 def                     % Height of string in points
+ /xadj 0 def                     % Text horizontal offset
+ /yadj 0 def                     % Text vertical offset
+ /romanchar (r) 0 get def        % Character value for Roman font mode
+ /greekchar (g) 0 get def        % Character value for Greek font mode
+ /italchar (i) 0 get def         % Character value for italics mode
+ /scriptchar (s) 0 get def       % Character value for script font
+ /tinychar (t) 0 get def         % Character value for tiny font
+ /usuperchar (U) 0 get def        % Character value for superscript mode
+ /usubchar (D) 0 get def          % Character value for subscript mode
+ /superchar (u) 0 get def        % Character value for superscript mode
+ /subchar (d) 0 get def          % Character value for subscript mode
+ /zerochar (0) 0 get def         % 0 character code
+ /sevenchar (7) 0 get def        % 7 character code
+ /xjustcode 0 def                % Horizontal centering code
+ /yjustcode 0 def                % Vertical centering code
+ /ybot 0 def                     % Bottom of text
+ /ycen 0 def                     % Center of text
+ /ycap 0 def                     % Top of capital letters
+ /ytop 0 def                     % Top of font
+ /charcode 0 def                 % Used by dochar routine
+ /charval 0 def                  % Used by dochar to build literal code values
+ /debugline 720 def
+ % enter with (string)
+ %/debug {
+ %       gsave
+ %       72 debugline translate
+ %       0 0 moveto
+ %       show
+ %       grestore
+ %       /debugline debugline 20 sub def
+ %} def
+ % Print the string on the stack
+ /doprint {
+ 	gsave
+ 	hpos vpos translate
+ 	rotcode rotate
+ 	xadj xlen add yadj voff add moveto
+ 	show
+ 	grestore
+ } def
+ % Determine the text adjustment parameters based on the centering code
+ /SetXYadj {
+ %       /yadj                           % First vertical centering
+ %       justcode 4 lt
+ %               {ylen neg def}
+ %               {justcode 7 lt
+ %                       {ylen -2 div def}
+ %                       {0 def}
+ %                ifelse}
+ %       ifelse
+ %       /xadj                           % Then horizontal centering
+ %       justcode 2 add 3 mod 0 eq
+ %               {xlen neg def}
+ %               {justcode 1 add 3 mod 0 eq
+ %                       {xlen -2 div def}
+ %                       {0 def}
+ %                ifelse}
+ %       ifelse
+ 	/yadj                           % First vertical centering
+ 	yjustcode -2 eq
+ 		{ybot}
+ 		{yjustcode -1 eq
+ 			{0}
+ 			{yjustcode 0 eq
+ 				{ycen}
+ 				{yjustcode 1 eq
+ 					{ycap}
+ 					{ytop}
+ 				 ifelse}
+ 			 ifelse}
+ 		 ifelse}
+ 	ifelse
+ 	neg def
+ 	/xadj                           % Then horizontal centering
+ 	xjustcode 1 add xlen mul -2 div def
+ } def
+ % Define the current font and save the specifications for the font
+ % Enter with font name and scale on the stack
+ /DoFont {
+ 	/cptsize exch def               % Save font scale
+ 	/cfontnum fontnum def           % Save Current font number
+ 	/citalang italang def           % Save italics angle
+ %       Now create the new current font
+ 	findfont [ cptsize 0 italang cptsize 0 0 ] makefont setfont
+ } def
+ % Set the italics angle and call DoFont if a new font is needed
+ % Enter with font name and scale on the stack
+ % italang is set to the fontscale * tan(italics angle)
+ /SetupFont {
+ 	dup /italang exch
+ 	italmode 0 ne
+ 		{ tanang mul def}       % tan(angle) * scale
+ 		{ pop 0 def}            % 0 degree (not italic)
+ 	ifelse
+ 	dup
+ 	fontnum cfontnum eq exch        % Did font change?
+ 	italang citalang eq exch        % Did italic state change?
+ 	cptsize eq                      % Did point size change?
+ 	and and
+ 		{pop pop}               % Nothing changed - just clean up
+ 		{DoFont}                % Set a new font
+ 	ifelse
+ } def
+ % Select a font based on the font number
+ /SelectFont {
+ 	ptsize curpt mul                % Scale to default point size
+ 	fontnum 0 eq
+ 		{MongoNormalFont exch SetupFont}
+ 		{fontnum 1 eq
+ 			{MongoGreekFont exch SetupFont}
+ 			{fontnum 2 eq
+ 				{MongoScriptFont exch SetupFont}
+ %                               {MongoTinyFont exch 0.5 mul SetupFont}
+ %       The tiny font is really the typewriter font, same size as all
+ 				{MongoTinyFont exch SetupFont}
+ 			 ifelse}
+ 		 ifelse}
+ 	ifelse
+ } def
+ % Enter with character code on the stack
+ /dochar {
+ 	/charcode exch def              % Save the character code
+ 	literalmode 0 ne
+ 		{literalmode 3 eq
+ 			{/charval 0 def}
+ 		 if
+ 		/charval charval 8 mul charcode zerochar sub 7 and add def
+ 		/literalmode literalmode 1 sub def
+ 		literalmode 0 eq
+ 			{/charcode charval def}
+ 		if
+ 	} if
+ 	literalmode 0 eq
+ 	{
+ 	SelectFont                      % Check and set font
+ 	/thechar ( ) dup 0 charcode put def % Generate 1-character string
+ 	printit 1 eq {thechar doprint} if       % Print it if required
+ 	thechar stringwidth             % Get its width
+ 	pop xlen add /xlen exch def     % Add it to total string width
+ %       Reset various modes if turned on for a single character
+ 	italmode 1 eq {/italmode 0 def} if
+ 	submode 1 eq {-1 SetSuperSub /submode 0 def} if
+ 	submode -1 eq {1 SetSuperSub /submode 0 def} if
+ 	mode 1 eq {/fontnum 0 def /mode 0 def} if
+ 	} if
+ } def
+ % Compute current height of the font (assumed to be height of '[')
+ /GetCurheight {
+ 	gsave
+ 	newpath
+ 	0 0 moveto
+ 	([) true charpath flattenpath pathbbox
+ 	/ycap exch def pop /ybot exch def pop
+ 	/ytop ptsize ybot add def
+ 	/ycen ycap 2 div def
+ %       exch pop sub neg exch pop
+ 	ycap ybot sub
+ 	grestore
+ } def
+ % Increment the modecount unless it will become too big.
+ /countmode {
+ 	modecount 1 gt
+ 		{modechar dochar        % An error - print a backslash
+ 		/modecount 0 def}
+ 		{/modecount modecount 1 add def}
+ 		ifelse
+ } def
+ /ResetModecount {
+ 	/mode modecount def
+ 	/modecount 0 def
+ } def
+ % Turn italics mode on for one character, or permanently, or turn it off.
+ /SetItalmode {
+ %       (In SetItalmode) debug
+ 	modecount 1 eq
+ 		{italmode 2 ne {/italmode 1 def} if} % On for one char
+ 		{italmode 2 eq
+ 			{/italmode 0 def}       % Turn off
+ 			{/italmode 2 def}       % On permanently
+ 		ifelse}
+ 	ifelse
+ 	/modecount 0 def
+ } def
+ % Enter with superlevel increment (+1 or -1) on the stack
+ /SetSuperSub {
+ %       Here we compute the new vertical offset and font scale factor
+ 	dup 0 gt
+ 		{
+ 		/voff voff supershift curheight curpt mul mul add def
+ 		superlevel 0 ge
+ 			{/curpt curpt superscale div def}
+ 			{/curpt curpt superscale mul def}
+ 		ifelse
+ 		}
+ 		{
+ 		superlevel 0 gt
+ 			{/curpt curpt superscale mul def}
+ 			{/curpt curpt superscale div def}
+ 		ifelse
+ 		/voff voff supershift curheight curpt mul mul sub def
+ 		}
+ 	ifelse
+ 	dup superlevel add /superlevel exch def
+ 	modecount mul /submode exch def
+ 	/modecount 0 def
+ } def
+ % Check for control characters.
+ /setmode {
+ 	c romanchar eq
+ 	    {/fontnum 0 def ResetModecount}
+ 	    {c greekchar eq
+ 		{/fontnum 1 def ResetModecount}
+ 		{c scriptchar eq
+ 		    {/fontnum 2 def ResetModecount}
+ 		    {c tinychar eq
+ 			{/fontnum 3 def ResetModecount}
+ 			{c italchar eq
+ 			    {SetItalmode}
+ 			    {c superchar eq c usuperchar eq or
+ 				{1 SetSuperSub}
+ 				{c subchar eq c usubchar eq or
+ 				    {-1 SetSuperSub}
+ 				    {c zerochar ge c sevenchar le and
+ 					{/literalmode 3 def
+ 					 c dochar
+ 					 /modecount 0 def}
+ 					{1 1 modecount {modechar dochar} for
+ 					 c dochar}
+ 				    ifelse}
+ 				ifelse}
+ 			    ifelse}
+ 			ifelse}
+ 		    ifelse}
+ 		ifelse}
+ 	    ifelse}
+ 	ifelse
+ } def
+ % Enter with string on the stack
+ /MongoStringWidth {
+     {
+ 	/c exch def             % Put character code in c
+ 	c modechar eq           % Check for backslash
+ 		{countmode}     % Backslash seen - Bump count
+ 		{modecount 0 gt % No backslash
+ 			{setmode}  %But backslash recently seen - Set new mode
+ 			{c dochar} % Regular character
+ 		ifelse}
+ 	ifelse
+     } forall
+ } def
+ % Called to reset a few things for each pass through MongoStringWidth
+ /InitAll {
+ 	/italang 0 def
+ 	/italmode 0 def
+ 	/xlen 0 def
+ 	/submode 0 def
+ 	/superlevel 0 def
+ 	/mode 0 def
+ 	/modecount 0 def
+ 	/voff 0 def
+ 	/curpt 1 def
+ 	/fontnum 0 def
+ 	/literalmode 0 def
+ 	MongoNormalFont ptsize DoFont
+ } def
+ end
+ } def
+ % Input:
+ %       hpos vpos xjust yjust rot ptsize (text) putlabel
+ /MongoPutlabel {
+ 	gsave
+ 	MongoLabelStartup               % Set up our dictionary
+ 	MongoLabelDict begin            % Invoke our dictionary
+ 	/textstr exch def               % Save all parameters - the text
+ 	/ptsize exch def                % Point size of characters
+ 	/rotcode exch def               % Rotation angle
+ 	/yjustcode exch def             % Justification code vertically
+ 	/xjustcode exch def             % Justification code horizontally
+ 	/vpos exch def                  % Vertical position
+ 	/hpos exch def                  % Horizontal position
+ 	InitAll                         % Initialize a few critical values
+ 	/curheight GetCurheight def     % Find character height
+ 	/ylen curheight def             % Height of string in points
+ 	/printit 0 def                  % First pass just get length
+ 	textstr MongoStringWidth        % Do it!
+ 	SetXYadj                        % Compute text centering values
+ 	InitAll                         % Reset critical values again
+ 	/printit 1 def                  % Now print
+ 	textstr MongoStringWidth        % DO IT!!
+ 	end                             % Pop dictionary
+ 	grestore
+ } def
+  140.5   85.0    0.0   0      0.00     15.00 (3400) MongoPutlabel
+  227.3   85.0    0.0   0      0.00     15.00 (3450) MongoPutlabel
+  314.1   85.0    0.0   0      0.00     15.00 (3500) MongoPutlabel
+  400.9   85.0    0.0   0      0.00     15.00 (3550) MongoPutlabel
+  487.7   85.0    0.0   0      0.00     15.00 (3600) MongoPutlabel
+ newpath
+  100.00   400.00 M
+  500.00   400.00 L
+  105.82   400.00 M
+  105.82   392.50 L
+  123.17   400.00 M
+  123.17   392.50 L
+  140.53   400.00 M
+  140.53   385.00 L
+  157.88   400.00 M
+  157.88   392.50 L
+  175.24   400.00 M
+  175.24   392.50 L
+  192.60   400.00 M
+  192.60   392.50 L
+  209.95   400.00 M
+  209.95   392.50 L
+  227.31   400.00 M
+  227.31   385.00 L
+  244.67   400.00 M
+  244.67   392.50 L
+  262.02   400.00 M
+  262.02   392.50 L
+  279.38   400.00 M
+  279.38   392.50 L
+  296.74   400.00 M
+  296.74   392.50 L
+  314.09   400.00 M
+  314.09   385.00 L
+  331.45   400.00 M
+  331.45   392.50 L
+  348.81   400.00 M
+  348.81   392.50 L
+  366.16   400.00 M
+  366.16   392.50 L
+  383.52   400.00 M
+  383.52   392.50 L
+  400.88   400.00 M
+  400.88   385.00 L
+  418.23   400.00 M
+  418.23   392.50 L
+  435.59   400.00 M
+  435.59   392.50 L
+  452.95   400.00 M
+  452.95   392.50 L
+  470.30   400.00 M
+  470.30   392.50 L
+  487.66   400.00 M
+  487.66   385.00 L
+  100.00   100.00 M
+  100.00   400.00 L
+  100.00   103.77 M
+  115.00   103.77 L
+  100.00   124.69 M
+  107.50   124.69 L
+  100.00   145.61 M
+  107.50   145.61 L
+  100.00   166.53 M
+  107.50   166.53 L
+  100.00   187.45 M
+  115.00   187.45 L
+  100.00   208.37 M
+  107.50   208.37 L
+  100.00   229.29 M
+  107.50   229.29 L
+  100.00   250.21 M
+  107.50   250.21 L
+  100.00   271.13 M
+  115.00   271.13 L
+  100.00   292.05 M
+  107.50   292.05 L
+  100.00   312.97 M
+  107.50   312.97 L
+  100.00   333.89 M
+  107.50   333.89 L
+  100.00   354.81 M
+  115.00   354.81 L
+  100.00   375.73 M
+  107.50   375.73 L
+  100.00   396.65 M
+  107.50   396.65 L
+ stroke
+   92.5  103.8    1.0   0      0.00     15.00 (20) MongoPutlabel
+   92.5  187.4    1.0   0      0.00     15.00 (18) MongoPutlabel
+   92.5  271.1    1.0   0      0.00     15.00 (16) MongoPutlabel
+   92.5  354.8    1.0   0      0.00     15.00 (14) MongoPutlabel
+ newpath
+  500.00   100.00 M
+  500.00   400.00 L
+  500.00   103.77 M
+  485.00   103.77 L
+  500.00   124.69 M
+  492.50   124.69 L
+  500.00   145.61 M
+  492.50   145.61 L
+  500.00   166.53 M
+  492.50   166.53 L
+  500.00   187.45 M
+  485.00   187.45 L
+  500.00   208.37 M
+  492.50   208.37 L
+  500.00   229.29 M
+  492.50   229.29 L
+  500.00   250.21 M
+  492.50   250.21 L
+  500.00   271.13 M
+  485.00   271.13 L
+  500.00   292.05 M
+  492.50   292.05 L
+  500.00   312.97 M
+  492.50   312.97 L
+  500.00   333.89 M
+  492.50   333.89 L
+  500.00   354.81 M
+  485.00   354.81 L
+  500.00   375.73 M
+  492.50   375.73 L
+  500.00   396.65 M
+  492.50   396.65 L
+ stroke
+  300.0  422.5    0.0   0      0.00     15.00 (OGLE-2005-BLG-169) MongoPutlabel
+  300.0   70.0    0.0   2      0.00     15.00 (HJD - 2450000) MongoPutlabel
+   46.0  250.0    0.0   0     90.00     15.00 (I magnitude) MongoPutlabel
+ % DoDot Macro
+ /DoDotDict 20 dict def
+ /DoDot {
+ DoDotDict begin
+ /expand exch def /ptype exch def
+ /nvert exch def /rot exch def
+ /ydot exch def /xdot exch def
+ gsave
+ xdot ydot translate
+ rot rotate
+ % set default point radius
+ /orad 5.0 expand mul def
+ % set stellated inner radius
+ /irad 1.25 expand mul def
+ /dang 360. nvert div def
+ /bang -90. dang 0.5 mul add def
+ /eang 270. dang 0.5 mul sub def
+ /xv orad bang cos mul def
+ /yv orad bang sin mul def
+ newpath xv yv moveto
+ ptype 0 eq ptype 3 eq or {
+ bang dang add dang eang {dup sin exch cos
+ /xv exch orad mul def
+ /yv exch orad mul def
+ xv yv lineto } for
+ closepath
+ ptype 0 eq {stroke} if
+ ptype 3 eq {gsave
+ 0 setgray fill grestore}
+ if} if
+ ptype 1 eq {
+ bang dang add dang eang {dup sin exch cos
+ /xv exch orad mul def
+ /yv exch orad mul def
+ 0 0 lineto xv yv moveto } for
+ 0 0 lineto stroke} if
+ ptype 2 eq {/hang dang 0.5 mul def
+ bang dang eang {dup hang add dup sin exch cos
+ /xv exch irad mul def
+ /yv exch irad mul def
+ xv yv lineto
+ dang add dup sin exch cos
+ /xv exch orad mul def
+ /yv exch orad mul def
+ xv yv lineto } for
+ stroke}if
+ grestore end } def
+ %
+newpath
+   100.00    100.00 M
+   500.00    100.00 L
+   500.00    400.00 L
+   100.00    400.00 L
+closepath clip
+   169.85   138.03     0.00  10  3     0.40 DoDot
+   178.50   128.37     0.00  10  3     0.40 DoDot
+   185.48   131.26     0.00  10  3     0.40 DoDot
+   190.69   128.37     0.00  10  3     0.40 DoDot
+   197.57   122.05     0.00  10  3     0.40 DoDot
+   214.93   131.84     0.00  10  3     0.40 DoDot
+   219.99   133.10     0.00  10  3     0.40 DoDot
+   223.55   139.83     0.00  10  3     0.40 DoDot
+   227.04   134.10     0.00  10  3     0.40 DoDot
+   232.29   139.41     0.00  10  3     0.40 DoDot
+   235.85   131.42     0.00  10  3     0.40 DoDot
+   244.37   144.69     0.00  10  3     0.40 DoDot
+   260.04   141.46     0.00  10  3     0.40 DoDot
+   261.78   140.08     0.00  10  3     0.40 DoDot
+   265.31   140.08     0.00  10  3     0.40 DoDot
+   268.72   144.98     0.00  10  3     0.40 DoDot
+   270.50   148.95     0.00  10  3     0.40 DoDot
+   273.75   148.49     0.00  10  3     0.40 DoDot
+   277.24   158.70     0.00  10  3     0.40 DoDot
+   279.22   157.53     0.00  10  3     0.40 DoDot
+   282.50   161.13     0.00  10  3     0.40 DoDot
+   287.63   177.36     0.00  10  3     0.40 DoDot
+   299.90   367.91     0.00  10  3     0.40 DoDot
+   300.04   380.21     0.00  10  3     0.40 DoDot
+   301.42   261.88     0.00  10  3     0.40 DoDot
+   301.60   256.36     0.00  10  3     0.40 DoDot
+   301.82   252.26     0.00  10  3     0.40 DoDot
+   308.33   185.27     0.00  10  3     0.40 DoDot
+   308.43   188.24     0.00  10  3     0.40 DoDot
+   310.22   181.09     0.00  10  3     0.40 DoDot
+   312.17   176.61     0.00  10  3     0.40 DoDot
+   313.62   167.74     0.00  10  3     0.40 DoDot
+   315.33   166.78     0.00  10  3     0.40 DoDot
+   317.13   173.68     0.00  10  3     0.40 DoDot
+   317.14   166.28     0.00  10  3     0.40 DoDot
+   318.86   162.59     0.00  10  3     0.40 DoDot
+   320.47   158.83     0.00  10  3     0.40 DoDot
+   326.01   148.58     0.00  10  3     0.40 DoDot
+   329.25   147.57     0.00  10  3     0.40 DoDot
+   331.03   147.07     0.00  10  3     0.40 DoDot
+   333.02   144.56     0.00  10  3     0.40 DoDot
+   334.60   145.44     0.00  10  3     0.40 DoDot
+   336.39   151.97     0.00  10  3     0.40 DoDot
+   345.05   143.51     0.00  10  3     0.40 DoDot
+   350.18   128.20     0.00  10  3     0.40 DoDot
+   353.53   140.75     0.00  10  3     0.40 DoDot
+   355.37   136.49     0.00  10  3     0.40 DoDot
+   356.93   132.43     0.00  10  3     0.40 DoDot
+   358.66   126.61     0.00  10  3     0.40 DoDot
+   360.49   134.35     0.00  10  3     0.40 DoDot
+   362.28   137.07     0.00  10  3     0.40 DoDot
+   363.91   135.44     0.00  10  3     0.40 DoDot
+   365.58   131.30     0.00  10  3     0.40 DoDot
+   367.33   133.35     0.00  10  3     0.40 DoDot
+   381.17   136.36     0.00  10  3     0.40 DoDot
+   384.62   131.55     0.00  10  3     0.40 DoDot
+   391.91   126.69     0.00  10  3     0.40 DoDot
+   397.00   133.72     0.00  10  3     0.40 DoDot
+   401.94   130.42     0.00  10  3     0.40 DoDot
+   403.68   129.46     0.00  10  3     0.40 DoDot
+   405.47   125.40     0.00  10  3     0.40 DoDot
+   407.42   140.42     0.00  10  3     0.40 DoDot
+   409.08   119.67     0.00  10  3     0.40 DoDot
+   410.93   143.22     0.00  10  3     0.40 DoDot
+   412.51   129.96     0.00  10  3     0.40 DoDot
+   415.65   126.82     0.00  10  3     0.40 DoDot
+   416.17   133.56     0.00  10  3     0.40 DoDot
+   417.53   131.80     0.00  10  3     0.40 DoDot
+   419.24   129.00     0.00  10  3     0.40 DoDot
+   420.88   126.40     0.00  10  3     0.40 DoDot
+   422.69   129.96     0.00  10  3     0.40 DoDot
+   423.13   131.84     0.00  10  3     0.40 DoDot
+   424.52   134.52     0.00  10  3     0.40 DoDot
+   426.22   129.08     0.00  10  3     0.40 DoDot
+   434.79   127.49     0.00  10  3     0.40 DoDot
+   441.89   129.46     0.00  10  3     0.40 DoDot
+   443.70   126.28     0.00  10  3     0.40 DoDot
+   445.17   122.85     0.00  10  3     0.40 DoDot
+   447.17   129.87     0.00  10  3     0.40 DoDot
+   449.02   125.82     0.00  10  3     0.40 DoDot
+   450.60   133.77     0.00  10  3     0.40 DoDot
+   452.26   126.32     0.00  10  3     0.40 DoDot
+   452.55   129.46     0.00  10  3     0.40 DoDot
+   454.04   126.95     0.00  10  3     0.40 DoDot
+   455.82   130.96     0.00  10  3     0.40 DoDot
+   457.47   125.94     0.00  10  3     0.40 DoDot
+   459.23   132.38     0.00  10  3     0.40 DoDot
+   460.98   129.67     0.00  10  3     0.40 DoDot
+   462.70   129.41     0.00  10  3     0.40 DoDot
+   464.51   137.95     0.00  10  3     0.40 DoDot
+   469.71   129.21     0.00  10  3     0.40 DoDot
+   471.39   130.13     0.00  10  3     0.40 DoDot
+   474.89   122.85     0.00  10  3     0.40 DoDot
+   478.44   130.71     0.00  10  3     0.40 DoDot
+   490.49   130.21     0.00  10  3     0.40 DoDot
+   492.26   130.71     0.00  10  3     0.40 DoDot
+   493.95   137.07     0.00  10  3     0.40 DoDot
+   500.89   137.99     0.00  10  3     0.40 DoDot
+   502.65   132.76     0.00  10  3     0.40 DoDot
+   514.67   126.61     0.00  10  3     0.40 DoDot
+   519.85   127.07     0.00  10  3     0.40 DoDot
+   521.63   112.43     0.00  10  3     0.40 DoDot
+   525.10   133.05     0.00  10  3     0.40 DoDot
+   537.20   130.29     0.00  10  3     0.40 DoDot
+   539.09   126.86     0.00  10  3     0.40 DoDot
+   542.36   125.61     0.00  10  3     0.40 DoDot
+   545.85   140.50     0.00  10  3     0.40 DoDot
+   552.96   114.44     0.00  10  3     0.40 DoDot
+   556.35   132.55     0.00  10  3     0.40 DoDot
+   559.74   119.16     0.00  10  3     0.40 DoDot
+   564.88   124.44     0.00  10  3     0.40 DoDot
+   571.88   133.97     0.00  10  3     0.40 DoDot
+   575.41   108.70     0.00  10  3     0.40 DoDot
+   582.31   120.67     0.00  10  3     0.40 DoDot
+   584.01   129.08     0.00  10  3     0.40 DoDot
+   587.49   129.04     0.00  10  3     0.40 DoDot
+   592.69   133.89     0.00  10  3     0.40 DoDot
+   596.17   118.33     0.00  10  3     0.40 DoDot
+   603.16   121.46     0.00  10  3     0.40 DoDot
+ newpath
+  169.85   138.03 M
+  169.85   134.48 L
+   169.85   134.48     0.00   2  0     0.40 DoDot
+  178.50   128.37 M
+  178.50   124.98 L
+   178.50   124.98     0.00   2  0     0.40 DoDot
+  185.48   131.26 M
+  185.48   126.23 L
+   185.48   126.23     0.00   2  0     0.40 DoDot
+  190.69   128.37 M
+  190.69   123.56 L
+   190.69   123.56     0.00   2  0     0.40 DoDot
+  197.57   122.05 M
+  197.57   116.99 L
+   197.57   116.99     0.00   2  0     0.40 DoDot
+  214.93   131.84 M
+  214.93   128.66 L
+   214.93   128.66     0.00   2  0     0.40 DoDot
+  219.99   133.10 M
+  219.99   129.96 L
+   219.99   129.96     0.00   2  0     0.40 DoDot
+  223.55   139.83 M
+  223.55   136.90 L
+   223.55   136.90     0.00   2  0     0.40 DoDot
+  227.04   134.10 M
+  227.04   130.84 L
+   227.04   130.84     0.00   2  0     0.40 DoDot
+  232.29   139.41 M
+  232.29   136.78 L
+   232.29   136.78     0.00   2  0     0.40 DoDot
+  235.85   131.42 M
+  235.85   126.03 L
+   235.85   126.03     0.00   2  0     0.40 DoDot
+  244.37   144.69 M
+  244.37   142.01 L
+   244.37   142.01     0.00   2  0     0.40 DoDot
+  260.04   141.46 M
+  260.04   139.29 L
+   260.04   139.29     0.00   2  0     0.40 DoDot
+  261.78   140.08 M
+  261.78   138.08 L
+   261.78   138.08     0.00   2  0     0.40 DoDot
+  265.31   140.08 M
+  265.31   136.90 L
+   265.31   136.90     0.00   2  0     0.40 DoDot
+  268.72   144.98 M
+  268.72   142.18 L
+   268.72   142.18     0.00   2  0     0.40 DoDot
+  270.50   148.95 M
+  270.50   146.65 L
+   270.50   146.65     0.00   2  0     0.40 DoDot
+  273.75   148.49 M
+  273.75   146.49 L
+   273.75   146.49     0.00   2  0     0.40 DoDot
+  277.24   158.70 M
+  277.24   156.95 L
+   277.24   156.95     0.00   2  0     0.40 DoDot
+  279.22   157.53 M
+  279.22   156.07 L
+   279.22   156.07     0.00   2  0     0.40 DoDot
+  282.50   161.13 M
+  282.50   159.71 L
+   282.50   159.71     0.00   2  0     0.40 DoDot
+  287.63   177.36 M
+  287.63   175.82 L
+   287.63   175.82     0.00   2  0     0.40 DoDot
+  299.90   367.91 M
+  299.90   367.87 L
+   299.90   367.87     0.00   2  0     0.40 DoDot
+  300.04   380.21 M
+  300.04   380.17 L
+   300.04   380.17     0.00   2  0     0.40 DoDot
+  301.42   261.88 M
+  301.42   261.63 L
+   301.42   261.63     0.00   2  0     0.40 DoDot
+  301.60   256.36 M
+  301.60   256.07 L
+   301.60   256.07     0.00   2  0     0.40 DoDot
+  301.82   252.26 M
+  301.82   251.92 L
+   301.82   251.92     0.00   2  0     0.40 DoDot
+  308.33   185.27 M
+  308.33   183.85 L
+   308.33   183.85     0.00   2  0     0.40 DoDot
+  308.43   188.24 M
+  308.43   187.15 L
+   308.43   187.15     0.00   2  0     0.40 DoDot
+  310.22   181.09 M
+  310.22   179.67 L
+   310.22   179.67     0.00   2  0     0.40 DoDot
+  312.17   176.61 M
+  312.17   175.23 L
+   312.17   175.23     0.00   2  0     0.40 DoDot
+  313.62   167.74 M
+  313.62   166.23 L
+   313.62   166.23     0.00   2  0     0.40 DoDot
+  315.33   166.78 M
+  315.33   165.27 L
+   315.33   165.27     0.00   2  0     0.40 DoDot
+  317.13   173.68 M
+  317.13   172.30 L
+   317.13   172.30     0.00   2  0     0.40 DoDot
+  317.14   166.28 M
+  317.14   164.60 L
+   317.14   164.60     0.00   2  0     0.40 DoDot
+  318.86   162.59 M
+  318.86   161.13 L
+   318.86   161.13     0.00   2  0     0.40 DoDot
+  320.47   158.83 M
+  320.47   157.15 L
+   320.47   157.15     0.00   2  0     0.40 DoDot
+  326.01   148.58 M
+  326.01   146.36 L
+   326.01   146.36     0.00   2  0     0.40 DoDot
+  329.25   147.57 M
+  329.25   144.77 L
+   329.25   144.77     0.00   2  0     0.40 DoDot
+  331.03   147.07 M
+  331.03   144.85 L
+   331.03   144.85     0.00   2  0     0.40 DoDot
+  333.02   144.56 M
+  333.02   142.43 L
+   333.02   142.43     0.00   2  0     0.40 DoDot
+  334.60   145.44 M
+  334.60   143.18 L
+   334.60   143.18     0.00   2  0     0.40 DoDot
+  336.39   151.97 M
+  336.39   148.66 L
+   336.39   148.66     0.00   2  0     0.40 DoDot
+  345.05   143.51 M
+  345.05   139.41 L
+   345.05   139.41     0.00   2  0     0.40 DoDot
+  350.18   128.20 M
+  350.18   124.60 L
+   350.18   124.60     0.00   2  0     0.40 DoDot
+  353.53   140.75 M
+  353.53   138.91 L
+   353.53   138.91     0.00   2  0     0.40 DoDot
+  355.37   136.49 M
+  355.37   133.89 L
+   355.37   133.89     0.00   2  0     0.40 DoDot
+  356.93   132.43 M
+  356.93   129.16 L
+   356.93   129.16     0.00   2  0     0.40 DoDot
+  358.66   126.61 M
+  358.66   123.56 L
+   358.66   123.56     0.00   2  0     0.40 DoDot
+  360.49   134.35 M
+  360.49   131.13 L
+   360.49   131.13     0.00   2  0     0.40 DoDot
+  362.28   137.07 M
+  362.28   134.56 L
+   362.28   134.56     0.00   2  0     0.40 DoDot
+  363.91   135.44 M
+  363.91   133.14 L
+   363.91   133.14     0.00   2  0     0.40 DoDot
+  365.58   131.30 M
+  365.58   128.66 L
+   365.58   128.66     0.00   2  0     0.40 DoDot
+  367.33   133.35 M
+  367.33   131.05 L
+   367.33   131.05     0.00   2  0     0.40 DoDot
+  381.17   136.36 M
+  381.17   133.81 L
+   381.17   133.81     0.00   2  0     0.40 DoDot
+  384.62   131.55 M
+  384.62   128.12 L
+   384.62   128.12     0.00   2  0     0.40 DoDot
+  391.91   126.69 M
+  391.91   121.42 L
+   391.91   121.42     0.00   2  0     0.40 DoDot
+  397.00   133.72 M
+  397.00   130.29 L
+   397.00   130.29     0.00   2  0     0.40 DoDot
+  401.94   130.42 M
+  401.94   126.65 L
+   401.94   126.65     0.00   2  0     0.40 DoDot
+  403.68   129.46 M
+  403.68   127.15 L
+   403.68   127.15     0.00   2  0     0.40 DoDot
+  405.47   125.40 M
+  405.47   122.05 L
+   405.47   122.05     0.00   2  0     0.40 DoDot
+  407.42   140.42 M
+  407.42   135.86 L
+   407.42   135.86     0.00   2  0     0.40 DoDot
+  409.08   119.67 M
+  409.08   114.56 L
+   409.08   114.56     0.00   2  0     0.40 DoDot
+  410.93   143.22 M
+  410.93   139.21 L
+   410.93   139.21     0.00   2  0     0.40 DoDot
+  412.51   129.96 M
+  412.51   127.03 L
+   412.51   127.03     0.00   2  0     0.40 DoDot
+  415.65   126.82 M
+  415.65   122.93 L
+   415.65   122.93     0.00   2  0     0.40 DoDot
+  416.17   133.56 M
+  416.17   130.13 L
+   416.17   130.13     0.00   2  0     0.40 DoDot
+  417.53   131.80 M
+  417.53   128.70 L
+   417.53   128.70     0.00   2  0     0.40 DoDot
+  419.24   129.00 M
+  419.24   125.82 L
+   419.24   125.82     0.00   2  0     0.40 DoDot
+  420.88   126.40 M
+  420.88   122.34 L
+   420.88   122.34     0.00   2  0     0.40 DoDot
+  422.69   129.96 M
+  422.69   126.78 L
+   422.69   126.78     0.00   2  0     0.40 DoDot
+  423.13   131.84 M
+  423.13   128.54 L
+   423.13   128.54     0.00   2  0     0.40 DoDot
+  424.52   134.52 M
+  424.52   132.13 L
+   424.52   132.13     0.00   2  0     0.40 DoDot
+  426.22   129.08 M
+  426.22   125.73 L
+   426.22   125.73     0.00   2  0     0.40 DoDot
+  434.79   127.49 M
+  434.79   122.76 L
+   434.79   122.76     0.00   2  0     0.40 DoDot
+  441.89   129.46 M
+  441.89   124.56 L
+   441.89   124.56     0.00   2  0     0.40 DoDot
+  443.70   126.28 M
+  443.70   122.30 L
+   443.70   122.30     0.00   2  0     0.40 DoDot
+  445.17   122.85 M
+  445.17   119.21 L
+   445.17   119.21     0.00   2  0     0.40 DoDot
+  447.17   129.87 M
+  447.17   126.44 L
+   447.17   126.44     0.00   2  0     0.40 DoDot
+  449.02   125.82 M
+  449.02   122.22 L
+   449.02   122.22     0.00   2  0     0.40 DoDot
+  450.60   133.77 M
+  450.60   130.96 L
+   450.60   130.96     0.00   2  0     0.40 DoDot
+  452.26   126.32 M
+  452.26   123.10 L
+   452.26   123.10     0.00   2  0     0.40 DoDot
+  452.55   129.46 M
+  452.55   125.56 L
+   452.55   125.56     0.00   2  0     0.40 DoDot
+  454.04   126.95 M
+  454.04   123.31 L
+   454.04   123.31     0.00   2  0     0.40 DoDot
+  455.82   130.96 M
+  455.82   128.24 L
+   455.82   128.24     0.00   2  0     0.40 DoDot
+  457.47   125.94 M
+  457.47   123.18 L
+   457.47   123.18     0.00   2  0     0.40 DoDot
+  459.23   132.38 M
+  459.23   129.08 L
+   459.23   129.08     0.00   2  0     0.40 DoDot
+  460.98   129.67 M
+  460.98   126.86 L
+   460.98   126.86     0.00   2  0     0.40 DoDot
+  462.70   129.41 M
+  462.70   126.82 L
+   462.70   126.82     0.00   2  0     0.40 DoDot
+  464.51   137.95 M
+  464.51   135.69 L
+   464.51   135.69     0.00   2  0     0.40 DoDot
+  469.71   129.21 M
+  469.71   126.86 L
+   469.71   126.86     0.00   2  0     0.40 DoDot
+  471.39   130.13 M
+  471.39   126.95 L
+   471.39   126.95     0.00   2  0     0.40 DoDot
+  474.89   122.85 M
+  474.89   120.33 L
+   474.89   120.33     0.00   2  0     0.40 DoDot
+  478.44   130.71 M
+  478.44   127.78 L
+   478.44   127.78     0.00   2  0     0.40 DoDot
+  490.49   130.21 M
+  490.49   127.07 L
+   490.49   127.07     0.00   2  0     0.40 DoDot
+  492.26   130.71 M
+  492.26   126.53 L
+   492.26   126.53     0.00   2  0     0.40 DoDot
+  493.95   137.07 M
+  493.95   134.23 L
+   493.95   134.23     0.00   2  0     0.40 DoDot
+   500.89   135.40     0.00   2  0     0.40 DoDot
+   502.65   129.46     0.00   2  0     0.40 DoDot
+   514.67   123.18     0.00   2  0     0.40 DoDot
+   519.85   123.31     0.00   2  0     0.40 DoDot
+   521.63   106.40     0.00   2  0     0.40 DoDot
+   525.10   129.25     0.00   2  0     0.40 DoDot
+   537.20   125.86     0.00   2  0     0.40 DoDot
+   539.09   120.33     0.00   2  0     0.40 DoDot
+   542.36   120.46     0.00   2  0     0.40 DoDot
+   545.85   136.40     0.00   2  0     0.40 DoDot
+   552.96   107.28     0.00   2  0     0.40 DoDot
+   556.35   130.08     0.00   2  0     0.40 DoDot
+   559.74   113.93     0.00   2  0     0.40 DoDot
+   564.88   118.45     0.00   2  0     0.40 DoDot
+   571.88   130.04     0.00   2  0     0.40 DoDot
+   575.41   102.05     0.00   2  0     0.40 DoDot
+   582.31   111.92     0.00   2  0     0.40 DoDot
+   584.01   125.27     0.00   2  0     0.40 DoDot
+   587.49   124.64     0.00   2  0     0.40 DoDot
+   592.69   129.33     0.00   2  0     0.40 DoDot
+   596.17   112.01     0.00   2  0     0.40 DoDot
+   603.16   116.90     0.00   2  0     0.40 DoDot
+  169.85   138.03 M
+  169.85   141.59 L
+   169.85   141.59     0.00   2  0     0.40 DoDot
+  178.50   128.37 M
+  178.50   131.76 L
+   178.50   131.76     0.00   2  0     0.40 DoDot
+  185.48   131.26 M
+  185.48   136.28 L
+   185.48   136.28     0.00   2  0     0.40 DoDot
+  190.69   128.37 M
+  190.69   133.18 L
+   190.69   133.18     0.00   2  0     0.40 DoDot
+  197.57   122.05 M
+  197.57   127.11 L
+   197.57   127.11     0.00   2  0     0.40 DoDot
+  214.93   131.84 M
+  214.93   135.02 L
+   214.93   135.02     0.00   2  0     0.40 DoDot
+  219.99   133.10 M
+  219.99   136.23 L
+   219.99   136.23     0.00   2  0     0.40 DoDot
+  223.55   139.83 M
+  223.55   142.76 L
+   223.55   142.76     0.00   2  0     0.40 DoDot
+  227.04   134.10 M
+  227.04   137.36 L
+   227.04   137.36     0.00   2  0     0.40 DoDot
+  232.29   139.41 M
+  232.29   142.05 L
+   232.29   142.05     0.00   2  0     0.40 DoDot
+  235.85   131.42 M
+  235.85   136.82 L
+   235.85   136.82     0.00   2  0     0.40 DoDot
+  244.37   144.69 M
+  244.37   147.36 L
+   244.37   147.36     0.00   2  0     0.40 DoDot
+  260.04   141.46 M
+  260.04   143.64 L
+   260.04   143.64     0.00   2  0     0.40 DoDot
+  261.78   140.08 M
+  261.78   142.09 L
+   261.78   142.09     0.00   2  0     0.40 DoDot
+  265.31   140.08 M
+  265.31   143.26 L
+   265.31   143.26     0.00   2  0     0.40 DoDot
+  268.72   144.98 M
+  268.72   147.78 L
+   268.72   147.78     0.00   2  0     0.40 DoDot
+  270.50   148.95 M
+  270.50   151.26 L
+   270.50   151.26     0.00   2  0     0.40 DoDot
+  273.75   148.49 M
+  273.75   150.50 L
+   273.75   150.50     0.00   2  0     0.40 DoDot
+  277.24   158.70 M
+  277.24   160.46 L
+   277.24   160.46     0.00   2  0     0.40 DoDot
+  279.22   157.53 M
+  279.22   159.00 L
+   279.22   159.00     0.00   2  0     0.40 DoDot
+  282.50   161.13 M
+  282.50   162.55 L
+   282.50   162.55     0.00   2  0     0.40 DoDot
+  287.63   177.36 M
+  287.63   178.91 L
+   287.63   178.91     0.00   2  0     0.40 DoDot
+  299.90   367.91 M
+  299.90   367.95 L
+   299.90   367.95     0.00   2  0     0.40 DoDot
+  300.04   380.21 M
+  300.04   380.25 L
+   300.04   380.25     0.00   2  0     0.40 DoDot
+  301.42   261.88 M
+  301.42   262.13 L
+   301.42   262.13     0.00   2  0     0.40 DoDot
+  301.60   256.36 M
+  301.60   256.65 L
+   301.60   256.65     0.00   2  0     0.40 DoDot
+  301.82   252.26 M
+  301.82   252.59 L
+   301.82   252.59     0.00   2  0     0.40 DoDot
+  308.33   185.27 M
+  308.33   186.69 L
+   308.33   186.69     0.00   2  0     0.40 DoDot
+  308.43   188.24 M
+  308.43   189.33 L
+   308.43   189.33     0.00   2  0     0.40 DoDot
+  310.22   181.09 M
+  310.22   182.51 L
+   310.22   182.51     0.00   2  0     0.40 DoDot
+  312.17   176.61 M
+  312.17   177.99 L
+   312.17   177.99     0.00   2  0     0.40 DoDot
+  313.62   167.74 M
+  313.62   169.25 L
+   313.62   169.25     0.00   2  0     0.40 DoDot
+  315.33   166.78 M
+  315.33   168.28 L
+   315.33   168.28     0.00   2  0     0.40 DoDot
+  317.13   173.68 M
+  317.13   175.06 L
+   317.13   175.06     0.00   2  0     0.40 DoDot
+  317.14   166.28 M
+  317.14   167.95 L
+   317.14   167.95     0.00   2  0     0.40 DoDot
+  318.86   162.59 M
+  318.86   164.06 L
+   318.86   164.06     0.00   2  0     0.40 DoDot
+  320.47   158.83 M
+  320.47   160.50 L
+   320.47   160.50     0.00   2  0     0.40 DoDot
+  326.01   148.58 M
+  326.01   150.79 L
+   326.01   150.79     0.00   2  0     0.40 DoDot
+  329.25   147.57 M
+  329.25   150.38 L
+   329.25   150.38     0.00   2  0     0.40 DoDot
+  331.03   147.07 M
+  331.03   149.29 L
+   331.03   149.29     0.00   2  0     0.40 DoDot
+  333.02   144.56 M
+  333.02   146.69 L
+   333.02   146.69     0.00   2  0     0.40 DoDot
+  334.60   145.44 M
+  334.60   147.70 L
+   334.60   147.70     0.00   2  0     0.40 DoDot
+  336.39   151.97 M
+  336.39   155.27 L
+   336.39   155.27     0.00   2  0     0.40 DoDot
+  345.05   143.51 M
+  345.05   147.62 L
+   345.05   147.62     0.00   2  0     0.40 DoDot
+  350.18   128.20 M
+  350.18   131.80 L
+   350.18   131.80     0.00   2  0     0.40 DoDot
+  353.53   140.75 M
+  353.53   142.59 L
+   353.53   142.59     0.00   2  0     0.40 DoDot
+  355.37   136.49 M
+  355.37   139.08 L
+   355.37   139.08     0.00   2  0     0.40 DoDot
+  356.93   132.43 M
+  356.93   135.69 L
+   356.93   135.69     0.00   2  0     0.40 DoDot
+  358.66   126.61 M
+  358.66   129.67 L
+   358.66   129.67     0.00   2  0     0.40 DoDot
+  360.49   134.35 M
+  360.49   137.57 L
+   360.49   137.57     0.00   2  0     0.40 DoDot
+  362.28   137.07 M
+  362.28   139.58 L
+   362.28   139.58     0.00   2  0     0.40 DoDot
+  363.91   135.44 M
+  363.91   137.74 L
+   363.91   137.74     0.00   2  0     0.40 DoDot
+  365.58   131.30 M
+  365.58   133.93 L
+   365.58   133.93     0.00   2  0     0.40 DoDot
+  367.33   133.35 M
+  367.33   135.65 L
+   367.33   135.65     0.00   2  0     0.40 DoDot
+  381.17   136.36 M
+  381.17   138.91 L
+   381.17   138.91     0.00   2  0     0.40 DoDot
+  384.62   131.55 M
+  384.62   134.98 L
+   384.62   134.98     0.00   2  0     0.40 DoDot
+  391.91   126.69 M
+  391.91   131.97 L
+   391.91   131.97     0.00   2  0     0.40 DoDot
+  397.00   133.72 M
+  397.00   137.15 L
+   397.00   137.15     0.00   2  0     0.40 DoDot
+  401.94   130.42 M
+  401.94   134.18 L
+   401.94   134.18     0.00   2  0     0.40 DoDot
+  403.68   129.46 M
+  403.68   131.76 L
+   403.68   131.76     0.00   2  0     0.40 DoDot
+  405.47   125.40 M
+  405.47   128.74 L
+   405.47   128.74     0.00   2  0     0.40 DoDot
+  407.42   140.42 M
+  407.42   144.98 L
+   407.42   144.98     0.00   2  0     0.40 DoDot
+  409.08   119.67 M
+  409.08   124.77 L
+   409.08   124.77     0.00   2  0     0.40 DoDot
+  410.93   143.22 M
+  410.93   147.24 L
+   410.93   147.24     0.00   2  0     0.40 DoDot
+  412.51   129.96 M
+  412.51   132.89 L
+   412.51   132.89     0.00   2  0     0.40 DoDot
+  415.65   126.82 M
+  415.65   130.71 L
+   415.65   130.71     0.00   2  0     0.40 DoDot
+  416.17   133.56 M
+  416.17   136.99 L
+   416.17   136.99     0.00   2  0     0.40 DoDot
+  417.53   131.80 M
+  417.53   134.90 L
+   417.53   134.90     0.00   2  0     0.40 DoDot
+  419.24   129.00 M
+  419.24   132.18 L
+   419.24   132.18     0.00   2  0     0.40 DoDot
+  420.88   126.40 M
+  420.88   130.46 L
+   420.88   130.46     0.00   2  0     0.40 DoDot
+  422.69   129.96 M
+  422.69   133.14 L
+   422.69   133.14     0.00   2  0     0.40 DoDot
+  423.13   131.84 M
+  423.13   135.15 L
+   423.13   135.15     0.00   2  0     0.40 DoDot
+  424.52   134.52 M
+  424.52   136.90 L
+   424.52   136.90     0.00   2  0     0.40 DoDot
+  426.22   129.08 M
+  426.22   132.43 L
+   426.22   132.43     0.00   2  0     0.40 DoDot
+  434.79   127.49 M
+  434.79   132.22 L
+   434.79   132.22     0.00   2  0     0.40 DoDot
+  441.89   129.46 M
+  441.89   134.35 L
+   441.89   134.35     0.00   2  0     0.40 DoDot
+  443.70   126.28 M
+  443.70   130.25 L
+   443.70   130.25     0.00   2  0     0.40 DoDot
+  445.17   122.85 M
+  445.17   126.49 L
+   445.17   126.49     0.00   2  0     0.40 DoDot
+  447.17   129.87 M
+  447.17   133.31 L
+   447.17   133.31     0.00   2  0     0.40 DoDot
+  449.02   125.82 M
+  449.02   129.41 L
+   449.02   129.41     0.00   2  0     0.40 DoDot
+  450.60   133.77 M
+  450.60   136.57 L
+   450.60   136.57     0.00   2  0     0.40 DoDot
+  452.26   126.32 M
+  452.26   129.54 L
+   452.26   129.54     0.00   2  0     0.40 DoDot
+  452.55   129.46 M
+  452.55   133.35 L
+   452.55   133.35     0.00   2  0     0.40 DoDot
+  454.04   126.95 M
+  454.04   130.59 L
+   454.04   130.59     0.00   2  0     0.40 DoDot
+  455.82   130.96 M
+  455.82   133.68 L
+   455.82   133.68     0.00   2  0     0.40 DoDot
+  457.47   125.94 M
+  457.47   128.70 L
+   457.47   128.70     0.00   2  0     0.40 DoDot
+  459.23   132.38 M
+  459.23   135.69 L
+   459.23   135.69     0.00   2  0     0.40 DoDot
+  460.98   129.67 M
+  460.98   132.47 L
+   460.98   132.47     0.00   2  0     0.40 DoDot
+  462.70   129.41 M
+  462.70   132.01 L
+   462.70   132.01     0.00   2  0     0.40 DoDot
+  464.51   137.95 M
+  464.51   140.21 L
+   464.51   140.21     0.00   2  0     0.40 DoDot
+  469.71   129.21 M
+  469.71   131.55 L
+   469.71   131.55     0.00   2  0     0.40 DoDot
+  471.39   130.13 M
+  471.39   133.31 L
+   471.39   133.31     0.00   2  0     0.40 DoDot
+  474.89   122.85 M
+  474.89   125.36 L
+   474.89   125.36     0.00   2  0     0.40 DoDot
+  478.44   130.71 M
+  478.44   133.64 L
+   478.44   133.64     0.00   2  0     0.40 DoDot
+  490.49   130.21 M
+  490.49   133.35 L
+   490.49   133.35     0.00   2  0     0.40 DoDot
+  492.26   130.71 M
+  492.26   134.90 L
+   492.26   134.90     0.00   2  0     0.40 DoDot
+  493.95   137.07 M
+  493.95   139.92 L
+   493.95   139.92     0.00   2  0     0.40 DoDot
+   500.89   140.59     0.00   2  0     0.40 DoDot
+   502.65   136.07     0.00   2  0     0.40 DoDot
+   514.67   130.04     0.00   2  0     0.40 DoDot
+   519.85   130.84     0.00   2  0     0.40 DoDot
+   521.63   118.45     0.00   2  0     0.40 DoDot
+   525.10   136.86     0.00   2  0     0.40 DoDot
+   537.20   134.73     0.00   2  0     0.40 DoDot
+   539.09   133.39     0.00   2  0     0.40 DoDot
+   542.36   130.75     0.00   2  0     0.40 DoDot
+   545.85   144.60     0.00   2  0     0.40 DoDot
+   552.96   121.59     0.00   2  0     0.40 DoDot
+   556.35   135.02     0.00   2  0     0.40 DoDot
+   559.74   124.39     0.00   2  0     0.40 DoDot
+   564.88   130.42     0.00   2  0     0.40 DoDot
+   571.88   137.91     0.00   2  0     0.40 DoDot
+   575.41   115.36     0.00   2  0     0.40 DoDot
+   582.31   129.41     0.00   2  0     0.40 DoDot
+   584.01   132.89     0.00   2  0     0.40 DoDot
+   587.49   133.43     0.00   2  0     0.40 DoDot
+   592.69   138.45     0.00   2  0     0.40 DoDot
+   596.17   124.64     0.00   2  0     0.40 DoDot
+   603.16   126.03     0.00   2  0     0.40 DoDot
+ stroke
+/CLR005 { 1.000 0.000 1.000 setrgbcolor} bind def
+CLR005
+ newpath
+  100.00   129.67 M
+  101.33   129.67 L
+  102.66   129.67 L
+  104.00   129.67 L
+  105.33   129.71 L
+  106.66   129.71 L
+  108.00   129.71 L
+  109.33   129.71 L
+  110.66   129.71 L
+  112.00   129.75 L
+  113.33   129.75 L
+  114.66   129.75 L
+  116.00   129.75 L
+  117.33   129.75 L
+  118.66   129.79 L
+  120.00   129.79 L
+  121.33   129.79 L
+  122.66   129.79 L
+  124.00   129.83 L
+  125.33   129.83 L
+  126.66   129.83 L
+  128.00   129.83 L
+  129.33   129.87 L
+  130.66   129.87 L
+  132.00   129.87 L
+  133.33   129.92 L
+  134.66   129.92 L
+  136.00   129.92 L
+  137.33   129.96 L
+  138.66   129.96 L
+  140.00   129.96 L
+  141.33   130.00 L
+  142.66   130.00 L
+  144.00   130.04 L
+  145.33   130.04 L
+  146.66   130.04 L
+  148.00   130.08 L
+  149.33   130.08 L
+  150.66   130.13 L
+  152.00   130.13 L
+  153.33   130.17 L
+  154.66   130.17 L
+  156.00   130.21 L
+  157.33   130.21 L
+  158.66   130.25 L
+  160.00   130.29 L
+  161.33   130.29 L
+  162.66   130.33 L
+  164.00   130.38 L
+  165.33   130.38 L
+  166.66   130.42 L
+  167.99   130.46 L
+  169.33   130.46 L
+  170.66   130.50 L
+  172.00   130.54 L
+  173.33   130.59 L
+  174.66   130.63 L
+  176.00   130.67 L
+  177.33   130.71 L
+  178.66   130.75 L
+  179.99   130.79 L
+  181.33   130.84 L
+  182.66   130.88 L
+  184.00   130.92 L
+  185.33   130.96 L
+  186.66   131.00 L
+  187.99   131.05 L
+  189.33   131.13 L
+  190.66   131.17 L
+  191.99   131.21 L
+  193.33   131.30 L
+  194.66   131.34 L
+  196.00   131.42 L
+  197.33   131.51 L
+  198.66   131.55 L
+  199.99   131.63 L
+  201.33   131.72 L
+  202.66   131.80 L
+  203.99   131.88 L
+  205.33   131.97 L
+  206.66   132.05 L
+  207.99   132.13 L
+  209.33   132.26 L
+  210.66   132.34 L
+  211.99   132.47 L
+  213.33   132.55 L
+  214.66   132.68 L
+  215.99   132.80 L
+  217.33   132.93 L
+  218.66   133.05 L
+  219.99   133.18 L
+  221.33   133.35 L
+  222.66   133.47 L
+  223.99   133.64 L
+  225.33   133.81 L
+  226.66   133.97 L
+  227.99   134.18 L
+  229.33   134.35 L
+  230.66   134.56 L
+  231.99   134.77 L
+  233.33   134.98 L
+  234.66   135.19 L
+  235.99   135.44 L
+  237.33   135.69 L
+  238.66   135.94 L
+  239.99   136.23 L
+  241.33   136.49 L
+  242.66   136.82 L
+  243.99   137.11 L
+  245.33   137.45 L
+  246.66   137.82 L
+  247.99   138.20 L
+  249.33   138.58 L
+  250.66   139.00 L
+  251.99   139.41 L
+  253.33   139.87 L
+  254.66   140.38 L
+  255.99   140.88 L
+  257.33   141.46 L
+  258.66   142.01 L
+  259.99   142.64 L
+  261.33   143.31 L
+  262.66   144.02 L
+  263.99   144.73 L
+  265.33   145.52 L
+  266.66   146.40 L
+  267.99   147.28 L
+  269.33   148.24 L
+  270.66   149.29 L
+  271.99   150.42 L
+  273.33   151.63 L
+  274.66   152.97 L
+  275.99   154.35 L
+  277.33   155.90 L
+  278.66   157.62 L
+  279.99   159.46 L
+  281.33   161.46 L
+  282.66   163.72 L
+  283.99   166.23 L
+  285.33   169.00 L
+  286.66   172.18 L
+  287.99   175.73 L
+  289.33   179.87 L
+  290.66   184.69 L
+  291.99   190.42 L
+  293.33   197.41 L
+  294.66   206.19 L
+  295.99   217.91 L
+  297.33   234.94 L
+  298.66   264.94 L
+  299.99   384.98 L
+  301.33   264.94 L
+  302.66   234.94 L
+  303.99   217.91 L
+  305.33   206.19 L
+  306.66   197.41 L
+  307.99   190.42 L
+  309.33   184.69 L
+  310.66   179.87 L
+  311.99   175.73 L
+  313.33   172.18 L
+  314.66   169.00 L
+  315.99   166.23 L
+  317.33   163.72 L
+  318.66   161.46 L
+  319.99   159.46 L
+  321.33   157.62 L
+  322.66   155.90 L
+  323.99   154.35 L
+  325.33   152.97 L
+  326.66   151.63 L
+  327.99   150.42 L
+  329.33   149.29 L
+  330.66   148.24 L
+  331.99   147.28 L
+  333.33   146.40 L
+  334.66   145.52 L
+  335.99   144.73 L
+  337.33   144.02 L
+  338.66   143.31 L
+  339.99   142.64 L
+  341.33   142.01 L
+  342.66   141.46 L
+  343.99   140.88 L
+  345.33   140.38 L
+  346.66   139.87 L
+  347.99   139.41 L
+  349.33   139.00 L
+  350.66   138.58 L
+  351.99   138.20 L
+  353.33   137.82 L
+  354.66   137.45 L
+  355.99   137.11 L
+  357.33   136.82 L
+  358.66   136.49 L
+  359.99   136.23 L
+  361.33   135.94 L
+  362.66   135.69 L
+  363.99   135.44 L
+  365.33   135.19 L
+  366.66   134.98 L
+  367.99   134.77 L
+  369.33   134.56 L
+  370.66   134.35 L
+  371.99   134.18 L
+  373.33   133.97 L
+  374.66   133.81 L
+  375.99   133.64 L
+  377.33   133.47 L
+  378.66   133.35 L
+  379.99   133.18 L
+  381.33   133.05 L
+  382.66   132.93 L
+  383.99   132.80 L
+  385.33   132.68 L
+  386.66   132.55 L
+  387.99   132.47 L
+  389.33   132.34 L
+  390.66   132.26 L
+  391.99   132.13 L
+  393.33   132.05 L
+  394.66   131.97 L
+  395.99   131.88 L
+  397.33   131.80 L
+  398.66   131.72 L
+  399.99   131.63 L
+  401.33   131.55 L
+  402.66   131.51 L
+  403.99   131.42 L
+  405.33   131.34 L
+  406.66   131.30 L
+  407.99   131.21 L
+  409.33   131.17 L
+  410.66   131.13 L
+  411.99   131.05 L
+  413.33   131.00 L
+  414.66   130.96 L
+  415.99   130.92 L
+  417.33   130.88 L
+  418.66   130.84 L
+  419.99   130.79 L
+  421.33   130.75 L
+  422.66   130.71 L
+  423.99   130.67 L
+  425.33   130.63 L
+  426.66   130.59 L
+  427.99   130.54 L
+  429.33   130.50 L
+  430.66   130.46 L
+  431.99   130.46 L
+  433.33   130.42 L
+  434.66   130.38 L
+  435.99   130.38 L
+  437.33   130.33 L
+  438.66   130.29 L
+  439.99   130.29 L
+  441.33   130.25 L
+  442.66   130.21 L
+  443.99   130.21 L
+  445.33   130.17 L
+  446.66   130.17 L
+  447.99   130.13 L
+  449.33   130.13 L
+  450.66   130.08 L
+  451.99   130.08 L
+  453.33   130.04 L
+  454.66   130.04 L
+  455.99   130.04 L
+  457.33   130.00 L
+  458.66   130.00 L
+  459.99   129.96 L
+  461.33   129.96 L
+  462.66   129.96 L
+  463.99   129.92 L
+  465.33   129.92 L
+  466.66   129.92 L
+  467.99   129.87 L
+  469.33   129.87 L
+  470.66   129.87 L
+  471.99   129.83 L
+  473.33   129.83 L
+  474.66   129.83 L
+  475.99   129.83 L
+  477.33   129.79 L
+  478.66   129.79 L
+  479.99   129.79 L
+  481.33   129.79 L
+  482.66   129.75 L
+  483.99   129.75 L
+  485.33   129.75 L
+  486.66   129.75 L
+  487.99   129.75 L
+  489.33   129.71 L
+  490.66   129.71 L
+  491.99   129.71 L
+  493.33   129.71 L
+  494.66   129.71 L
+  495.99   129.67 L
+  497.33   129.67 L
+  498.66   129.67 L
+  499.99   129.67 L
+  500.00   129.67 L
+ stroke
+ showpage
+%%Trailer
+%%DocumentFonts: NewCenturySchlbk-Roman
