@@ -3,35 +3,32 @@ import matplotlib.pyplot as plt
 from astropy.io import ascii
 import pandas as pd
 
-# Directory containing the files
-directory = 'Exodata/LightCurves/KMT/2016/blg-2397/'
+# Define the base directory
+base_dir = 'Exodata/LightCurves/KMT/2017'
 
-# Find the file that ends with the letter 'I' before the .pysis file extension
-file_to_read = None
-for file in os.listdir(directory):
-    if file.endswith('I.pysis'):
-        file_to_read = file
-        break
 
-if file_to_read:
-    filepath = os.path.join(directory, file_to_read)
 
-    # Step 1: Read the data from the file
-    table = ascii.read(filepath)
-
-    # Step 2: Convert the data to a Pandas DataFrame
+# Function to plot data from a .pysis file
+def plot_pysis_file(file_path):
+    # Read the data from the file
+    table = ascii.read(file_path)
+    # Convert the data to a Pandas DataFrame
     df = table.to_pandas()
-
-    print(df.head())
-
-    # Step 3: Visualize the magnitude data
+    # Plot the data with error bars
     plt.figure(figsize=(10, 6))
-    plt.plot(df['HJD'], df['mag'], marker='o', linestyle='-', color='b')
+    plt.errorbar(df['HJD'], df['mag'], yerr=df['mag_err'], fmt='o', linestyle='-', color='b', ecolor='b', capsize=2)
     plt.xlabel('HJD')
-    plt.ylabel('Magnitude')
-    plt.title('Magnitude over Time')
-    plt.gca().invert_yaxis()  # Invert y-axis because in astronomy, lower magnitudes are brighter
+    plt.ylabel('Flux')
+    plt.title(f'Flux over Time for {os.path.basename(file_path)}')
     plt.grid(True)
     plt.show()
-else:
-    print("No file ending with 'I.pysis' found in the directory.")
+
+# Loop through each folder in the base directory
+for root, dirs, files in os.walk(base_dir):
+    for file in files:
+        # Check if the file ends with I.pysis
+        if file.endswith('I.pysis'):
+            file_path = os.path.join(root, file)
+            print(f'Plotting file: {file_path}')
+            plot_pysis_file(file_path)
+            break  # Plot only one file per folder
