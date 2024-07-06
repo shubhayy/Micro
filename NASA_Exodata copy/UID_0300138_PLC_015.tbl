@@ -1,0 +1,29 @@
+\STAR_ID                              = "MOA 2009-BLG-319L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "18h06m58.13s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-26d49m10.89s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "6"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455009.290860"
+\MAXIMUM_DATE                         = "2455010.628940"
+\DATE_UNITS                           = "days"
+\REFERENCES                           = "Miyake et al. 2011"
+\BIBCODES                             = "2011ApJ...728..120M"
+\TELESCOPE                            = "InfraRed Survey (IRSF) Telescope (1.4 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "H"
+\OBSERVATORY_SITE                     = "SAAO, Sutherland, South Africa"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COMMENT                              = "none"
+|            HJD| RELATIVE_MAGNITUDE| MAGNITUDE_UNCERTAINTY| RELATIVE_FLUX| FLUX_UNCERTAINTY|
+|           real|               real|                  real|          real|             real|
+|           days|                mag|                   mag|              |                 |
+  2455009.290860                                                2423.25992         190.64570
+  2455009.536970                                                2731.49242         247.45524
+  2455010.304130                                                1901.95396         190.44184
+  2455010.415310                                                2157.74441         154.32430
+  2455010.566650                                                2072.04890         177.83432
+  2455010.628940                                                1900.20300         163.08559

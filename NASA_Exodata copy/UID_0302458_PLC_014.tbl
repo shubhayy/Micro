@@ -1,0 +1,45 @@
+\STAR_ID                              = "MOA 2010-BLG-477L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "18h06m07.44s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-31d27m16.12s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "18"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455424.054630"
+\MAXIMUM_DATE                         = "2455424.240930"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "15.338855"
+\MAXIMUM_VALUE                        = "15.504206"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Bachelet et al. 2012"
+\BIBCODES                             = "2012ApJ...754...73B"
+\TELESCOPE                            = "Perth Telescope (0.6 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "I"
+\OBSERVATORY_SITE                     = "Perth Observatory, Australia"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2455424.054630            15.356001                 0.024666
+   2455424.069260            15.413900                 0.024666
+   2455424.076540            15.338855                 0.024666
+   2455424.083830            15.391623                 0.024666
+   2455424.091110            15.404532                 0.024666
+   2455424.105680            15.442766                 0.024666
+   2455424.113040            15.427226                 0.024666
+   2455424.120330            15.431079                 0.024666
+   2455424.127610            15.427226                 0.024666
+   2455424.145680            15.368262                 0.024666
+   2455424.153040            15.386162                 0.024666
+   2455424.160350            15.448682                 0.024666
+   2455424.175210            15.389798                 0.024666
+   2455424.182490            15.393453                 0.024666
+   2455424.219000            15.493601                 0.024666
+   2455424.226280            15.504206                 0.024666
+   2455424.233650            15.425307                 0.024666
+   2455424.240930            15.429150                 0.024666

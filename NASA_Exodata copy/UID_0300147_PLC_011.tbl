@@ -1,0 +1,30 @@
+\STAR_ID                              = "MOA 2009-BLG-387L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h53m50.79s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-33d59m25s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "7"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455046.987480"
+\MAXIMUM_DATE                         = "2455049.096840"
+\DATE_UNITS                           = "days"
+\REFERENCES                           = "Batista et al. 2011"
+\BIBCODES                             = "2011A&A...529A.102B"
+\TELESCOPE                            = "Kumeu Telescope (0.36 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "R"
+\OBSERVATORY_SITE                     = "Kumeu Observatory, Auckland, New Zealand"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COMMENT                              = "none"
+|            HJD| RELATIVE_MAGNITUDE| MAGNITUDE_UNCERTAINTY| RELATIVE_FLUX| FLUX_UNCERTAINTY|
+|           real|               real|                  real|          real|             real|
+|           days|                mag|                   mag|              |                 |
+  2455046.987480              19.630                 0.259
+  2455047.020260              19.032                 0.125
+  2455048.654290              18.041                 0.037
+  2455048.927480              18.082                 0.032
+  2455048.966160              17.948                 0.033
+  2455048.996060              17.974                 0.061
+  2455049.096840              18.098                 0.060

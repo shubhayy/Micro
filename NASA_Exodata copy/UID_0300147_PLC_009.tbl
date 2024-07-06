@@ -1,0 +1,32 @@
+\STAR_ID                              = "MOA 2009-BLG-387L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h53m50.79s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-33d59m25s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "9"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455041.417060"
+\MAXIMUM_DATE                         = "2455058.422510"
+\DATE_UNITS                           = "days"
+\REFERENCES                           = "Batista et al. 2011"
+\BIBCODES                             = "2011A&A...529A.102B"
+\TELESCOPE                            = "Liverpool Telescope (2.0 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "I"
+\OBSERVATORY_SITE                     = "La Palma, Canary Islands, Spain"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COMMENT                              = "none"
+|            HJD| RELATIVE_MAGNITUDE| MAGNITUDE_UNCERTAINTY| RELATIVE_FLUX| FLUX_UNCERTAINTY|
+|           real|               real|                  real|          real|             real|
+|           days|                mag|                   mag|              |                 |
+  2455041.417060              18.566                 0.037
+  2455041.443340              18.500                 0.029
+  2455041.473390              18.409                 0.029
+  2455041.497010              18.722                 0.037
+  2455041.516940              18.569                 0.043
+  2455042.410250              18.419                 0.056
+  2455042.469080              18.638                 0.085
+  2455057.418520              20.139                 0.109
+  2455058.422510              19.695                 0.084

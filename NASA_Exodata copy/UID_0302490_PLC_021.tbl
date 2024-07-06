@@ -1,0 +1,53 @@
+\STAR_ID                              = "MOA 2010-BLG-073L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "18h10m11.342s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-26d31m22.544s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "30"
+\TIME_REFERENCE_FRAME                 = "Heliocentric Julian Day"
+\MINIMUM_DATE                         = "2455352.43593"
+\MAXIMUM_DATE                         = "2455375.62466"
+\DATE_UNITS                           = "days"
+\REFERENCES                           = "Street et al. 2013"
+\BIBCODES                             = "2013ApJ...763...67S"
+\TELESCOPE                            = "Elizabeth Telescope (1.0 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "I"
+\OBSERVATORY_SITE                     = "SAAO, Sutherland, South Africa"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COMMENT                              = ""
+|             JD| RELATIVE_MAGNITUDE| MAGNITUDE_UNCERTAINTY| RELATIVE_FLUX|      FLUX_UNCERTAINTY|
+|           real|               real|                  real|          real|                  real|
+|           days|                mag|                   mag|              |                      |
+   2455352.43593             17.3069                 0.0019
+   2455352.55731             17.3495                 0.0026
+   2455352.66346             17.3186                 0.0020
+   2455353.39351             17.3334                 0.0018
+   2455353.58634             17.3477                 0.0017
+   2455354.39097             17.3640                 0.0018
+   2455354.59792             17.3716                 0.0017
+   2455359.35209             17.4632                 0.0019
+   2455359.57965             17.4834                 0.0018
+   2455364.32945             17.5710                 0.0017
+   2455366.37717             17.6178                 0.0063
+   2455366.58660             17.6111                 0.0025
+   2455367.30689             17.6225                 0.0019
+   2455367.42234             17.6207                 0.0018
+   2455367.54884             17.6253                 0.0018
+   2455367.63486             17.6303                 0.0019
+   2455368.29651             17.6414                 0.0022
+   2455368.44535             17.6365                 0.0018
+   2455368.61229             17.6384                 0.0027
+   2455369.29544             17.6549                 0.0025
+   2455370.30811             17.6481                 0.0028
+   2455370.42088             17.6776                 0.0027
+   2455370.58364             17.6730                 0.0022
+   2455370.63453             17.6817                 0.0021
+   2455371.29837             17.6391                 0.0026
+   2455371.62786             17.6833                 0.0048
+   2455372.30351             17.7148                 0.0034
+   2455372.62160             17.7083                 0.0033
+   2455375.36480             17.7535                 0.0025
+   2455375.62466             17.7593                 0.0043

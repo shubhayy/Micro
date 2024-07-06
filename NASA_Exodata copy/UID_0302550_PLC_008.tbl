@@ -1,0 +1,51 @@
+\STAR_ID                              = "OGLE 2013-BLG-341L B"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h52m07.49s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-29d50m46.0s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "24"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2456404.972190"
+\MAXIMUM_DATE                         = "2456407.023630"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "13.254405"
+\MAXIMUM_VALUE                        = "15.099141"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Gould et al. 2014"
+\BIBCODES                             = "2014Sci...345...46G"
+\TELESCOPE                            = "Turitea Telescope (0.36 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "R"
+\OBSERVATORY_SITE                     = "New Zealand"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2456404.972190            15.099141                 0.027569
+   2456404.975890            15.078960                 0.025268
+   2456405.003490            15.099141                 0.026884
+   2456405.016910            15.063355                 0.024774
+   2456405.020600            15.070706                 0.026124
+   2456405.043280            15.047719                 0.024538
+   2456405.050380            15.056004                 0.025053
+   2456405.054080            15.033910                 0.027044
+   2456405.057790            15.016403                 0.022863
+   2456405.920820            14.330394                 0.022444
+   2456405.924560            14.355308                 0.022571
+   2456405.932090            14.416529                 0.023563
+   2456405.941180            14.350525                 0.020818
+   2456405.944860            14.343818                 0.020739
+   2456405.952840            14.338068                 0.022015
+   2456406.023220            13.535400                 0.017072
+   2456406.032020            13.492260                 0.017463
+   2456406.073140            13.254405                 0.017348
+   2456406.994350            13.898636                 0.018757
+   2456406.998030            13.885984                 0.018648
+   2456407.002010            13.909321                 0.018408
+   2456407.005750            13.908353                 0.018487
+   2456407.009490            13.938473                 0.019643
+   2456407.023630            13.984092                 0.018893

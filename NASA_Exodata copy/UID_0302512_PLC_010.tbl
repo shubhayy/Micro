@@ -1,0 +1,49 @@
+\STAR_ID                              = "OGLE 2012-BLG-358L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h42m46.77s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-24d15m39.6s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "22"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2456037.145840"
+\MAXIMUM_DATE                         = "2456037.375410"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "14.065799"
+\MAXIMUM_VALUE                        = "14.186440"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Han et al. 2013"
+\BIBCODES                             = "2013ApJ...778...38H"
+\TELESCOPE                            = "Perth Extrasolar Survey Telescope (0.3 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "unfiltered"
+\OBSERVATORY_SITE                     = "Australia"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2456037.145840            14.186440                 0.012285
+   2456037.148700            14.148188                 0.011700
+   2456037.151580            14.167760                 0.012285
+   2456037.154450            14.163689                 0.012870
+   2456037.191980            14.125254                 0.011700
+   2456037.194830            14.139191                 0.016965
+   2456037.197690            14.161245                 0.021060
+   2456037.329650            14.083211                 0.008775
+   2456037.332520            14.082383                 0.008775
+   2456037.335390            14.085693                 0.008775
+   2456037.338270            14.074926                 0.008775
+   2456037.341160            14.075755                 0.008775
+   2456037.344870            14.077413                 0.010530
+   2456037.347760            14.086521                 0.009360
+   2456037.350640            14.079070                 0.009360
+   2456037.353530            14.065799                 0.010530
+   2456037.356430            14.079898                 0.008775
+   2456037.360130            14.082383                 0.009360
+   2456037.363010            14.084038                 0.008775
+   2456037.365900            14.087348                 0.008775
+   2456037.368790            14.080727                 0.010530
+   2456037.375410            14.076584                 0.019305

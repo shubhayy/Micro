@@ -1,0 +1,40 @@
+\STAR_ID                              = "OGLE 2012-BLG-026L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h34m18.70s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-27d08m33.9s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "13"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455993.122320"
+\MAXIMUM_DATE                         = "2456002.143720"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "15.026472"
+\MAXIMUM_VALUE                        = "16.928527"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Han et al. 2013"
+\BIBCODES                             = "2013ApJ...762L..28H"
+\TELESCOPE                            = "Farm Cove Telescope (0.4 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "unfiltered"
+\OBSERVATORY_SITE                     = "Farm Cove Observatory"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2455993.122320            15.026472                 0.019150
+   2455993.125930            15.037248                 0.017547
+   2455993.131450            15.089134                 0.020795
+   2456002.096350            16.747429                 0.089763
+   2456002.114820            16.872719                 0.097166
+   2456002.118430            16.857596                 0.099018
+   2456002.122040            16.772621                 0.087913
+   2456002.125660            16.694135                 0.080519
+   2456002.129270            16.928527                 0.104574
+   2456002.132890            16.858487                 0.093464
+   2456002.136500            16.777113                 0.086064
+   2456002.140110            16.713136                 0.078672
+   2456002.143720            16.780705                 0.108280

@@ -1,0 +1,43 @@
+\STAR_ID                              = "OGLE 2011-BLG-265L
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h57m47.72s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-27d23m40.3s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "16"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455745.623570"
+\MAXIMUM_DATE                         = "2455760.726720"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "16.0170"
+\MAXIMUM_VALUE                        = "16.5050"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Skowron et al. 2015"
+\BIBCODES                             = "2014arXiv1410.8252S"
+\TELESCOPE                            = "SMARTS Telescope (1.3 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "I"
+\OBSERVATORY_SITE                     = "CTIO, Chile"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2455745.623570              15.5250                   0.0305
+   2455752.589300              15.5911                   0.0130
+   2455754.608640              15.4258                   0.0103
+   2455754.663700              15.4147                   0.0112
+   2455757.479790              15.1533                   0.0112
+   2455757.531320              15.1493                   0.0103
+   2455757.566470              15.1503                   0.0094
+   2455757.591250              15.1333                   0.0094
+   2455757.629840              15.1233                   0.0094
+   2455757.662870              15.1303                   0.0094
+   2455757.698080              15.1112                   0.0094
+   2455757.737010              15.1293                   0.0103
+   2455757.765530              15.1162                   0.0103
+   2455760.546260              15.1172                   0.0078
+   2455760.615020              15.1112                   0.0086
+   2455760.726720              15.1022                   0.0094

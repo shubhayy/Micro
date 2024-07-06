@@ -1,0 +1,46 @@
+\STAR_ID                              = "MOA 2009-BLG-266L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h48m01.95s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-35d00m19.5s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "21"
+\TIME_REFERENCE_FRAME                 = "Geocentric JD"
+\MINIMUM_DATE                         = "2455110.35464"
+\MAXIMUM_DATE                         = "2455551.80000"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "16.2552"
+\MAXIMUM_VALUE                        = "17.3474"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Muraki et al. 2011"
+\BIBCODES                             = "2011ApJ...741...22M"
+\TELESCOPE                            = "EPOXI spacecraft"
+\INSTRUMENT                           = "High Resolution Instrument visible imager"
+\TIME_SERIES_DATA_FILTER              = "unfiltered"
+\OBSERVATORY_SITE                     = "EPOXI spacecraft 0.1 AU from Earth"
+\COLUMN_JD                            = "Julian Day"
+|           JD |     RELATIVE_MAGNITUDE |    MAGNITUDE_UNCERTAINTY |
+|         real |                   real |                     real |
+|         days |                    mag |                      mag |
+  2455110.35464                  16.2552                     0.0093
+  2455110.45062                  16.2710                     0.0093
+  2455110.55115                  16.2810                     0.0093
+  2455110.64942                  16.2873                     0.0093
+  2455110.75032                  16.2907                     0.0093
+  2455110.84990                  16.2906                     0.0093
+  2455110.94725                  16.3014                     0.0093
+  2455111.05107                  16.3025                     0.0093
+  2455111.15171                  16.3164                     0.0093
+  2455111.24922                  16.3287                     0.0093
+  2455111.35200                  16.3301                     0.0094
+  2455111.45185                  16.3251                     0.0094
+  2455111.54845                  16.3249                     0.0093
+  2455111.64615                  16.3339                     0.0094
+  2455111.75056                  16.3351                     0.0093
+  2455111.85055                  16.3366                     0.0093
+  2455111.94957                  16.3320                     0.0093
+  2455112.02226                  16.3515                     0.0098
+  2455112.18803                  16.3709                     0.0115
+  2455112.20423                  16.3884                     0.0164
+  2455551.80000                  17.3474                     0.010

@@ -1,0 +1,53 @@
+\STAR_ID                              = "OGLE 2012-BLG-026L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h34m18.70s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-27d08m33.9s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "26"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455992.123610"
+\MAXIMUM_DATE                         = "2456000.216410"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "14.456997"
+\MAXIMUM_VALUE                        = "16.721770"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Han et al. 2013"
+\BIBCODES                             = "2013ApJ...762L..28H"
+\TELESCOPE                            = "Turitea Telescope (0.4 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "unfiltered"
+\OBSERVATORY_SITE                     = "Turitea Observatory, New Zealand"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2455992.123610            14.456997                 0.007000
+   2455992.127370            14.472945                 0.007000
+   2455992.136400            14.485902                 0.007000
+   2455992.140170            14.478925                 0.007000
+   2455992.144320            14.487895                 0.007000
+   2455992.148380            14.479922                 0.008250
+   2455992.162620            14.487895                 0.007000
+   2455992.166620            14.493875                 0.007000
+   2455992.172220            14.492878                 0.007000
+   2455992.178550            14.506831                 0.007000
+   2455992.182260            14.504838                 0.007000
+   2455992.188010            14.518790                 0.007000
+   2455996.170180            16.067875                 0.031738
+   2455996.174800            15.971217                 0.028483
+   2455996.179360            15.989966                 0.028483
+   2455996.183810            16.058018                 0.030110
+   2455996.188180            16.048159                 0.030110
+   2455996.193680            16.026465                 0.030110
+   2455996.197560            16.034354                 0.030110
+   2455996.201350            16.040271                 0.030110
+   2456000.165110            16.622318                 0.056318
+   2456000.183660            16.668173                 0.054675
+   2456000.188480            16.575438                 0.048105
+   2456000.204970            16.545137                 0.048105
+   2456000.212060            16.635982                 0.056318
+   2456000.216410            16.721770                 0.064540

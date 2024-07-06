@@ -1,0 +1,43 @@
+\STAR_ID                              = "MOA 2010-BLG-477L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "18h06m07.44s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-31d27m16.12s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "16"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455418.628920"
+\MAXIMUM_DATE                         = "2455675.724550"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "14.104371"
+\MAXIMUM_VALUE                        = "19.587069"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Bachelet et al. 2012"
+\BIBCODES                             = "2012ApJ...754...73B"
+\TELESCOPE                            = "SMARTS (1.3 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "V"
+\OBSERVATORY_SITE                     = "CTIO, Chile"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2455418.628920            15.355586                 0.029155
+   2455418.705160            15.374726                 0.037121
+   2455421.517190            14.104371                 0.009487
+   2455421.558490            14.198017                 0.014318
+   2455421.600050            14.282518                 0.012369
+   2455422.513430            14.297538                 0.017263
+   2455422.554670            14.346992                 0.018248
+   2455422.595780            14.424725                 0.017263
+   2455423.558520            15.195007                 0.026173
+   2455656.838280            19.587069                 0.137033
+   2455659.866300            18.616240                 0.122037
+   2455660.744380            18.702545                 0.153029
+   2455662.753010            17.208305                 0.122037
+   2455662.820290            19.347849                 0.184024
+   2455669.844900            18.596706                 0.123037
+   2455675.724550            18.213003                 0.100045

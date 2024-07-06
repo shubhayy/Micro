@@ -1,0 +1,43 @@
+\STAR_ID                              = "MOA 2010-BLG-477L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "18h06m07.44s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-31d27m16.12s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "16"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455420.977140"
+\MAXIMUM_DATE                         = "2455424.042490"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "12.771430"
+\MAXIMUM_VALUE                        = "15.316746"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Bachelet et al. 2012"
+\BIBCODES                             = "2012ApJ...754...73B"
+\TELESCOPE                            = "Canopus Hill Telescope (1.0 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "I"
+\OBSERVATORY_SITE                     = "Mt. Canopus Observatory, Tasmania, Australia"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2455420.977140            12.870370                 0.002600
+   2455420.982430            12.831032                 0.002600
+   2455420.989700            12.809835                 0.002600
+   2455420.993330            12.780108                 0.002600
+   2455420.996980            12.771430                 0.002600
+   2455421.869390            14.607905                 0.002600
+   2455421.873020            14.612890                 0.002600
+   2455421.889030            14.622916                 0.002600
+   2455421.892740            14.622916                 0.002600
+   2455421.896760            14.633017                 0.002600
+   2455421.900410            14.612890                 0.002600
+   2455421.908000            14.633017                 0.002600
+   2455421.911640            14.638095                 0.002600
+   2455421.918850            14.648310                 0.002600
+   2455422.123210            14.607905                 0.002600
+   2455424.042490            15.316746                 0.002600

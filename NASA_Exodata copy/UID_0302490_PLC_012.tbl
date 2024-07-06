@@ -1,0 +1,27 @@
+\STAR_ID                              = "MOA 2010-BLG-073L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "18h10m11.342s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-26d31m22.544s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "4"
+\TIME_REFERENCE_FRAME                 = "Heliocentric Julian Day"
+\MINIMUM_DATE                         = "2455328.95909"
+\MAXIMUM_DATE                         = "2455340.86633"
+\DATE_UNITS                           = "days"
+\REFERENCES                           = "Street et al. 2013"
+\BIBCODES                             = "2013ApJ...763...67S"
+\TELESCOPE                            = "InfraRed Survey (IRSF) Telescope (1.4 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "K"
+\OBSERVATORY_SITE                     = "SAAO, Sutherland, South Africa"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COMMENT                              = ""
+|             JD| RELATIVE_MAGNITUDE| MAGNITUDE_UNCERTAINTY| RELATIVE_FLUX|      FLUX_UNCERTAINTY|
+|           real|               real|                  real|          real|                  real|
+|           days|                mag|                   mag|              |                      |
+   2455328.95909             11.6856                 0.0824
+   2455331.93592             11.6380                 0.0811
+   2455338.16068             11.5691                 0.0805
+   2455340.86633             11.5581                 0.0814

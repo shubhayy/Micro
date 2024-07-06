@@ -1,0 +1,32 @@
+\STAR_ID                              = "MOA 2009-BLG-387L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h53m50.79s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-33d59m25s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "9"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455040.859070"
+\MAXIMUM_DATE                         = "2455047.917560"
+\DATE_UNITS                           = "days"
+\REFERENCES                           = "Batista et al. 2011"
+\BIBCODES                             = "2011A&A...529A.102B"
+\TELESCOPE                            = "Faulkes North Telescope (2.0 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "I"
+\OBSERVATORY_SITE                     = "Haleakala, Hawaii, USA"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COMMENT                              = "none"
+|            HJD| RELATIVE_MAGNITUDE| MAGNITUDE_UNCERTAINTY| RELATIVE_FLUX| FLUX_UNCERTAINTY|
+|           real|               real|                  real|          real|             real|
+|           days|                mag|                   mag|              |                 |
+  2455040.859070              17.333                 0.004
+  2455041.784370              18.504                 0.011
+  2455042.825810              18.496                 0.008
+  2455047.779120              17.890                 0.008
+  2455047.809240              17.904                 0.009
+  2455047.837490              17.927                 0.009
+  2455047.868370              17.949                 0.009
+  2455047.890130              17.984                 0.009
+  2455047.917560              18.035                 0.013

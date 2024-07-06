@@ -1,0 +1,36 @@
+\STAR_ID                              = "MOA 2010-BLG-477L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "18h06m07.44s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-31d27m16.12s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "9"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455421.273690"
+\MAXIMUM_DATE                         = "2455423.333100"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "13.552651"
+\MAXIMUM_VALUE                        = "15.057861"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Bachelet et al. 2012"
+\BIBCODES                             = "2012ApJ...754...73B"
+\TELESCOPE                            = "Wise Telescope (0.46 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "unfiltered"
+\OBSERVATORY_SITE                     = "Wise Observatory, Israel"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2455421.273690            13.552651                 0.028631
+   2455421.296830            13.609375                 0.028859
+   2455421.307020            13.594202                 0.129314
+   2455423.242620            14.973380                 0.181903
+   2455423.254750            14.973692                 0.059752
+   2455423.274960            15.009787                 0.060909
+   2455423.296150            14.986824                 0.061888
+   2455423.317270            14.984788                 0.061502
+   2455423.333100            15.057861                 0.091374

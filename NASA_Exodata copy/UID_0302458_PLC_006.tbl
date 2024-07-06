@@ -1,0 +1,31 @@
+\STAR_ID                              = "MOA 2010-BLG-477L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "18h06m07.44s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-31d27m16.12s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "4"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455419.064640"
+\MAXIMUM_DATE                         = "2455423.949600"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "14.244126"
+\MAXIMUM_VALUE                        = "15.775754"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Bachelet et al. 2012"
+\BIBCODES                             = "2012ApJ...754...73B"
+\TELESCOPE                            = "Farm Cove Telescope (0.36 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "unfiltered"
+\OBSERVATORY_SITE                     = "Farm Cove Observatory, New Zealand"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2455419.064640            14.954809                 0.809032
+   2455420.088920            14.244126                 0.358670
+   2455423.919790            14.952405                 0.556922
+   2455423.949600            15.775754                 1.085987

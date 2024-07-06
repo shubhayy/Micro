@@ -1,0 +1,43 @@
+\STAR_ID                              = "OGLE 2012-BLG-406L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h53m18.17s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-30d28m16.2s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "16"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2456119.528920"
+\MAXIMUM_DATE                         = "2456199.485060"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "16.309000"
+\MAXIMUM_VALUE                        = "16.796000"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Tsapras et al. 2014"
+\BIBCODES                             = "2014ApJ...782...48T"
+\TELESCOPE                            = "SMARTS (1.3 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "V"
+\OBSERVATORY_SITE                     = "CTIO, Chile"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|            HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|           real |               real |                   real |
+|           days |                mag |                    mag |
+  2456119.528920            16.421000                 0.011463
+  2456119.729830            16.436000                 0.012034
+  2456120.537260            16.365000                 0.011011
+  2456120.692620            16.353000                 0.011282
+  2456121.544620            16.394000                 0.013638
+  2456121.693180            16.375000                 0.010829
+  2456130.574970            16.374000                 0.010952
+  2456131.584180            16.361000                 0.010419
+  2456140.685880            16.309000                 0.024783
+  2456145.565820            16.309000                 0.009529
+  2456180.539790            16.621000                 0.016105
+  2456181.550290            16.641000                 0.013480
+  2456182.491320            16.663000                 0.013819
+  2456186.501300            16.707000                 0.014368
+  2456197.498660            16.778000                 0.023584
+  2456199.485060            16.796000                 0.026953

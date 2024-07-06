@@ -1,0 +1,38 @@
+\STAR_ID                              = "MOA 2010-BLG-073L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "18h10m11.342s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-26d31m22.544s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "15"
+\TIME_REFERENCE_FRAME                 = "Heliocentric Julian Day"
+\MINIMUM_DATE                         = "2455331.03842"
+\MAXIMUM_DATE                         = "2455331.10989"
+\DATE_UNITS                           = "days"
+\REFERENCES                           = "Street et al. 2013"
+\BIBCODES                             = "2013ApJ...763...67S"
+\TELESCOPE                            = "Possum Telescope (0.41 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "R"
+\OBSERVATORY_SITE                     = "Possum Observatory, Gisborne, North Island, New Zealand"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COMMENT                              = ""
+|             JD| RELATIVE_MAGNITUDE| MAGNITUDE_UNCERTAINTY| RELATIVE_FLUX|      FLUX_UNCERTAINTY|
+|           real|               real|                  real|          real|                  real|
+|           days|                mag|                   mag|              |                      |
+   2455331.03842             14.9980                 0.0110
+   2455331.04298             14.9690                 0.0130
+   2455331.04736             14.9710                 0.0140
+   2455331.05186             15.0320                 0.0130
+   2455331.06075             15.0060                 0.0170
+   2455331.06520             15.0030                 0.0180
+   2455331.06957             14.9920                 0.0340
+   2455331.07848             14.9650                 0.0190
+   2455331.08307             14.9670                 0.0150
+   2455331.08762             14.9660                 0.0140
+   2455331.09205             14.9800                 0.0130
+   2455331.09654             14.9820                 0.0140
+   2455331.10093             14.9760                 0.0140
+   2455331.10538             14.9880                 0.0150
+   2455331.10989             14.9980                 0.0280

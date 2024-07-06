@@ -1,0 +1,36 @@
+\STAR_ID                              = "OGLE 2013-BLG-102L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h52m07.08s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-31d41m26.1s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "9"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2456417.845780"
+\MAXIMUM_DATE                         = "2456455.746380"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "16.592334"
+\MAXIMUM_VALUE                        = "16.955614"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Jung et al. 2015"
+\BIBCODES                             = "2015ApJ...798..123J"
+\TELESCOPE                            = "SMARTS (1.3 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "V"
+\OBSERVATORY_SITE                     = "CTIO, Chile"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2456417.845780            16.592334                 0.049431
+   2456420.734200            16.759450                 0.036917
+   2456423.749650            16.689878                 0.047024
+   2456423.885010            16.686239                 0.058610
+   2456424.880070            16.741063                 0.052747
+   2456426.836530            16.676543                 0.042714
+   2456454.806480            16.898655                 0.058639
+   2456455.646960            16.902433                 0.046623
+   2456455.746380            16.955614                 0.057072

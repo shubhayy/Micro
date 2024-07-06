@@ -1,0 +1,42 @@
+\STAR_ID                              = "OGLE 2012-BLG-358L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h42m46.77s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-24d15m39.6s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "15"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2456037.060000"
+\MAXIMUM_DATE                         = "2456037.157400"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "14.158553"
+\MAXIMUM_VALUE                        = "14.227520"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Han et al. 2013"
+\BIBCODES                             = "2013ApJ...778...38H"
+\TELESCOPE                            = "Auckland Telescope (0.4 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "R"
+\OBSERVATORY_SITE                     = "New Zealand"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2456037.060000            14.227520                 0.008337
+   2456037.066100            14.214769                 0.008337
+   2456037.069790            14.217956                 0.009528
+   2456037.073480            14.187170                 0.009528
+   2456037.101720            14.177626                 0.008337
+   2456037.105410            14.197780                 0.008337
+   2456037.109110            14.178686                 0.008337
+   2456037.112810            14.180807                 0.008337
+   2456037.116510            14.163849                 0.008337
+   2456037.120200            14.179747                 0.008337
+   2456037.123890            14.171266                 0.008337
+   2456037.127590            14.172326                 0.009528
+   2456037.131280            14.174446                 0.008337
+   2456037.153700            14.158553                 0.008337
+   2456037.157400            14.170206                 0.010719

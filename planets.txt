@@ -1,0 +1,22 @@
+Positives:
+
+48 From NASA, 100 From OGLE, 84 from KMT, but not in a good form.
+
+232 total,
+148 without KMT
+
+
+Start with using current data, with a 230 positives, 270 negatives
+
+Reach out to NASA, ask for how do i get more simulated data, or their real data in magnitude form.
+
+Make a Model on simulating light curves first, Look at actual packages, 
+
+Find highest y pos then grab their x and then splice it in a +/- 1000 to 1500 date
+Make a new array, 
+
+Add negative samples to my .csv files
+
+Try multiple variations of the model
+
+Aim for consistent size

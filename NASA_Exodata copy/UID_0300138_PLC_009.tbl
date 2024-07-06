@@ -1,0 +1,28 @@
+\STAR_ID                              = "MOA 2009-BLG-319L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "18h06m58.13s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-26d49m10.89s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "5"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455005.702450"
+\MAXIMUM_DATE                         = "2455009.827980"
+\DATE_UNITS                           = "days"
+\REFERENCES                           = "Miyake et al. 2011"
+\BIBCODES                             = "2011ApJ...728..120M"
+\TELESCOPE                            = "SMARTS Telescope (1.3 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "V"
+\OBSERVATORY_SITE                     = "CTIO, Chile"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COMMENT                              = "none"
+|            HJD| RELATIVE_MAGNITUDE| MAGNITUDE_UNCERTAINTY| RELATIVE_FLUX| FLUX_UNCERTAINTY|
+|           real|               real|                  real|          real|             real|
+|           days|                mag|                   mag|              |                 |
+  2455005.702450                                                   0.00000          80.38334
+  2455006.562350                                               18895.40000         113.57273
+  2455006.603580                                               17698.00000         107.32832
+  2455008.568300                                               -2259.90000        3363.79797
+  2455009.827980                                               -2777.40000          91.75945

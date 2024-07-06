@@ -1,0 +1,32 @@
+\STAR_ID                              = "OGLE 2012-BLG-026L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h34m18.70s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-27d08m33.9s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "5"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455993.808090"
+\MAXIMUM_DATE                         = "2456033.751080"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "15.350236"
+\MAXIMUM_VALUE                        = "17.825391"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Han et al. 2013"
+\BIBCODES                             = "2013ApJ...762L..28H"
+\TELESCOPE                            = "SMARTS (1.3 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "V"
+\OBSERVATORY_SITE                     = "CTIO, Chile"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2455993.808090            15.350236                 0.006233
+   2455993.846130            15.375023                 0.005691
+   2456019.731460            17.553679                 0.107045
+   2456020.744610            17.532135                 0.033333
+   2456033.751080            17.825391                 0.028184

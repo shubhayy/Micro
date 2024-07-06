@@ -1,0 +1,45 @@
+\STAR_ID                              = "OGLE 2007-BLG-368L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h56m25.96s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-32d14m14.7s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "20"
+\TIME_REFERENCE_FRAME                 = "Geocentric JD"
+\MINIMUM_DATE                         = "2454304.70679"
+\MAXIMUM_DATE                         = "2454344.65791"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "13.914"
+\MAXIMUM_VALUE                        = "14.706"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Sumi et al. 2010"
+\BIBCODES                             = "2010ApJ...710.1641S"
+\TELESCOPE                            = "Danish Telescope (1.54 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "V"
+\OBSERVATORY_SITE                     = "La Silla"
+\COLUMN_JD                            = "Julian Day"
+|           JD |    RELATIVE_MAGNITUDE |   MAGNITUDE_UNCERTAINTY |
+|         real |                  real |                    real |
+|         days |                   mag |                     mag |
+  2454304.70679                  13.914                     0.030
+  2454316.52882                  13.946                     0.020
+  2454319.53425                  14.124                     0.025
+  2454319.63516                  14.151                     0.020
+  2454327.61717                  14.393                     0.034
+  2454331.51196                  14.478                     0.031
+  2454331.58594                  14.455                     0.029
+  2454331.70500                  14.458                     0.035
+  2454332.71678                  14.533                     0.035
+  2454333.62457                  14.487                     0.036
+  2454340.51613                  14.633                     0.065
+  2454340.64541                  14.520                     0.064
+  2454341.60860                  14.706                     0.094
+  2454342.52754                  14.594                     0.040
+  2454342.59203                  14.542                     0.047
+  2454342.68009                  14.630                     0.065
+  2454343.52749                  14.647                     0.029
+  2454343.64795                  14.577                     0.049
+  2454344.51999                  14.571                     0.027
+  2454344.65791                  14.520                     0.039

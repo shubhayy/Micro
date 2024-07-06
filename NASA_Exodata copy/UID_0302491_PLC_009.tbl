@@ -1,0 +1,48 @@
+\STAR_ID                              = "OGLE 2012-BLG-026L"
+\DATA_CATEGORY                        = "Photometric light curve"
+\RA                                   = "17h34m18.70s"
+\RA_UNITS                             = "sexagesimal"
+\DEC                                  = "-27d08m33.9s"
+\DEC_UNITS                            = "sexagesimal"
+\EQUINOX                              = "J2000.0"
+\NUMBER_OF_POINTS                     = "21"
+\TIME_REFERENCE_FRAME                 = "Heliocentric JD"
+\MINIMUM_DATE                         = "2455990.201460"
+\MAXIMUM_DATE                         = "2455993.212990"
+\DATE_UNITS                           = "days"
+\MINIMUM_VALUE                        = "14.400454"
+\MAXIMUM_VALUE                        = "15.172782"
+\VALUE_UNITS                          = "mag"
+\REFERENCES                           = "Han et al. 2013"
+\BIBCODES                             = "2013ApJ...762L..28H"
+\TELESCOPE                            = "Possum (0.4 m)"
+\INSTRUMENT                           = "unknown"
+\TIME_SERIES_DATA_FILTER              = "R"
+\OBSERVATORY_SITE                     = "Possum Observatory"
+\COLUMN_JD                            = "Heliocentric Julian Day"
+\COLUMN_RELATIVE_MAGNITUDE            = "Relative or Instrument Magnitude"
+\COLUMN_MAGNITUDE_UNCERTAINTY         = "Magnitude Uncertainty"
+|             HJD | RELATIVE_MAGNITUDE |  MAGNITUDE_UNCERTAINTY |
+|            real |               real |                   real |
+|            days |                mag |                    mag |
+   2455990.201460            14.416324                 0.019582
+   2455990.204220            14.400454                 0.019582
+   2455990.210220            14.421998                 0.028275
+   2455990.213660            14.429948                 0.039211
+   2455993.052690            14.968452                 0.037368
+   2455993.055360            15.037381                 0.041059
+   2455993.067400            14.961114                 0.035532
+   2455993.070170            15.105908                 0.039211
+   2455993.072850            14.968452                 0.035532
+   2455993.075540            15.090883                 0.035532
+   2455993.078220            15.112181                 0.044768
+   2455993.178830            15.108416                 0.031883
+   2455993.181530            15.037381                 0.024726
+   2455993.184220            15.063445                 0.024726
+   2455993.186980            15.051018                 0.024726
+   2455993.189690            15.069669                 0.024726
+   2455993.202210            15.068424                 0.024726
+   2455993.204910            15.072161                 0.026492
+   2455993.207610            15.119718                 0.028275
+   2455993.210290            15.092134                 0.030073
+   2455993.212990            15.172782                 0.037368
