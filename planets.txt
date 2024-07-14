@@ -20,3 +20,45 @@ Add negative samples to my .csv files
 Try multiple variations of the model
 
 Aim for consistent size
+
+
+FOr WFIRSt survey idx's with omcassan in their fields are exoplanets.  This gives 48 guarenteed samples
+KMT has 84 samples
+OGLE has 100, but I may not be able to use them. Current total, 232
+
+omcassan
+
+(ombin = Binary star, omcassan = Bound planet) 
+
+Current DATA Samples 7/12/24:
+
+100 OGLE Lightcurves, seeking permission rn
+
+84 KMT Lightcurves, but I have multiple samples for each so in reality I have 300-400 KMT
+
+96 WFIRST Lightcurves, confirmed
+
+192 Extra WFIRST Lightcurves, may be repeating but doubt it. 
+
+Low: 372
+
+Low with OGLE: 472
+
+Probable: 748 to 800 
+
+Negative: 
+
+196 Bianries, simulated,
+
+50 OGLE, 
+
+Then the remaining is KMT data, around 270 non exoplanet events. If i can find Binaries I will choose them. 
+
+
+
+8 OGLE Binaries: 
+
+OGLE-2006-BLG-238, OGLE-2007-BLG-159, 
+OGLE-2007-BLG-491, OGLE-2008-BLG-143, OGLE-2008-BLG-210, 
+OGLE-2006-BLG-215, OGLE-2006-BLG-450, and OGLE-2008-BLG-513.  
+

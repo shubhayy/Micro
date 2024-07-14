@@ -16,7 +16,8 @@ def plot_pysis_file(file_path):
     df = table.to_pandas()
     # Plot the data with error bars
     plt.figure(figsize=(10, 6))
-    plt.errorbar(df['HJD'], df['\Delta_flux'], yerr=df['flux_err'], fmt='o', linestyle='-', color='b', ecolor='b', capsize=2)
+    # plt.errorbar(df['HJD'], df['mag'], yerr=df['mag_err'], fmt='o', linestyle='-', color='b', ecolor='b', capsize=2)
+    plt.plot(df['HJD'],df['mag'], 'o', markersize=5)
     plt.xlabel('HJD')
     plt.ylabel('Flux')
     plt.title(f'Flux over Time for {os.path.basename(file_path)}')
@@ -24,4 +25,5 @@ def plot_pysis_file(file_path):
     plt.show()
 
 
-plot_pysis_file('Exodata/LightCurves/KMT/2017/blg-0165/KMTC42_I.pysis')
+plot_pysis_file('Exodata/LightCurves/KMT/2020/blg-0414/KMTA32_I.pysis')
+

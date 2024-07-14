@@ -1,25 +1,44 @@
-import pandas as pd
+import os
+from pysis import PySIS
 
-# Load the master file into a DataFrame
-master_df = pd.read_csv('master_file.txt', sep='\s+', header=None)
+def process_pysis_files(directory):
+    # Initialize pySIS
+    pysis = PySIS()
 
-# Identify event types
-cv_indices = master_df[76] == 'dccv'
-binary_indices = (master_df[78] == 'ombin') | (master_df[78] == 'omcassan')
-single_indices = master_df[92] == 'dcnormffp'
+    # Loop through all files in the directory
+    for filename in os.listdir(directory):
+        # Check if the file is an infrared light curve (ending with '_I.pysis')
+        if filename.endswith('_I.pysis'):
+            # Construct the full file path
+            filepath = os.path.join(directory, filename)
+            
+            try:
+                # Read the light curve data
+                light_curve_data = pysis.read(filepath)
+                
+                # Assume light_curve_data contains magnitudes
+                # Process the light curve data (example methods)
+                light_curve_data.remove_outliers()
+                light_curve_data.normalize()
+                
+                # Extract features for machine learning
+                features = light_curve_data.extract_features()
 
-# Extract relevant columns for each event type
-cv_events = master_df[cv_indices][[0, 76, 77, 78, 79]]
-binary_events = master_df[binary_indices][[0, 78, 79, 80, 81]]
-single_events = master_df[single_indices][[0, 92, 93, 94, 95]]
+                # Print the processed data and features (or save them)
+                print(f'Processed data for {filename}:')
+                print(light_curve_data)
+                print(f'Extracted features for {filename}:')
+                print(features)
+                
+            except Exception as e:
+                print(f'Error processing {filename}: {e}')
 
-# Rename columns for clarity
-cv_events.columns = ['ID', 'EventType', 'RepeatedID', 'FilenameRoot', 'LightCurveNumber']
-binary_events.columns = ['ID', 'EventType', 'Column', 'FilenameRoot', 'LightCurveNumber']
-single_events.columns = ['ID', 'EventType', 'Column', 'FilenameRoot', 'LightCurveNumber']
+    print("Processing complete.")
 
-# Combine all events into one DataFrame
-all_events = pd.concat([cv_events, binary_events, single_events])
+# Define the directory containing the .pysis files
+pysis_directory = 'Exodata/LightCurves/KMT/2016/blg-0212'
 
-# Display the matched IDs with their respective light curves
-print(all_events)
+# Process .pysis files and extract light curves
+process_pysis_files(pysis_directory)
+
+
