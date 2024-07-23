@@ -8,6 +8,7 @@ Positives:
 
 Start with using current data, with a 230 positives, 270 negatives
 
+
 Reach out to NASA, ask for how do i get more simulated data, or their real data in magnitude form.
 
 Make a Model on simulating light curves first, Look at actual packages, 
@@ -46,6 +47,8 @@ Low with OGLE: 472
 
 Probable: 748 to 800 
 
+True: 762 Exo planets, 
+
 Negative: 
 
 196 Bianries, simulated,
@@ -62,3 +65,15 @@ OGLE-2006-BLG-238, OGLE-2007-BLG-159,
 OGLE-2007-BLG-491, OGLE-2008-BLG-143, OGLE-2008-BLG-210, 
 OGLE-2006-BLG-215, OGLE-2006-BLG-450, and OGLE-2008-BLG-513.  
 
+
+
+Start with Scikits Nueral Networks, then actual
+
+Then test it out, and play with it and figure out more stuff on data.
+
+Then see what I need too use.
+
+Get a Baseline Nueral Network to Write Up About
+
+
+286 more KMT's do around 2 good lightcurves per event or just 1 per event

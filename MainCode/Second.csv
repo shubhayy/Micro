@@ -1,0 +1,1406 @@
+Survey,Name,Filepath,type,noise
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-2397/KMTA20_I.pysis,exo,4
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-2397/KMTS20_I.pysis,exo,2
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-2397/KMTC20_I.pysis,exo,3
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1397/KMTA31_I.pysis,exo,2
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1397/KMTS31_I.pysis,exo,1
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1397/KMTC31_I.pysis,exo,1
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1107/KMTC18_I.pysis,exo,2
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1107/KMTA18_I.pysis,exo,2
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1107/KMTS18_I.pysis,exo,1
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1105/KMTC18_I.pysis,exo,3
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1105/KMTA18_I.pysis,exo,5
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1105/KMTS18_I.pysis,exo,2
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-2364/KMTC18_I.pysis,exo,3
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-2364/KMTA18_I.pysis,exo,5
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-2364/KMTS18_I.pysis,exo,4
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-0212/KMTA42_I.pysis,exo,5
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-0212/KMTC02_I.pysis,exo,2
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-0212/KMTS42_I.pysis,exo,3
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-0212/KMTC42_I.pysis,exo,3
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-0212/KMTS02_I.pysis,exo,2
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-0212/KMTA02_I.pysis,exo,4
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-2142/KMTA42_I.pysis,exo,5
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-2142/KMTC02_I.pysis,exo,3
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-2142/KMTS42_I.pysis,exo,3
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-2142/KMTC42_I.pysis,exo,3
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-2142/KMTS02_I.pysis,exo,2
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-2142/KMTA02_I.pysis,exo,5
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1820/KMTA42_I.pysis,exo,4
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1820/KMTC02_I.pysis,exo,1
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1820/KMTS42_I.pysis,exo,1
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1820/KMTC42_I.pysis,exo,2
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1820/KMTS02_I.pysis,exo,4
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1820/KMTA02_I.pysis,exo,5
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1836/KMTA42_I.pysis,exo,3
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1836/KMTC02_I.pysis,exo,1
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1836/KMTS42_I.pysis,exo,3
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1836/KMTC42_I.pysis,exo,2
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1836/KMTS02_I.pysis,exo,3
+KMT,KMT-KMT-2016,Exodata/LightCurves/KMT/2016/blg-1836/KMTA02_I.pysis,exo,3
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-1003/KMTC19_I.pysis,exo,1
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-1003/KMTA19_I.pysis,exo,2
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-1003/KMTS19_I.pysis,exo,2
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-1038/KMTC19_I.pysis,exo,3
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-1038/KMTA19_I.pysis,exo,5
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-1038/KMTS19_I.pysis,exo,2
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-1194/KMTA31_I.pysis,exo,2
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-1194/KMTS31_I.pysis,exo,2
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-1194/KMTC31_I.pysis,exo,2
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-2509/KMTC18_I.pysis,exo,3
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-2509/KMTA18_I.pysis,exo,4
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-2509/KMTS18_I.pysis,exo,3
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0165/KMTA42_I.pysis,exo,3
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0165/KMTA43_I.pysis,exo,3
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0165/KMTS43_I.pysis,exo,3
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0165/KMTC02_I.pysis,exo,2
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0165/KMTS42_I.pysis,exo,3
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0165/KMTC03_I.pysis,exo,1
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0165/KMTS03_I.pysis,exo,2
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0165/KMTC42_I.pysis,exo,1
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0165/KMTS02_I.pysis,exo,2
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0165/KMTC43_I.pysis,exo,1
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0165/KMTA02_I.pysis,exo,3
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0165/KMTA03_I.pysis,exo,4
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0428/KMTA43_I.pysis,exo,3
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0428/KMTS43_I.pysis,exo,2
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0428/KMTC03_I.pysis,exo,1
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0428/KMTS03_I.pysis,exo,1
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0428/KMTC43_I.pysis,exo,1
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0428/KMTA03_I.pysis,exo,1
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-1146/KMTS22_I.pysis,exo,1
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-1146/KMTA22_I.pysis,exo,1
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-1146/KMTC22_I.pysis,exo,1
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0673/KMTC13_I.pysis,exo,2
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0673/KMTS13_I.pysis,exo,2
+KMT,KMT-KMT-2017,Exodata/LightCurves/KMT/2017/blg-0673/KMTA13_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-2602/KMTA20_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-2602/KMTS20_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-2602/KMTC20_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1990/KMTA38_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1990/KMTS38_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1990/KMTC38_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1996/KMTA38_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1996/KMTS38_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1996/KMTC38_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1743/KMTA31_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1743/KMTS31_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1743/KMTC31_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0247/KMTS15_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0247/KMTA15_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0247/KMTC15_I.pysis,exo,3
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0087/KMTS14_I.pysis,exo,5
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0087/KMTS15_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0087/KMTA15_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0087/KMTA14_I.pysis,exo,5
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0087/KMTC15_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0087/KMTC14_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1025/KMTA43_I.pysis,exo,3
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1025/KMTS43_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1025/KMTC03_I.pysis,exo,3
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1025/KMTS03_I.pysis,exo,3
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1025/KMTC43_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1025/KMTA03_I.pysis,exo,3
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0029/KMTS14_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0029/KMTA14_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0029/KMTC14_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0030/KMTS14_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0030/KMTA14_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0030/KMTC14_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0885/KMTA42_I.pysis,exo,4
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0885/KMTC02_I.pysis,exo,3
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0885/KMTS42_I.pysis,exo,3
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0885/KMTC42_I.pysis,exo,3
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0885/KMTS02_I.pysis,exo,3
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0885/KMTA02_I.pysis,exo,4
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0748/KMTC01_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0748/KMTS41_I.pysis,exo,3
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0748/KMTA41_I.pysis,exo,4
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0748/KMTA01_I.pysis,exo,4
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0748/KMTC41_I.pysis,exo,3
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-0748/KMTS01_I.pysis,exo,3
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1292/KMTC13_I.pysis,exo,5
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1292/KMTS13_I.pysis,exo,5
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1292/KMTA13_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1988/KMTC37_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1988/KMTA37_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1988/KMTS37_I.pysis,exo,1
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1976/KMTC37_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1976/KMTA37_I.pysis,exo,2
+KMT,KMT-KMT-2018,Exodata/LightCurves/KMT/2018/blg-1976/KMTS37_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0414/KMTA38_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0414/KMTS38_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0414/KMTC38_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1339/KMTC19_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1339/KMTA19_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1339/KMTS19_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1552/KMTA43_I.pysis,exo,5
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1552/KMTS43_I.pysis,exo,4
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1552/KMTC03_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1552/KMTS03_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1552/KMTC43_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1552/KMTA03_I.pysis,exo,4
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1042/KMTA43_I.pysis,exo,4
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1042/KMTS43_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1042/KMTC03_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1042/KMTS03_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1042/KMTC43_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1042/KMTA03_I.pysis,exo,4
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0298/KMTS15_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0298/KMTA15_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0298/KMTC15_I.pysis,exo,1
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1953/KMTA42_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1953/KMTC02_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1953/KMTS42_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1953/KMTC42_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1953/KMTS02_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1953/KMTA02_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0953/KMTA42_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0953/KMTA43_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0953/KMTS43_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0953/KMTC02_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0953/KMTS42_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0953/KMTC03_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0953/KMTS03_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0953/KMTC42_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0953/KMTS02_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0953/KMTC43_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0953/KMTA02_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0953/KMTA03_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1715/KMTA43_I.pysis,exo,4
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1715/KMTS43_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1715/KMTC03_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1715/KMTS03_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1715/KMTC43_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1715/KMTA03_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0297/KMTA43_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0297/KMTS43_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0297/KMTC03_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0297/KMTS03_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0297/KMTC43_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0297/KMTA03_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1806/KMTS04_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1806/KMTA04_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1806/KMTC04_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-2974/KMTA42_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-2974/KMTC02_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-2974/KMTS42_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-2974/KMTC42_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-2974/KMTS02_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-2974/KMTA02_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0253/KMTA42_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0253/KMTC02_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0253/KMTS42_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0253/KMTC42_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0253/KMTS02_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0253/KMTA02_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0335/KMTC11_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0335/KMTA11_I.pysis,exo,5
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0335/KMTS11_I.pysis,exo,5
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1367/KMTS33_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1367/KMTA33_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1367/KMTC33_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0842/KMTA42_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0842/KMTC02_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0842/KMTS42_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0842/KMTC42_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0842/KMTS02_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0842/KMTA02_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0371/KMTC01_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0371/KMTS41_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0371/KMTA41_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0371/KMTA01_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0371/KMTC41_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-0371/KMTS01_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1216/KMTA21_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1216/KMTS21_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/blg-1216/KMTC21_I.pysis,exo,3
+KMT,KMT-KMT-2020,Exodata/LightCurves/KMT/2020/blg-0414/KMTS32_I.pysis,exo,5
+KMT,KMT-KMT-2020,Exodata/LightCurves/KMT/2020/blg-0414/KMTA32_I.pysis,exo,3
+KMT,KMT-KMT-2020,Exodata/LightCurves/KMT/2020/blg-0414/KMTC32_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0322/KMTS04_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0322/KMTA04_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0322/KMTC04_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0912/KMTC34_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0912/KMTS34_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0912/KMTA34_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1253/KMTA42_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1253/KMTC02_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1253/KMTS42_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1253/KMTC42_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1253/KMTS02_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1253/KMTA02_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1689/KMTA42_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1689/KMTC01_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1689/KMTS42_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1689/KMTA01_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1689/KMTC42_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1689/KMTS01_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0171/KMTA42_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0171/KMTC01_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0171/KMTS42_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0171/KMTA01_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0171/KMTC42_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0171/KMTS01_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1898/KMTC18_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1898/KMTA18_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1898/KMTS18_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0320/KMTC01_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0320/KMTS41_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0320/KMTA41_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0320/KMTA01_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0320/KMTC41_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0320/KMTS01_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1303/KMTS04_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1303/KMTA04_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1303/KMTC04_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1554/KMTC01_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1554/KMTS41_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1554/KMTA41_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1554/KMTA01_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1554/KMTC41_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1554/KMTS01_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0240/KMTA42_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0240/KMTC02_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0240/KMTS42_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0240/KMTC42_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0240/KMTS02_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0240/KMTA02_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0192/KMTA42_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0192/KMTC02_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0192/KMTS42_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0192/KMTC42_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0192/KMTS02_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0192/KMTA02_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2294/KMTA43_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2294/KMTS43_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2294/KMTC03_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2294/KMTS03_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2294/KMTC43_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2294/KMTA03_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0119/KMTS33_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0119/KMTA33_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0119/KMTC33_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1077/KMTA17_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1077/KMTS17_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1077/KMTC17_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1391/KMTC03_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1391/KMTS03_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1391/KMTA03_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1372/KMTS14_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1372/KMTA14_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1372/KMTC14_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0748/KMTA31_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0748/KMTS31_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0748/KMTC31_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1105/KMTC19_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1105/KMTA19_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1105/KMTS19_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0909/KMTC18_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0909/KMTA18_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0909/KMTS18_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0712/KMTC01_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0712/KMTS41_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0712/KMTA41_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0712/KMTA01_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0712/KMTC41_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-0712/KMTS01_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2478/KMTA43_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2478/KMTS43_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2478/KMTC02_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2478/KMTS02_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2478/KMTC43_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2478/KMTA02_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2010/KMTS22_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2010/KMTS41_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2010/KMTA41_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2010/KMTA22_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2010/KMTC41_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-2010/KMTC22_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1547/KMTA43_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1547/KMTS43_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1547/KMTC03_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1547/KMTS03_I.pysis,exo,4
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1547/KMTC43_I.pysis,exo,3
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1547/KMTA03_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1770/KMTC03_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1770/KMTS03_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1770/KMTA03_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1150/KMTC01_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1150/KMTS41_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1150/KMTA41_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1150/KMTA01_I.pysis,exo,5
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1150/KMTC41_I.pysis,exo,2
+KMT,KMT-KMT-2021,Exodata/LightCurves/KMT/2021/blg-1150/KMTS01_I.pysis,exo,2
+KMT,KMT-KMT-2022,Exodata/LightCurves/KMT/2022/blg-0440/KMTS22_I.pysis,exo,2
+KMT,KMT-KMT-2022,Exodata/LightCurves/KMT/2022/blg-0440/KMTS41_I.pysis,exo,2
+KMT,KMT-KMT-2022,Exodata/LightCurves/KMT/2022/blg-0440/KMTA41_I.pysis,exo,3
+KMT,KMT-KMT-2022,Exodata/LightCurves/KMT/2022/blg-0440/KMTA22_I.pysis,exo,3
+KMT,KMT-KMT-2022,Exodata/LightCurves/KMT/2022/blg-0440/KMTC41_I.pysis,exo,2
+KMT,KMT-KMT-2022,Exodata/LightCurves/KMT/2022/blg-0440/KMTC22_I.pysis,exo,2
+KMT,KMT-KMT-2022,Exodata/LightCurves/KMT/2022/blg-0371/KMTC37_I.pysis,exo,2
+KMT,KMT-KMT-2022,Exodata/LightCurves/KMT/2022/blg-0371/KMTA37_I.pysis,exo,3
+KMT,KMT-KMT-2022,Exodata/LightCurves/KMT/2022/blg-0371/KMTS37_I.pysis,exo,3
+KMT,KMT-KMT-2022,Exodata/LightCurves/KMT/2022/blg-1013/KMTS14_I.pysis,exo,2
+KMT,KMT-KMT-2022,Exodata/LightCurves/KMT/2022/blg-1013/KMTA14_I.pysis,exo,5
+KMT,KMT-KMT-2022,Exodata/LightCurves/KMT/2022/blg-1013/KMTC14_I.pysis,exo,2
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-1642/KMTC11_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-1642/KMTA11_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-1642/KMTS11_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0416/KMTC19_I.pysis,exo,2
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0416/KMTA19_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0416/KMTS19_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-1454/KMTA42_I.pysis,exo,5
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-1454/KMTC02_I.pysis,exo,4
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-1454/KMTS42_I.pysis,exo,5
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-1454/KMTC42_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-1454/KMTS02_I.pysis,exo,5
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-1454/KMTA02_I.pysis,exo,5
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0735/KMTC02_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0735/KMTC42_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0735/KMTS02_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0735/KMTA02_I.pysis,exo,5
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0469/KMTA42_I.pysis,exo,5
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0469/KMTA43_I.pysis,exo,5
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0469/KMTS43_I.pysis,exo,5
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0469/KMTC02_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0469/KMTS42_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0469/KMTC03_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0469/KMTS03_I.pysis,exo,4
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0469/KMTC42_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0469/KMTS02_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0469/KMTC43_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0469/KMTA02_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-0469/KMTA03_I.pysis,exo,3
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-1431/KMTS04_I.pysis,exo,2
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-1431/KMTA04_I.pysis,exo,2
+KMT,KMT-KMT-2023,Exodata/LightCurves/KMT/2023/blg-1431/KMTC04_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/BLG-0004/KMTC12_I.pysis,exo,2
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/BLG-0004/KMTS12_I.pysis,exo,3
+KMT,KMT-KMT-2019,Exodata/LightCurves/KMT/2019/BLG-0004/KMTA12_I.pysis,exo,3
+OGLE,OGLE-2003-BLG-235L b,Exodata/LightCurves/OGLE/2003/blg-235,exo,2
+OGLE,OGLE-2005-BLG-390L b,Exodata/LightCurves/OGLE/2005/blg-390,exo,2
+OGLE,OGLE-2005-BLG-071L b,Exodata/LightCurves/OGLE/2005/blg-071,exo,2
+OGLE,OGLE-2005-BLG-169L b,Exodata/LightCurves/OGLE/2005/blg-169,exo,2
+OGLE,OGLE-2006-BLG-109L c,Exodata/LightCurves/OGLE/2006/blg-109,exo,1
+OGLE,OGLE-2006-BLG-109L b,Exodata/LightCurves/OGLE/2006/blg-109,exo,1
+OGLE,OGLE-2006-BLG-284L A b,Exodata/LightCurves/OGLE/2006/blg-284,exo,1
+OGLE,OGLE-2007-BLG-368L b,Exodata/LightCurves/OGLE/2007/blg-368,exo,1
+OGLE,OGLE-2007-BLG-349L AB c,Exodata/LightCurves/OGLE/2007/blg-349,exo,1
+OGLE,OGLE-2008-BLG-355L b,Exodata/LightCurves/OGLE/2008/blg-355,exo,1
+OGLE,OGLE-2008-BLG-092L b,Exodata/LightCurves/OGLE/2008/blg-092,exo,1
+OGLE,OGLE-2011-BLG-0173L b,Exodata/LightCurves/OGLE/2011/blg-0173,exo,1
+OGLE,OGLE-2011-BLG-0251L b,Exodata/LightCurves/OGLE/2011/blg-0251,exo,1
+OGLE,OGLE-2011-BLG-0265L b,Exodata/LightCurves/OGLE/2011/blg-0265,exo,1
+OGLE,OGLE-2012-BLG-0026L b,Exodata/LightCurves/OGLE/2012/blg-0026,exo,1
+OGLE,OGLE-2012-BLG-0358L b,Exodata/LightCurves/OGLE/2012/blg-0358,exo,1
+OGLE,OGLE-2012-BLG-0563L b,Exodata/LightCurves/OGLE/2012/blg-0563,exo,1
+OGLE,OGLE-2012-BLG-0838L b,Exodata/LightCurves/OGLE/2012/blg-0838,exo,1
+OGLE,OGLE-2012-BLG-0950L b,Exodata/LightCurves/OGLE/2012/blg-0950,exo,1
+OGLE,OGLE-2012-BLG-0724L b,Exodata/LightCurves/OGLE/2012/blg-0724,exo,2
+OGLE,OGLE-2012-BLG-0406L b,Exodata/LightCurves/OGLE/2012/blg-0406,exo,1
+OGLE,OGLE-2013-BLG-0102L b,Exodata/LightCurves/OGLE/2013/blg-0102,exo,1
+OGLE,OGLE-2013-BLG-0132L b,Exodata/LightCurves/OGLE/2013/blg-0132,exo,1
+OGLE,OGLE-2013-BLG-1721L b,Exodata/LightCurves/OGLE/2013/blg-1721,exo,1
+OGLE,OGLE-2013-BLG-1761L b,Exodata/LightCurves/OGLE/2013/blg-1761,exo,1
+OGLE,OGLE-2013-BLG-0911L b,Exodata/LightCurves/OGLE/2013/blg-0911,exo,1
+OGLE,OGLE-2013-BLG-0341L b,Exodata/LightCurves/OGLE/2013/blg-0341,exo,1
+OGLE,OGLE-2014-BLG-1722L b,Exodata/LightCurves/OGLE/2014/blg-1722,exo,1
+OGLE,OGLE-2014-BLG-0319L b,Exodata/LightCurves/OGLE/2014/blg-0319,exo,1
+OGLE,OGLE-2014-BLG-0676L b,Exodata/LightCurves/OGLE/2014/blg-0676,exo,3
+OGLE,OGLE-2014-BLG-1760L b,Exodata/LightCurves/OGLE/2014/blg-1760,exo,1
+OGLE,OGLE-2014-BLG-0124L b,Exodata/LightCurves/OGLE/2014/blg-0124,exo,1
+OGLE,OGLE-2015-BLG-0051L b,Exodata/LightCurves/OGLE/2015/blg-0051,exo,1
+OGLE,OGLE-2015-BLG-0966L b,Exodata/LightCurves/OGLE/2015/blg-0966,exo,1
+OGLE,OGLE-2015-BLG-0954L b,Exodata/LightCurves/OGLE/2015/blg-0954,exo,1
+OGLE,OGLE-2015-BLG-1670L b,Exodata/LightCurves/OGLE/2015/blg-1670,exo,1
+OGLE,OGLE-2016-BLG-1190L b,Exodata/LightCurves/OGLE/2016/blg-1190,exo,1
+OGLE,OGLE-2016-BLG-1067L b,Exodata/LightCurves/OGLE/2016/blg-1067,exo,1
+OGLE,OGLE-2016-BLG-1195L b,Exodata/LightCurves/OGLE/2016/blg-1195,exo,1
+OGLE,OGLE-2016-BLG-1093L b,Exodata/LightCurves/OGLE/2016/blg-1093,exo,1
+OGLE,OGLE-2017-BLG-1375L b,Exodata/LightCurves/OGLE/2017/blg-1375,exo,1
+OGLE,OGLE-2017-BLG-0373L b,Exodata/LightCurves/OGLE/2017/blg-0373,exo,1
+OGLE,OGLE-2017-BLG-1522L b,Exodata/LightCurves/OGLE/2017/blg-1522,exo,1
+OGLE,OGLE-2017-BLG-1140L b,Exodata/LightCurves/OGLE/2017/blg-1140,exo,1
+OGLE,OGLE-2017-BLG-0173L b,Exodata/LightCurves/OGLE/2017/blg-0173,exo,1
+OGLE,OGLE-2017-BLG-0482L b,Exodata/LightCurves/OGLE/2017/blg-0482,exo,1
+OGLE,OGLE-2017-BLG-0406L b,Exodata/LightCurves/OGLE/2017/blg-0406,exo,1
+OGLE,OGLE-2017-BLG-1434L b,Exodata/LightCurves/OGLE/2017/blg-1434,exo,1
+OGLE,OGLE-2017-BLG-0640L b,Exodata/LightCurves/OGLE/2017/blg-0640,exo,1
+OGLE,OGLE-2017-BLG-1237L b,Exodata/LightCurves/OGLE/2017/blg-1237,exo,1
+OGLE,OGLE-2017-BLG-1275L b,Exodata/LightCurves/OGLE/2017/blg-1275,exo,1
+OGLE,OGLE-2018-BLG-0596L b,Exodata/LightCurves/OGLE/2018/blg-0596,exo,1
+OGLE,OGLE-2018-BLG-0740L b,Exodata/LightCurves/OGLE/2018/blg-0740,exo,1
+OGLE,OGLE-2018-BLG-1700L b,Exodata/LightCurves/OGLE/2018/blg-1700,exo,1
+OGLE,OGLE-2018-BLG-1269L b,Exodata/LightCurves/OGLE/2018/blg-1269,exo,1
+OGLE,OGLE-2018-BLG-1011L c,Exodata/LightCurves/OGLE/2018/blg-1011,exo,1
+OGLE,OGLE-2018-BLG-0567L b,Exodata/LightCurves/OGLE/2018/blg-0567,exo,1
+OGLE,OGLE-2018-BLG-1011L b,Exodata/LightCurves/OGLE/2018/blg-1011,exo,1
+OGLE,OGLE-2018-BLG-0516L b,Exodata/LightCurves/OGLE/2018/blg-0516,exo,1
+OGLE,OGLE-2018-BLG-0506L b,Exodata/LightCurves/OGLE/2018/blg-0506,exo,1
+OGLE,OGLE-2018-BLG-1185L b,Exodata/LightCurves/OGLE/2018/blg-1185,exo,1
+OGLE,OGLE-2018-BLG-0383L b,Exodata/LightCurves/OGLE/2018/blg-0383,exo,1
+OGLE,OGLE-2018-BLG-0532L b,Exodata/LightCurves/OGLE/2018/blg-0532,exo,1
+OGLE,OGLE-2018-BLG-0977L b,Exodata/LightCurves/OGLE/2018/blg-0977,exo,1
+OGLE,OGLE-2018-BLG-0799L b,Exodata/LightCurves/OGLE/2018/blg-0799,exo,1
+OGLE,OGLE-2018-BLG-0298L b,Exodata/LightCurves/OGLE/2018/blg-0298,exo,1
+OGLE,OGLE-2018-BLG-1119L b,Exodata/LightCurves/OGLE/2018/blg-1119,exo,1
+OGLE,OGLE-2018-BLG-1126L b,Exodata/LightCurves/OGLE/2018/blg-1126,exo,1
+OGLE,OGLE-2018-BLG-1647L b,Exodata/LightCurves/OGLE/2018/blg-1647,exo,1
+OGLE,OGLE-2018-BLG-0932L b,Exodata/LightCurves/OGLE/2018/blg-0932,exo,1
+OGLE,OGLE-2018-BLG-1212L b,Exodata/LightCurves/OGLE/2018/blg-1212,exo,1
+OGLE,OGLE-2018-BLG-1367L b,Exodata/LightCurves/OGLE/2018/blg-1367,exo,1
+OGLE,OGLE-2019-BLG-0468L c,Exodata/LightCurves/OGLE/2019/blg-0468,exo,1
+OGLE,OGLE-2019-BLG-0468L b,Exodata/LightCurves/OGLE/2019/blg-0468,exo,1
+OGLE,OGLE-2019-BLG-1470L AB c,Exodata/LightCurves/OGLE/2019/blg-1470,exo,1
+OGLE,OGLE-2019-BLG-0954L b,Exodata/LightCurves/OGLE/2019/blg-0954,exo,1
+OGLE,OGLE-2019-BLG-0304L b,Exodata/LightCurves/OGLE/2019/blg-0304,exo,1
+OGLE,OGLE-2019-BLG-0960L b,Exodata/LightCurves/OGLE/2019/blg-0960,exo,1
+OGLE,OGLE-2019-BLG-0299L b,Exodata/LightCurves/OGLE/2019/blg-0299,exo,1
+OGLE,OGLE-2019-BLG-0679L b,Exodata/LightCurves/OGLE/2019/blg-0679,exo,1
+OGLE,OGLE-2019-BLG-1053L b,Exodata/LightCurves/OGLE/2019/blg-1053,exo,1
+OGLE,OGLE-2019-BLG-1492L b,Exodata/LightCurves/OGLE/2019/blg-1492,exo,1
+OGLE,OGLE-2019-BLG-0362L b,Exodata/LightCurves/OGLE/2019/blg-0362,exo,1
+OGLE,OGLE-2019-BLG-0249L b,Exodata/LightCurves/OGLE/2019/blg-0249,exo,1
+OGLE,OGLE-2019-BLG-1180L b,Exodata/LightCurves/OGLE/2019/blg-1180,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_004_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_004_Z087.txt,exo,3
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_008_Z087.txt,exo,3
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_008_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_012_W149.txt,exo,4
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_012_Z087.txt,exo,4
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_025_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_025_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_032_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_032_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_040_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_040_Z087.txt,exo,4
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_047_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_047_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_050_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_050_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_053_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_053_Z087.txt,exo,4
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_062_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_062_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_066_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_066_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_069_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_069_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_074_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_074_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_078_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_078_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_081_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_081_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_092_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_092_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_095_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_095_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_099_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_099_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_100_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_100_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_103_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_103_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_107_W149.txt,exo,5
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_107_Z087.txt,exo,5
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_124_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_124_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_128_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_131_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_131_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_139_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_139_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_152_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_152_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_163_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_163_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_186_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_186_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_193_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_193_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_194_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_194_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_199_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_199_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_208_W149.txt,exo,5
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_208_Z087.txt,exo,5
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_214_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_214_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_218_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_218_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_223_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_223_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_226_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_226_Z087.txt,exo,5
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_227_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_227_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_250_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_250_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_253_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_253_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_258_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_258_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_267_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_267_Z087.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_289_W149.txt,exo,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_289_Z087.txt,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0259.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1702.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0820.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1781.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1801.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0600.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0973.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1014.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1844.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2498.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2132.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0649.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2227.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0347.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0139.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2386.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2055.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2067.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1457.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0712.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2189.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0379.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1562.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2382.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2236.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_2282.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1203.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_0743.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_0364.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_2090.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_0127.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_2214.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1867.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_2349.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_0969.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1567.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1584.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_0680.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_2073.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_2255.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_2245.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1983.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1418.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_0349.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_2464.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1185.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1367.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_0790.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1039.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1458.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0915.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1035.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0665.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0962.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1132.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0472.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0794.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_2381.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0321.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1285.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1327.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_2182.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_2218.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1109.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1980.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1617.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0020.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1762.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_2479.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1689.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0889.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_2113.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1118.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0685.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1280.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_1927.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0270.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_1213.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_1016.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0055.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0057.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_1098.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_1883.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0955.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0706.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0202.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_2274.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_1350.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_1873.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_1717.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0828.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_1862.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_1886.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_1693.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0011.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0184.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0833.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0199.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0104.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0671.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0281.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_1606.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_2006.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0284.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_2007.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_1792.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_2368.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_2118.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0010.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_2385.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0231.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0309.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_2072.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_1167.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0588.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0248.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0017.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_2224.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0810.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_1244.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0347.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0205.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0221.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_2096.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0495.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_2194.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_0204.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_2490.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_0769.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_0763.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_1670.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_1192.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_0428.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_2068.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_0903.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_0676.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_1640.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_0096.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_1850.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_2059.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_0621.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_2265.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_1334.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_1120.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_0963.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_0089.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_1854.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_1482.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_1706.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_0784.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_1556.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_0058.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_1274.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_0883.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_0627.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_0836.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_1827.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_0067.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_0775.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_1277.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_1054.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_2398.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_1259.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_1599.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_2011.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_0201.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_2225.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_0372.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_1860.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_2364.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_1492.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_0817.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_1920.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_1561.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_2486.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_2294.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_2152.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1780.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1079.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1302.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_0424.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1082.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_0099.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1008.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_0279.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_0433.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_2371.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1176.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1424.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_2414.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1495.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1835.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1328.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1433.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_0596.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1779.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_0323.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1566.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_2473.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_0733.dat,exo,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_0013.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_0399.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_2275.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_1734.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_7/WFIRST_0374.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_0873.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_0367.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_0389.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_0604.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_6/WFIRST_2420.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_2418.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_0774.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_2168.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_1084.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_5/WFIRST_2055.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_1063.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0499.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_0467.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_1518.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_4/WFIRST_1322.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_0598.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_2148.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_2175.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_1678.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_3/WFIRST_1364.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1486.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0392.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0805.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0658.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0027.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_0606.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_2436.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1950.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1885.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1865.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2065.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2458.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2295.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2046.dat,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1948.dat,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_006_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_006_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_009_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_009_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_014_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_018_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_018_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_027_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_027_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_033_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_033_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_039_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_039_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_043_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_043_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_045_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_045_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_052_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_052_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_054_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_054_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_058_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_058_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_063_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_063_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_065_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_065_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_067_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_067_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_070_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_070_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_071_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_071_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_073_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_073_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_076_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_080_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_080_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_085_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_085_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_087_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_087_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_094_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_094_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_111_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_111_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_115_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_115_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_118_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_118_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_119_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_119_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_127_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_127_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_133_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_133_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_136_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_136_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_142_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_142_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_144_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_144_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_146_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_146_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_149_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_149_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_153_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_153_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_156_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_160_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_160_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_166_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_166_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_169_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_169_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_171_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_171_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_172_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_172_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_174_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_174_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_175_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_175_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_181_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_181_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_182_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_182_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_186_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_186_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_190_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_190_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_191_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_191_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_198_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_198_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_204_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_207_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_207_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_213_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_213_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_228_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_228_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_231_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_231_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_234_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_234_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_235_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_235_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_245_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_245_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_246_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_246_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_249_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_249_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_252_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_252_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_259_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_259_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_260_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_260_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_269_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_269_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_270_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_270_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_273_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_273_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_278_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_278_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_279_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_279_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_280_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_280_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_282_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_282_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_284_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_284_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_287_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_287_Z087.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_291_W149.txt,binary,1
+ROMAN,ROMAN Challenge,Exodata/WFIRST/ulwdc1_291_Z087.txt,binary,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1950.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1714.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1352.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0852.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0053.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0717.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0455.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1645.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1817.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2095.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1898.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1251.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_0567.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_2249.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_0/WFIRST_1244.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1372.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1601.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_0384.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_0238.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1068.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_2263.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1889.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_0657.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_2100.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1630.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_0285.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1943.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1686.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_2416.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_1/WFIRST_1397.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0517.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1454.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0692.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0419.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0964.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0533.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1366.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_2223.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0406.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0252.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_0257.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1547.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_1772.dat,PSPL,1
+ROMAN SAGAN,WFIRST 2017 Simulated,Exodata/WFIRST_SAGAN_2/WFIRST_2160.dat,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_017_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_017_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_005_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_005_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_022_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_022_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_021_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_021_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_031_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_031_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_029_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_029_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_038_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_038_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_041_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_041_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_042_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_042_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_046_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_046_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_056_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_056_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_057_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_057_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_059_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_059_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_060_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_060_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_079_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_079_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_077_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_077_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_084_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_084_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_089_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_089_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_091_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_091_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_093_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_093_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_097_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_097_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_101_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_101_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_102_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_102_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_104_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_104_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_105_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_105_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_108_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_108_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_114_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_114_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_113_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_113_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_116_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_116_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_117_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_117_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_121_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_121_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_125_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_125_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_123_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_123_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_140_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_140_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_143_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_143_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_148_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_148_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_150_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_150_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_151_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_151_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_154_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_154_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_157_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_157_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_158_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_158_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_159_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_159_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_162_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_162_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_167_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_167_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_168_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_168_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_170_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_170_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_179_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_179_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_189_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_189_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_188_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_188_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_192_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_192_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_205_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_205_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_210_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_210_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_211_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_211_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_222_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_222_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_221_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_221_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_233_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_233_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_236_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_236_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_239_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_239_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_240_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_240_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_242_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_242_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_247_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_247_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_254_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_254_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_257_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_257_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_262_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_262_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_264_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_264_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_265_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_265_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_275_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_275_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_276_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_276_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_277_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_277_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_285_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_285_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_286_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_286_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_288_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_288_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_290_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_290_Z087.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_293_W149.txt,PSPL,1
+ROMAN,ROMAN CHALLENGE,Exodata/WFIRST/ulwdc1_293_Z087.txt,PSPL,1
+KMT,KMT-2019-BLG-0004,Exodata/PSPL/KMT/2019/BLG-0004/KMTC12_I.pysis,binary,1
+KMT,KMT-2019-BLG-0004,Exodata/PSPL/KMT/2019/BLG-0004/KMTS12_I.pysis,binary,1
+KMT,KMT-2019-BLG-0001,Exodata/PSPL/KMT/2019/BLG-0001/KMTC11_I.pysis,PSPL,3
+KMT,KMT-2019-BLG-0003,Exodata/PSPL/KMT/2019/BLG-0003/KMTC11_I.pysis,PSPL,2
+KMT,KMT-2019-BLG-0005,Exodata/PSPL/KMT/2019/BLG-0005/KMTC13_I.pysis,PSPL,2
+KMT,KMT-2019-BLG-0006,Exodata/PSPL/KMT/2019/BLG-0006/KMTA37_I.pysis,PSPL,2
+KMT,KMT-2019-BLG-0006,Exodata/PSPL/KMT/2019/BLG-0006/KMTC37_I.pysis,PSPL,2
+KMT,KMT-2019-BLG-0007,Exodata/PSPL/KMT/2019/BLG-0007/KMTA02_I.pysis,PSPL,3
+KMT,KMT-2019-BLG-0007,Exodata/PSPL/KMT/2019/BLG-0007/KMTC02_I.pysis,PSPL,2
+KMT,KMT-2019-BLG-0011,Exodata/PSPL/KMT/2019/BLG-0011/KMTC14_I.pysis,PSPL,2
+KMT,KMT-2019-BLG-0012,Exodata/PSPL/KMT/2019/BLG-0012/KMTA15_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0012,Exodata/PSPL/KMT/2019/BLG-0012/KMTC15_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0016,Exodata/PSPL/KMT/2019/BLG-0016/KMTA37_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0016,Exodata/PSPL/KMT/2019/BLG-0016/KMTC37_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0020,Exodata/PSPL/KMT/2019/BLG-0020/KMTC12_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0021,Exodata/PSPL/KMT/2019/BLG-0021/KMTC12_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0022,Exodata/PSPL/KMT/2019/BLG-0022/KMTC19_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0026,Exodata/PSPL/KMT/2019/BLG-0026/KMTC42_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0026,Exodata/PSPL/KMT/2019/BLG-0026/KMTC02_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0029,Exodata/PSPL/KMT/2019/BLG-0029/KMTA41_I.pysis,PSPL,1
+KMT,KMT_2019-BLG-0029,Exodata/PSPL/KMT/2019/BLG-0029/KMTC01_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0029,Exodata/PSPL/KMT/2019/BLG-0029/KMTC41_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0032,Exodata/PSPL/KMT/2019/BLG-0032/KMTC01_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0034,Exodata/PSPL/KMT/2019/BLG-0034/KMTA02_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0034,Exodata/PSPL/KMT/2019/BLG-0034/KMTC02_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0034,Exodata/PSPL/KMT/2019/BLG-0034/KMTC42_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0035,Exodata/PSPL/KMT/2019/BLG-0035/KMTC42_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0037,Exodata/PSPL/KMT/2019/BLG-0037/KMTA42_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0037,Exodata/PSPL/KMT/2019/BLG-0037/KMTC42_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0039,Exodata/PSPL/KMT/2019/BLG-0039/KMTC15_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0039,Exodata/PSPL/KMT/2019/BLG-0039/KMTS15_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0040,Exodata/PSPL/KMT/2019/BLG-0040/KMTC15_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0041,Exodata/PSPL/KMT/2019/BLG-0041/KMTA18_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0041,Exodata/PSPL/KMT/2019/BLG-0041/KMTC18_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0041,Exodata/PSPL/KMT/2019/BLG-0041/KMTS18_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0043,Exodata/PSPL/KMT/2019/BLG-0043/KMTA02_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0043,Exodata/PSPL/KMT/2019/BLG-0043/KMTA42_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0043,Exodata/PSPL/KMT/2019/BLG-0043/KMTC02_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0043,Exodata/PSPL/KMT/2019/BLG-0043/KMTC42_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0043,Exodata/PSPL/KMT/2019/BLG-0043/KMTS42_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0044,Exodata/PSPL/KMT/2019/BLG-0044/KMTA02_I.pysis,binary,1
+KMT,KMT-2019-BLG-0044,Exodata/PSPL/KMT/2019/BLG-0044/KMTA42_I.pysis,binary,1
+KMT,KMT-2019-BLG-0044,Exodata/PSPL/KMT/2019/BLG-0044/KMTC02_I.pysis,binary,1
+KMT,KMT-2019-BLG-0044,Exodata/PSPL/KMT/2019/BLG-0044/KMTC42_I.pysis,binary,1
+KMT,KMT-2019-BLG-0044,Exodata/PSPL/KMT/2019/BLG-0044/KMTS42_I.pysis,binary,1
+KMT,KMT-2019-BLG-0050,Exodata/PSPL/KMT/2019/BLG-0050/KMTC22_I.pysis,binary,1
+KMT,KMT-2019-BLG-0051,Exodata/PSPL/KMT/2019/BLG-0051/KMTC37_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0051,Exodata/PSPL/KMT/2019/BLG-0051/KMTS37_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0053,Exodata/PSPL/KMT/2019/BLG-0053/KMTA43_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0053,Exodata/PSPL/KMT/2019/BLG-0053/KMTC43_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0059,Exodata/PSPL/KMT/2019/BLG-0059/KMTA33_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0059,Exodata/PSPL/KMT/2019/BLG-0059/KMTC33_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0059,Exodata/PSPL/KMT/2019/BLG-0059/KMTS33_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0061,Exodata/PSPL/KMT/2019/BLG-0061/KMTA01_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0061,Exodata/PSPL/KMT/2019/BLG-0061/KMTA41_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0061,Exodata/PSPL/KMT/2019/BLG-0061/KMTC01_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0061,Exodata/PSPL/KMT/2019/BLG-0061/KMTC41_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0063,Exodata/PSPL/KMT/2019/BLG-0063/KMTA42_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0063,Exodata/PSPL/KMT/2019/BLG-0063/KMTC02_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0063,Exodata/PSPL/KMT/2019/BLG-0063/KMTC42_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0064,Exodata/PSPL/KMT/2019/BLG-0064/KMTC03_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0064,Exodata/PSPL/KMT/2019/BLG-0064/KMTC43_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0064,Exodata/PSPL/KMT/2019/BLG-0064/KMTS03_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0064,Exodata/PSPL/KMT/2019/BLG-0064/KMTS43_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0065,Exodata/PSPL/KMT/2019/BLG-0065/KMTC15_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0067,Exodata/PSPL/KMT/2019/BLG-0067/KMTA18_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0067,Exodata/PSPL/KMT/2019/BLG-0067/KMTC18_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0067,Exodata/PSPL/KMT/2019/BLG-0067/KMTS18_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0073,Exodata/PSPL/KMT/2019/BLG-0073/KMTA14_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0073,Exodata/PSPL/KMT/2019/BLG-0073/KMTC14_I.pysis,PSPL,1
+KMT,KMT-2019-BLG-0074,Exodata/PSPL/KMT/2019/BLG-0074/KMTC16_I.pysis,PSPL,1
+KMT,KMT-0098,Exodata/PSPL/KMT/2021/blg-0098/KMTC04_I.pysis,PSPL,1
+KMT,KMT-0062,Exodata/PSPL/KMT/2021/blg-0062/KMTC17_I.pysis,PSPL,1
+KMT,KMT-0096,Exodata/PSPL/KMT/2021/blg-0096/KMTS43_I.pysis,PSPL,1
+KMT,KMT-0096,Exodata/PSPL/KMT/2021/blg-0096/KMTC02_I.pysis,PSPL,1
+KMT,KMT-0096,Exodata/PSPL/KMT/2021/blg-0096/KMTA02_I.pysis,PSPL,1
+KMT,KMT-0091,Exodata/PSPL/KMT/2021/blg-0091/KMTS03_I.pysis,PSPL,1
+KMT,KMT-0091,Exodata/PSPL/KMT/2021/blg-0091/KMTC43_I.pysis,PSPL,1
+KMT,KMT-0091,Exodata/PSPL/KMT/2021/blg-0091/KMTA03_I.pysis,PSPL,1
+KMT,KMT-0065,Exodata/PSPL/KMT/2021/blg-0065/KMTC19_I.pysis,PSPL,1
+KMT,KMT-0036,Exodata/PSPL/KMT/2021/blg-0036/KMTC22_I.pysis,PSPL,1
+KMT,KMT-0009,Exodata/PSPL/KMT/2021/blg-0009/KMTC02_I.pysis,PSPL,1
+KMT,KMT-0009,Exodata/PSPL/KMT/2021/blg-0009/KMTS02_I.pysis,PSPL,1
+KMT,KMT-0007,Exodata/PSPL/KMT/2021/blg-0007/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0007,Exodata/PSPL/KMT/2021/blg-0007/KMTS41_I.pysis,PSPL,1
+KMT,KMT-0007,Exodata/PSPL/KMT/2021/blg-0007/KMTC41_I.pysis,PSPL,1
+KMT,KMT-0090,Exodata/PSPL/KMT/2021/blg-0090/KMTC03_I.pysis,PSPL,1
+KMT,KMT-0090,Exodata/PSPL/KMT/2021/blg-0090/KMTC43_I.pysis,PSPL,1
+KMT,KMT-0063,Exodata/PSPL/KMT/2021/blg-0063/KMTC18_I.pysis,PSPL,1
+KMT,KMT-0099,Exodata/PSPL/KMT/2021/blg-0099/KMTS04_I.pysis,PSPL,1
+KMT,KMT-0099,Exodata/PSPL/KMT/2021/blg-0099/KMTA04_I.pysis,PSPL,1
+KMT,KMT-0099,Exodata/PSPL/KMT/2021/blg-0099/KMTC04_I.pysis,PSPL,1
+KMT,KMT-0006,Exodata/PSPL/KMT/2021/blg-0006/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0039,Exodata/PSPL/KMT/2021/blg-0039/KMTS32_I.pysis,PSPL,1
+KMT,KMT-0039,Exodata/PSPL/KMT/2021/blg-0039/KMTC32_I.pysis,PSPL,1
+KMT,KMT-0001,Exodata/PSPL/KMT/2021/blg-0001/KMTA42_I.pysis,PSPL,1
+KMT,KMT-0001,Exodata/PSPL/KMT/2021/blg-0001/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0001,Exodata/PSPL/KMT/2021/blg-0001/KMTS42_I.pysis,PSPL,1
+KMT,KMT-0001,Exodata/PSPL/KMT/2021/blg-0001/KMTA01_I.pysis,PSPL,1
+KMT,KMT-0001,Exodata/PSPL/KMT/2021/blg-0001/KMTC42_I.pysis,PSPL,1
+KMT,KMT-0001,Exodata/PSPL/KMT/2021/blg-0001/KMTS01_I.pysis,PSPL,1
+KMT,KMT-0008,Exodata/PSPL/KMT/2021/blg-0008/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0008,Exodata/PSPL/KMT/2021/blg-0008/KMTS41_I.pysis,PSPL,1
+KMT,KMT-0008,Exodata/PSPL/KMT/2021/blg-0008/KMTA41_I.pysis,PSPL,1
+KMT,KMT-0008,Exodata/PSPL/KMT/2021/blg-0008/KMTA01_I.pysis,PSPL,1
+KMT,KMT-0008,Exodata/PSPL/KMT/2021/blg-0008/KMTC41_I.pysis,PSPL,1
+KMT,KMT-0008,Exodata/PSPL/KMT/2021/blg-0008/KMTS01_I.pysis,PSPL,1
+KMT,KMT-0012,Exodata/PSPL/KMT/2021/blg-0012/KMTC02_I.pysis,PSPL,1
+KMT,KMT-0012,Exodata/PSPL/KMT/2021/blg-0012/KMTC42_I.pysis,PSPL,1
+KMT,KMT-0012,Exodata/PSPL/KMT/2021/blg-0012/KMTS02_I.pysis,PSPL,1
+KMT,KMT-0012,Exodata/PSPL/KMT/2021/blg-0012/KMTA02_I.pysis,PSPL,1
+KMT,KMT-0015,Exodata/PSPL/KMT/2021/blg-0015/KMTC11_I.pysis,PSPL,1
+KMT,KMT-0015,Exodata/PSPL/KMT/2021/blg-0015/KMTS11_I.pysis,PSPL,1
+KMT,KMT-0023,Exodata/PSPL/KMT/2021/blg-0023/KMTS15_I.pysis,PSPL,1
+KMT,KMT-0023,Exodata/PSPL/KMT/2021/blg-0023/KMTA15_I.pysis,PSPL,1
+KMT,KMT-0023,Exodata/PSPL/KMT/2021/blg-0023/KMTC15_I.pysis,PSPL,1
+KMT,KMT-0024,Exodata/PSPL/KMT/2021/blg-0024/KMTS15_I.pysis,PSPL,1
+KMT,KMT-0024,Exodata/PSPL/KMT/2021/blg-0024/KMTA15_I.pysis,PSPL,1
+KMT,KMT-0024,Exodata/PSPL/KMT/2021/blg-0024/KMTC15_I.pysis,PSPL,1
+KMT,KMT-0070,Exodata/PSPL/KMT/2021/blg-0070/KMTS22_I.pysis,PSPL,1
+KMT,KMT-0070,Exodata/PSPL/KMT/2021/blg-0070/KMTC22_I.pysis,PSPL,1
+KMT,KMT-0025,Exodata/PSPL/KMT/2021/blg-0025/KMTA16_I.pysis,PSPL,1
+KMT,KMT-0025,Exodata/PSPL/KMT/2021/blg-0025/KMTS16_I.pysis,PSPL,1
+KMT,KMT-0025,Exodata/PSPL/KMT/2021/blg-0025/KMTC16_I.pysis,PSPL,1
+KMT,KMT-0014,Exodata/PSPL/KMT/2021/blg-0014/KMTC11_I.pysis,PSPL,1
+KMT,KMT-0014,Exodata/PSPL/KMT/2021/blg-0014/KMTS11_I.pysis,PSPL,1
+KMT,KMT-0013,Exodata/PSPL/KMT/2021/blg-0013/KMTC11_I.pysis,PSPL,1
+KMT,KMT-0013,Exodata/PSPL/KMT/2021/blg-0013/KMTS11_I.pysis,PSPL,1
+KMT,KMT-0040,Exodata/PSPL/KMT/2021/blg-0040/KMTC34_I.pysis,PSPL,1
+KMT,KMT-0040,Exodata/PSPL/KMT/2021/blg-0040/KMTS34_I.pysis,PSPL,1
+KMT,KMT-0040,Exodata/PSPL/KMT/2021/blg-0040/KMTA34_I.pysis,PSPL,1
+KMT,KMT-0071,Exodata/PSPL/KMT/2021/blg-0071/KMTS22_I.pysis,PSPL,1
+KMT,KMT-0071,Exodata/PSPL/KMT/2021/blg-0071/KMTA22_I.pysis,PSPL,1
+KMT,KMT-0071,Exodata/PSPL/KMT/2021/blg-0071/KMTC22_I.pysis,PSPL,1
+KMT,KMT-0004,Exodata/PSPL/KMT/2021/blg-0004/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0004,Exodata/PSPL/KMT/2021/blg-0004/KMTS42_I.pysis,PSPL,1
+KMT,KMT-0004,Exodata/PSPL/KMT/2021/blg-0004/KMTC42_I.pysis,PSPL,1
+KMT,KMT-0003,Exodata/PSPL/KMT/2021/blg-0003/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0003,Exodata/PSPL/KMT/2021/blg-0003/KMTS41_I.pysis,PSPL,1
+KMT,KMT-0003,Exodata/PSPL/KMT/2021/blg-0003/KMTC41_I.pysis,PSPL,1
+KMT,KMT-0092,Exodata/PSPL/KMT/2021/blg-0092/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0092,Exodata/PSPL/KMT/2021/blg-0092/KMTS41_I.pysis,PSPL,1
+KMT,KMT-0092,Exodata/PSPL/KMT/2021/blg-0092/KMTC41_I.pysis,PSPL,1
+KMT,KMT-0092,Exodata/PSPL/KMT/2021/blg-0092/KMTS01_I.pysis,PSPL,1
+KMT,KMT-0061,Exodata/PSPL/KMT/2021/blg-0061/KMTC17_I.pysis,PSPL,1
+KMT,KMT-0002,Exodata/PSPL/KMT/2021/blg-0002/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0002,Exodata/PSPL/KMT/2021/blg-0002/KMTC41_I.pysis,PSPL,1
+KMT,KMT-0002,Exodata/PSPL/KMT/2021/blg-0002/KMTS01_I.pysis,PSPL,1
+KMT,KMT-0005,Exodata/PSPL/KMT/2021/blg-0005/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0005,Exodata/PSPL/KMT/2021/blg-0005/KMTS41_I.pysis,PSPL,1
+KMT,KMT-0005,Exodata/PSPL/KMT/2021/blg-0005/KMTA41_I.pysis,PSPL,1
+KMT,KMT-0005,Exodata/PSPL/KMT/2021/blg-0005/KMTA01_I.pysis,PSPL,1
+KMT,KMT-0005,Exodata/PSPL/KMT/2021/blg-0005/KMTC41_I.pysis,PSPL,1
+KMT,KMT-0005,Exodata/PSPL/KMT/2021/blg-0005/KMTS01_I.pysis,PSPL,1
+KMT,KMT-0034,Exodata/PSPL/KMT/2021/blg-0034/KMTS22_I.pysis,PSPL,1
+KMT,KMT-0034,Exodata/PSPL/KMT/2021/blg-0034/KMTC22_I.pysis,PSPL,1
+KMT,KMT-0094,Exodata/PSPL/KMT/2021/blg-0094/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0094,Exodata/PSPL/KMT/2021/blg-0094/KMTS41_I.pysis,PSPL,1
+KMT,KMT-0094,Exodata/PSPL/KMT/2021/blg-0094/KMTA41_I.pysis,PSPL,1
+KMT,KMT-0094,Exodata/PSPL/KMT/2021/blg-0094/KMTA01_I.pysis,PSPL,1
+KMT,KMT-0094,Exodata/PSPL/KMT/2021/blg-0094/KMTC41_I.pysis,PSPL,1
+KMT,KMT-0094,Exodata/PSPL/KMT/2021/blg-0094/KMTS01_I.pysis,PSPL,1
+KMT,KMT-0067,Exodata/PSPL/KMT/2021/blg-0067/KMTA20_I.pysis,PSPL,1
+KMT,KMT-0067,Exodata/PSPL/KMT/2021/blg-0067/KMTS20_I.pysis,PSPL,1
+KMT,KMT-0067,Exodata/PSPL/KMT/2021/blg-0067/KMTC20_I.pysis,PSPL,1
+KMT,KMT-0093,Exodata/PSPL/KMT/2021/blg-0093/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0093,Exodata/PSPL/KMT/2021/blg-0093/KMTS41_I.pysis,PSPL,1
+KMT,KMT-0093,Exodata/PSPL/KMT/2021/blg-0093/KMTA41_I.pysis,PSPL,1
+KMT,KMT-0093,Exodata/PSPL/KMT/2021/blg-0093/KMTA01_I.pysis,PSPL,1
+KMT,KMT-0093,Exodata/PSPL/KMT/2021/blg-0093/KMTC41_I.pysis,PSPL,1
+KMT,KMT-0093,Exodata/PSPL/KMT/2021/blg-0093/KMTS01_I.pysis,PSPL,1
+KMT,KMT-0051,Exodata/PSPL/KMT/2021/blg-0051/KMTC02_I.pysis,PSPL,1
+KMT,KMT-0051,Exodata/PSPL/KMT/2021/blg-0051/KMTS02_I.pysis,PSPL,1
+KMT,KMT-0051,Exodata/PSPL/KMT/2021/blg-0051/KMTA02_I.pysis,PSPL,1
+KMT,KMT-0074,Exodata/PSPL/KMT/2021/blg-0074/KMTC34_I.pysis,PSPL,1
+KMT,KMT-0074,Exodata/PSPL/KMT/2021/blg-0074/KMTS34_I.pysis,PSPL,1
+KMT,KMT-0073,Exodata/PSPL/KMT/2021/blg-0073/KMTS32_I.pysis,PSPL,1
+KMT,KMT-0073,Exodata/PSPL/KMT/2021/blg-0073/KMTC32_I.pysis,PSPL,1
+KMT,KMT-0087,Exodata/PSPL/KMT/2021/blg-0087/KMTA43_I.pysis,PSPL,1
+KMT,KMT-0087,Exodata/PSPL/KMT/2021/blg-0087/KMTS43_I.pysis,PSPL,1
+KMT,KMT-0087,Exodata/PSPL/KMT/2021/blg-0087/KMTC03_I.pysis,PSPL,1
+KMT,KMT-0087,Exodata/PSPL/KMT/2021/blg-0087/KMTS03_I.pysis,PSPL,1
+KMT,KMT-0087,Exodata/PSPL/KMT/2021/blg-0087/KMTC43_I.pysis,PSPL,1
+KMT,KMT-0087,Exodata/PSPL/KMT/2021/blg-0087/KMTA03_I.pysis,PSPL,1
+KMT,KMT-0045,Exodata/PSPL/KMT/2021/blg-0045/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0045,Exodata/PSPL/KMT/2021/blg-0045/KMTS41_I.pysis,PSPL,1
+KMT,KMT-0045,Exodata/PSPL/KMT/2021/blg-0045/KMTC41_I.pysis,PSPL,1
+KMT,KMT-0045,Exodata/PSPL/KMT/2021/blg-0045/KMTS01_I.pysis,PSPL,1
+KMT,KMT-0089,Exodata/PSPL/KMT/2021/blg-0089/KMTA43_I.pysis,PSPL,1
+KMT,KMT-0089,Exodata/PSPL/KMT/2021/blg-0089/KMTS43_I.pysis,PSPL,1
+KMT,KMT-0089,Exodata/PSPL/KMT/2021/blg-0089/KMTC03_I.pysis,PSPL,1
+KMT,KMT-0089,Exodata/PSPL/KMT/2021/blg-0089/KMTS03_I.pysis,PSPL,1
+KMT,KMT-0089,Exodata/PSPL/KMT/2021/blg-0089/KMTC43_I.pysis,PSPL,1
+KMT,KMT-0089,Exodata/PSPL/KMT/2021/blg-0089/KMTA03_I.pysis,PSPL,1
+KMT,KMT-0016,Exodata/PSPL/KMT/2021/blg-0016/KMTC11_I.pysis,PSPL,1
+KMT,KMT-0016,Exodata/PSPL/KMT/2021/blg-0016/KMTS11_I.pysis,PSPL,1
+KMT,KMT-0011,Exodata/PSPL/KMT/2021/blg-0011/KMTC02_I.pysis,PSPL,1
+KMT,KMT-0011,Exodata/PSPL/KMT/2021/blg-0011/KMTS42_I.pysis,PSPL,1
+KMT,KMT-0011,Exodata/PSPL/KMT/2021/blg-0011/KMTC42_I.pysis,PSPL,1
+KMT,KMT-0011,Exodata/PSPL/KMT/2021/blg-0011/KMTS02_I.pysis,PSPL,1
+KMT,KMT-0018,Exodata/PSPL/KMT/2021/blg-0018/KMTS14_I.pysis,PSPL,1
+KMT,KMT-0018,Exodata/PSPL/KMT/2021/blg-0018/KMTA14_I.pysis,PSPL,1
+KMT,KMT-0018,Exodata/PSPL/KMT/2021/blg-0018/KMTC14_I.pysis,PSPL,1
+KMT,KMT-0043,Exodata/PSPL/KMT/2021/blg-0043/KMTC35_I.pysis,PSPL,1
+KMT,KMT-0043,Exodata/PSPL/KMT/2021/blg-0043/KMTS35_I.pysis,PSPL,1
+KMT,KMT-0043,Exodata/PSPL/KMT/2021/blg-0043/KMTA35_I.pysis,PSPL,1
+KMT,KMT-0088,Exodata/PSPL/KMT/2021/blg-0088/KMTC03_I.pysis,PSPL,1
+KMT,KMT-0088,Exodata/PSPL/KMT/2021/blg-0088/KMTC43_I.pysis,PSPL,1
+KMT,KMT-0044,Exodata/PSPL/KMT/2021/blg-0044/KMTS38_I.pysis,PSPL,1
+KMT,KMT-0044,Exodata/PSPL/KMT/2021/blg-0044/KMTC38_I.pysis,PSPL,1
+KMT,KMT-0086,Exodata/PSPL/KMT/2021/blg-0086/KMTC03_I.pysis,PSPL,1
+KMT,KMT-0086,Exodata/PSPL/KMT/2021/blg-0086/KMTS03_I.pysis,PSPL,1
+KMT,KMT-0086,Exodata/PSPL/KMT/2021/blg-0086/KMTC43_I.pysis,PSPL,1
+KMT,KMT-0072,Exodata/PSPL/KMT/2021/blg-0072/KMTS32_I.pysis,PSPL,1
+KMT,KMT-0072,Exodata/PSPL/KMT/2021/blg-0072/KMTC32_I.pysis,PSPL,1
+KMT,KMT-0010,Exodata/PSPL/KMT/2021/blg-0010/KMTA42_I.pysis,PSPL,1
+KMT,KMT-0010,Exodata/PSPL/KMT/2021/blg-0010/KMTC02_I.pysis,PSPL,1
+KMT,KMT-0010,Exodata/PSPL/KMT/2021/blg-0010/KMTS42_I.pysis,PSPL,1
+KMT,KMT-0010,Exodata/PSPL/KMT/2021/blg-0010/KMTC42_I.pysis,PSPL,1
+KMT,KMT-0010,Exodata/PSPL/KMT/2021/blg-0010/KMTS02_I.pysis,PSPL,1
+KMT,KMT-0010,Exodata/PSPL/KMT/2021/blg-0010/KMTA02_I.pysis,PSPL,1
+KMT,KMT-0017,Exodata/PSPL/KMT/2021/blg-0017/KMTS14_I.pysis,PSPL,1
+KMT,KMT-0017,Exodata/PSPL/KMT/2021/blg-0017/KMTA14_I.pysis,PSPL,1
+KMT,KMT-0017,Exodata/PSPL/KMT/2021/blg-0017/KMTC14_I.pysis,PSPL,1
+KMT,KMT-0009,Exodata/PSPL/KMT/2023/blg-0009/KMTA42_I.pysis,PSPL,1
+KMT,KMT-0009,Exodata/PSPL/KMT/2023/blg-0009/KMTC02_I.pysis,PSPL,1
+KMT,KMT-0009,Exodata/PSPL/KMT/2023/blg-0009/KMTS42_I.pysis,PSPL,1
+KMT,KMT-0009,Exodata/PSPL/KMT/2023/blg-0009/KMTC42_I.pysis,PSPL,1
+KMT,KMT-0009,Exodata/PSPL/KMT/2023/blg-0009/KMTS02_I.pysis,PSPL,1
+KMT,KMT-0009,Exodata/PSPL/KMT/2023/blg-0009/KMTA02_I.pysis,PSPL,1
+KMT,KMT-0001,Exodata/PSPL/KMT/2023/blg-0001/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0001,Exodata/PSPL/KMT/2023/blg-0001/KMTS41_I.pysis,PSPL,1
+KMT,KMT-0001,Exodata/PSPL/KMT/2023/blg-0001/KMTA41_I.pysis,PSPL,1
+KMT,KMT-0001,Exodata/PSPL/KMT/2023/blg-0001/KMTA01_I.pysis,PSPL,1
+KMT,KMT-0001,Exodata/PSPL/KMT/2023/blg-0001/KMTC41_I.pysis,PSPL,1
+KMT,KMT-0001,Exodata/PSPL/KMT/2023/blg-0001/KMTS01_I.pysis,PSPL,1
+KMT,KMT-0354,Exodata/PSPL/KMT/2023/blg-0354/KMTC35_I.pysis,PSPL,1
+KMT,KMT-0354,Exodata/PSPL/KMT/2023/blg-0354/KMTS35_I.pysis,PSPL,1
+KMT,KMT-0354,Exodata/PSPL/KMT/2023/blg-0354/KMTA35_I.pysis,PSPL,1
+KMT,KMT-0025,Exodata/PSPL/KMT/2023/blg-0025/KMTC11_I.pysis,PSPL,1
+KMT,KMT-0025,Exodata/PSPL/KMT/2023/blg-0025/KMTA11_I.pysis,PSPL,1
+KMT,KMT-0025,Exodata/PSPL/KMT/2023/blg-0025/KMTS11_I.pysis,PSPL,1
+KMT,KMT-0484,Exodata/PSPL/KMT/2023/blg-0484/KMTC02_I.pysis,PSPL,1
+KMT,KMT-0484,Exodata/PSPL/KMT/2023/blg-0484/KMTS42_I.pysis,PSPL,1
+KMT,KMT-0484,Exodata/PSPL/KMT/2023/blg-0484/KMTC42_I.pysis,PSPL,1
+KMT,KMT-0484,Exodata/PSPL/KMT/2023/blg-0484/KMTS02_I.pysis,PSPL,1
+KMT,KMT-0484,Exodata/PSPL/KMT/2023/blg-0484/KMTA02_I.pysis,PSPL,1
+KMT,KMT-0047,Exodata/PSPL/KMT/2023/blg-0047/KMTC19_I.pysis,PSPL,1
+KMT,KMT-0047,Exodata/PSPL/KMT/2023/blg-0047/KMTA19_I.pysis,PSPL,1
+KMT,KMT-0047,Exodata/PSPL/KMT/2023/blg-0047/KMTS19_I.pysis,PSPL,1
+KMT,KMT-0002,Exodata/PSPL/KMT/2023/blg-0002/KMTC01_I.pysis,PSPL,1
+KMT,KMT-0002,Exodata/PSPL/KMT/2023/blg-0002/KMTS41_I.pysis,PSPL,1
+KMT,KMT-0002,Exodata/PSPL/KMT/2023/blg-0002/KMTA41_I.pysis,PSPL,1
+KMT,KMT-0002,Exodata/PSPL/KMT/2023/blg-0002/KMTA01_I.pysis,PSPL,1
+KMT,KMT-0002,Exodata/PSPL/KMT/2023/blg-0002/KMTC41_I.pysis,PSPL,1
+KMT,KMT-0002,Exodata/PSPL/KMT/2023/blg-0002/KMTS01_I.pysis,PSPL,1
+KMT,KMT-0033,Exodata/PSPL/KMT/2023/blg-0033/KMTS14_I.pysis,PSPL,1
+KMT,KMT-0033,Exodata/PSPL/KMT/2023/blg-0033/KMTA14_I.pysis,PSPL,1
+KMT,KMT-0033,Exodata/PSPL/KMT/2023/blg-0033/KMTC14_I.pysis,PSPL,1
+KMT,KMT-0058,Exodata/PSPL/KMT/2023/blg-0058/KMTS32_I.pysis,PSPL,1
+KMT,KMT-0058,Exodata/PSPL/KMT/2023/blg-0058/KMTA32_I.pysis,PSPL,1
+KMT,KMT-0058,Exodata/PSPL/KMT/2023/blg-0058/KMTC32_I.pysis,PSPL,1
+KMT,KMT-0311,Exodata/PSPL/KMT/2023/blg-0311/KMTA31_I.pysis,PSPL,1
+KMT,KMT-0311,Exodata/PSPL/KMT/2023/blg-0311/KMTS31_I.pysis,PSPL,1
+KMT,KMT-0311,Exodata/PSPL/KMT/2023/blg-0311/KMTC31_I.pysis,PSPL,1
+KMT,KMT-0514,Exodata/PSPL/KMT/2023/blg-0514/KMTC18_I.pysis,PSPL,1
+KMT,KMT-0410,Exodata/PSPL/KMT/2023/blg-0410/KMTC18_I.pysis,PSPL,1
+KMT,KMT-0410,Exodata/PSPL/KMT/2023/blg-0410/KMTA18_I.pysis,PSPL,1
+KMT,KMT-0410,Exodata/PSPL/KMT/2023/blg-0410/KMTS18_I.pysis,PSPL,1
+KMT,KMT-0426,Exodata/PSPL/KMT/2023/blg-0426/KMTS22_I.pysis,PSPL,1
+KMT,KMT-0426,Exodata/PSPL/KMT/2023/blg-0426/KMTA22_I.pysis,PSPL,1
+KMT,KMT-0426,Exodata/PSPL/KMT/2023/blg-0426/KMTC22_I.pysis,PSPL,1
+KMT,KMT-0215,Exodata/PSPL/KMT/2023/blg-0215/KMTS15_I.pysis,PSPL,1
+KMT,KMT-0215,Exodata/PSPL/KMT/2023/blg-0215/KMTC15_I.pysis,PSPL,1
+KMT,KMT-0278,Exodata/PSPL/KMT/2023/blg-0278/KMTA42_I.pysis,PSPL,1
+KMT,KMT-0278,Exodata/PSPL/KMT/2023/blg-0278/KMTA43_I.pysis,PSPL,1
+KMT,KMT-0278,Exodata/PSPL/KMT/2023/blg-0278/KMTS43_I.pysis,PSPL,1
+KMT,KMT-0278,Exodata/PSPL/KMT/2023/blg-0278/KMTC02_I.pysis,PSPL,1
+KMT,KMT-0278,Exodata/PSPL/KMT/2023/blg-0278/KMTS42_I.pysis,PSPL,1
+KMT,KMT-0278,Exodata/PSPL/KMT/2023/blg-0278/KMTC03_I.pysis,PSPL,1
+KMT,KMT-0278,Exodata/PSPL/KMT/2023/blg-0278/KMTS03_I.pysis,PSPL,1
+KMT,KMT-0278,Exodata/PSPL/KMT/2023/blg-0278/KMTC42_I.pysis,PSPL,1
+KMT,KMT-0278,Exodata/PSPL/KMT/2023/blg-0278/KMTS02_I.pysis,PSPL,1
+KMT,KMT-0278,Exodata/PSPL/KMT/2023/blg-0278/KMTC43_I.pysis,PSPL,1
+KMT,KMT-0278,Exodata/PSPL/KMT/2023/blg-0278/KMTA02_I.pysis,PSPL,1
+KMT,KMT-0278,Exodata/PSPL/KMT/2023/blg-0278/KMTA03_I.pysis,PSPL,1
